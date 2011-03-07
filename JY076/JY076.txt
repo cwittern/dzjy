@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY076
 #+TITLE:黃庭外景經 Huanting Waijing Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY076_01p021a>¶
 
 * 黃庭外景經¶

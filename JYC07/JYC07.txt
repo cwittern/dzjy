@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC07
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC07_01p001a>¶
 道門一切經總目¶
 　　　卷一¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY258
 #+TITLE:文昌延嗣經 Wenchang Yansi Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY258_01p026a>¶
 文昌延嗣經序¶
 孟子云不孝有三無後爲大善哉是言也知斯言之爲要則知¶

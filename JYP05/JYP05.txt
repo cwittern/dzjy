@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP05
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYP05_01p009a>¶
 道藏輯要原序¶
 至哉道乎先天地生故苞天地超萬古存故貫萬古乾以之闢¶

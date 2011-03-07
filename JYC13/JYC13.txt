@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC13
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC13_01p003b>¶
 古今𨓜史四十種道家書目附(明新安吳琯刻本)¶
 　　　　　　　　　　　井研賀龍驤抄¶

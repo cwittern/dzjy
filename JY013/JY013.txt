@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY013
 #+TITLE:元始上帝毘盧遮耶說大洞救劫尊經 Yuanshi Shangdi Piluzheye Shuo Dadong Jiujie Zunjing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY013_01p056a>¶
 @fw1重刋道藏輯要¶
 
@@ -36,7 +36,7 @@
 至尊曰劫也曰何劫¶
 <pb:CK-KZ_JY013_01p057a>¶
 
-至尊曰此輪{「輪」から「塵」までの四文字、印刷状態悪い}迴劫塵凡之第一劫也其劫輪轉而不克息象有¶
+至尊曰此輪迴劫塵凡之第一劫也其劫輪轉而不克息象有¶
 若車軸然而所立之八人者貧賤富貴夀殀勞逸塵凡於此盡¶
 之輪迴卽於此轉之夜光聞是語已頓得開悟又復稽首請曰¶
 敢問此劫可以救否¶

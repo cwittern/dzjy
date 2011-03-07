@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP01
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYP01_01p001a>¶
 重刋道藏輯要序¶
 道賴人顯亦賴書傳亘古迄今勢所不易所患者有人無書而¶

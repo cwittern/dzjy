@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC10
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC10_01p001a>¶
 欽定四庫提要道家類存目總目¶
 　　　　　　　　　　　　井研賀龍驤抄¶

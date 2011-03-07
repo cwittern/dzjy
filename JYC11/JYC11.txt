@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC11
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC11_01p001a>¶
 　　欽定道藏全書總目序¶
 按鄭樵通志道家類有目錄一條内載隋道書總目四巻分經¶

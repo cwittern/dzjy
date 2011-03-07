@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP12
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYP12_01p013a>¶
 世宗憲皇帝御選當今法會王大臣八人錄后(儒)¶
 皇十六弟莊親王愛月居士¶

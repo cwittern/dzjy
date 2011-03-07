@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY113
 #+TITLE:金碧古文龍虎上經 Jinbi Guwen Longhu Shangjing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY113_01p095a>¶
 
 * 金碧古文龍虎上經𤣥解序¶

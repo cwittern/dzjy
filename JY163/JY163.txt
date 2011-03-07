@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY163
 #+TITLE:五經合編 Wujing Hebian
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY163_01p001a>¶
 
 * 五經合編序¶
@@ -27,7 +27,7 @@
 仙師用心之普度無邊眞與¶
 
 大士之心無兩也爰[言*巳]此爲壇中諸法子一証以共襄斯典云¶
-三山笛史韓湘書{YP_Zでは「後跋」の次に有り。p53a}¶
+三山笛史韓湘書¶
 <pb:CK-KZ_JY163_01p002a>¶
 
 * 五經合編題詞¶

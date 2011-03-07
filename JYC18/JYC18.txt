@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC18
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC18_01p023a>¶
 國朝坊刻道書目錄(坿○)¶
 　　　　　　　　　　井研賀龍驤初輯¶

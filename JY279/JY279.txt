@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY279
 #+TITLE:警世功過格 Jingshi Gongguo Ge
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY279_01p058a>¶
 　警世功過格¶
 孚佑上帝純陽吕祖天師示定¶

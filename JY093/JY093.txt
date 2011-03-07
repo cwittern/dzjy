@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY093
 #+TITLE:高上玉皇心印經 Gaoshang Yuhuang Xinyin Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JY093_01p018a>¶
 
 * 心印經序¶

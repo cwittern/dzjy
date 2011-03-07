@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC20
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC20_01p028a>¶
 文獻通考道家書目(附○)¶
 　　　　　　　　　　　鄱陽馬端臨貴與著¶

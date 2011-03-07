@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP08
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYP08_01p005a>¶
 世宗憲皇帝御製和碩雍親王圓明居士語錄序(儒)¶
 夫本妙明心大圓覺海非見聞知解所可通故無語言文字之¶

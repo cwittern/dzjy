@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY250
 #+TITLE:太極圖說 Taiji Tu Shuo
 #+WITNESS: CK-BS JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-BS_JY250_01p001a>¶
 重刋道藏輯要¶
 太極圖(周子作　朱子注)¶

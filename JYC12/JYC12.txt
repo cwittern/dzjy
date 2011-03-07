@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC12
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC12_01p001a>¶
 漢魏叢書道家書目¶
 　　　　　　　　　井研賀龍驤抄¶

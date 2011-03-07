@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC05
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: 
+#+BASEEDITION: CK
 <pb:CK-KZ_JYC05_01p057a>¶
 女丹合編通俗序¶
 易曰有天地卽有男女又曰乾道成男坤道成女曰天地曰乾¶
