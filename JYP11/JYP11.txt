@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP11
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYP11_01p011a>¶
 世宗憲皇帝󼶳選當今法會序(儒釋道)¶
 朕自去臘閱宗乘之書因選輯從上古德語錄聽政餘間嘗與¶

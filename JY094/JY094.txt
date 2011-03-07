@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY094
 #+TITLE:玉皇心印經 Yuhuang Xinyin Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY094_01p025a>¶
 
 * 玉皇心印經注序¶

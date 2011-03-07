@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY110
 #+TITLE:玄宗正旨 Xuanzong Zhengzhi
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY110_01p001a>¶
 
 * 𤣥宗正旨序¶

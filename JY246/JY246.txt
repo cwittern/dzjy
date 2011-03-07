@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY246
 #+TITLE:懺法大觀 Chanfa Daguan
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY246_01p001a>¶
 懴法大觀序¶
 粵自¶

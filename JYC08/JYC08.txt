@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC08
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYC08_01p001a>¶
 欽定四庫全書道家類簡明目錄¶
 　　　　　　　　　　　　井研賀龍驤抄¶

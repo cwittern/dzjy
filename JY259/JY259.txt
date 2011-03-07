@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY259
 #+TITLE:陰騭文註 Yinzhi Wen Zhu
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY259_01p036a>¶
 陰隲文註¶
 　　　　　　　　　　　　　大興朱　珪石君敬校¶

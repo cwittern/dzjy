@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY159
 #+TITLE:十六品經 Shiliupin Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY159_01p001a>¶
 
 * 十六品經序¶

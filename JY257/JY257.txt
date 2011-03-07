@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY257
 #+TITLE:元皇大道真君救劫寶經 Yuanhuang Dadao Zhenjun Jiujie Baojing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY257_01p018a>¶
 元皇大道眞君救劫寶經¶
 　　　　　　　　　　　　　　大興朱　珪石君敬校¶

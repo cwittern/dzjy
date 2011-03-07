@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY245
 #+TITLE:心傳述證錄 Xinchuan Shuzheng Lu
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY245_01p002a>¶
 重刋道藏輯要¶
 心傳述證錄　　　　　　　　　　　　梅芳老人輯¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY074
 #+TITLE:太上黃庭內景玉經 Taishang Huangting Neijing Yujing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY074_01p001a>¶
 
 * 太上黃庭內景玉經序¶

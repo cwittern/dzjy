@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY102
 #+TITLE:觀音大士蓮船經 Guanyin Dashi Lianchuan Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY102_01p001a>¶
 @fw1增刻道藏輯要¶
 

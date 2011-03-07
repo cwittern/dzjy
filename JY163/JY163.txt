@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY163
 #+TITLE:五經合編 Wujing Hebian
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY163_01p001a>¶
 
 * 五經合編序¶

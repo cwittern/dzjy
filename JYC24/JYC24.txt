@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC24
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYC24_01p104a>¶
 皇朝文獻通考道家書目(附○)¶
 　　　　　　　　　　　井　研　賀　龍　驤　抄¶

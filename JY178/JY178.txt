@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY178
 #+TITLE:金丹四百字 Jindan Sibaizi
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY178_01p050a>¶
 
 * 金丹四百字序¶

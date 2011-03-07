@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP09
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYP09_01p007a>¶
 世宗憲皇帝御選大慈圓通禪仙紫陽眞人張平叔語錄序(道)¶
 紫陽眞人作悟眞篇以明𤣥門秘要復作頌偈等三十二篇一¶

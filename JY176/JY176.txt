@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY176
 #+TITLE:悟真篇拾遺 Wuzhen Pian Shiyi
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY176_01p024a>¶
 
 * 悟眞篇拾遺¶

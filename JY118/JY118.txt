@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY118
 #+TITLE:黃帝陰符經 Huangdi Yinfu Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY118_01p060a>¶
 
 * 黃帝陰符經¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY174
 #+TITLE:玉清金笥青華祕文金寶內鍊丹法 Yuqing Jinsi Qinghua Biwen Jinbao Neilian Danfa
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY174_01p004a>¶
 
 * 　玉淸金笥靑華秘文金寶內鍊丹法題辭¶

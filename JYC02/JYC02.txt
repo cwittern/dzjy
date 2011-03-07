@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC02
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYC02_01p021a>¶
 重刋道藏輯要子目初編總目¶
 道藏輯要子目初編四卷¶

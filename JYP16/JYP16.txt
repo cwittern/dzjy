@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP16
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYP16_01p017a>¶
 校勘道藏輯要書後¶
 驤以腐儒自幼聽先君讀佛老書喜其中言性命之旨造化之¶

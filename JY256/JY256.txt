@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY256
 #+TITLE:文帝孝經 Wendi Xiaojing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY256_01p001a>¶
 文帝孝經原序¶
 帝君以至孝而居文昌上位一十七世爲士大夫身現九十七¶

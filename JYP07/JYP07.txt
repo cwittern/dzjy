@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP07
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYP07_01p001a>¶
 　　雍正十一年二月十五日奉¶
 上諭朕惟三教之覺民於海内也理同出於一原道並　而不¶

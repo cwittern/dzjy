@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY149
 #+TITLE:鍾呂傳道集 Zhong Lü Chuandao Ji
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JY149_01p001a>¶
 
 * 鍾吕傳道集¶

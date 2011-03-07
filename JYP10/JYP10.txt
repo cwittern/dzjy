@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP10
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYP10_01p009a>¶
 世宗憲皇帝御選雲棲蓮池宏袾大師語錄序(釋)¶
 達摩未到梁土以前北則什公弟子講譯經文南則蓮社諸賢¶
