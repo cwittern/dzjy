@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP04
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JYP04_01p007a>¶
 道藏輯要原序¶
 天下言之而可以已於言者非天下之至言也不容已於言而¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP03
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JYP03_01p006a>¶
 觀音大士弁言¶
 老衲與師相同一矢愿度盡眾生共啟覺壇以[宏-⼂]正化幸教者¶

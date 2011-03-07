@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY253
 #+TITLE:擊壤集 Jirang Ji
 #+WITNESS: CK-BS JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-BS_JY253_01p001a>¶
 重刋道藏輯要¶
 　擊壤集¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY120
 #+TITLE:陰符玄解 Yinfu Xuanjie
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY120_01p001a>¶
 
 * 陰符𤣥解自序¶

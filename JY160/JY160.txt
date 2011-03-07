@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY160
 #+TITLE:呂祖本傳 Lüzu Benzhuan
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY160_01p001a>¶
 
 * 　序¶

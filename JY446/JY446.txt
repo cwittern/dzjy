@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY446
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY446_07p111b>¶
 井神周薄海三千活芝陽之松回林檎之槁千秋道範萬古眞¶
 宗自是而外更有¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP02
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JYP02_01p004a>¶
 道藏輯要原序¶
 老子駕八景之車冠七曜之冠肩浮離之帔建流霄天皇丹節¶

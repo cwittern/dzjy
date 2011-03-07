@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY249
 #+TITLE:漢丞相諸葛忠武侯集 Han Chengxiang Zhuge Zhong Wuhou Ji
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY249_01p001a>¶
 漢丞相諸葛忠武侯集敘¶
 𦏁垂髫時父卽示以祖長史公與伯父大行公所手鈔羅相忠¶
