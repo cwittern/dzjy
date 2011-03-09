@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY114
-#+TITLE::i:唱道真:d:言 Changdao Zhenyan
+#+TITLE:唱道真言 Changdao Zhenyan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY114_01p001a>¶

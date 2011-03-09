@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY056
-#+TITLE::i:太上道德大天尊說道元一:d:氣經 Taishang Daode Tianzun Shuo Daoyuan Yiqi Jing
+#+TITLE:太上道德大天尊說道元一氣經 Taishang Daode Tianzun Shuo Daoyuan Yiqi Jing
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY056_01p005a>¶

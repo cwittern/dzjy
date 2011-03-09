@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY154
-#+TITLE::d:葛仙翁太極沖玄至道心傳 Ge Xianweng Taiji Chongxuan Zhidao Xinchuan
+#+TITLE:葛仙翁太極沖玄至道心傳 Ge Xianweng Taiji Chongxuan Zhidao Xinchuan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY154_01p001a>¶
@@ -749,7 +749,7 @@
 龍養珠，念茲在茲。念不可起，念起則火炎。意不可㪚，意㪚則火¶
 冷。但使無過不及，操捨得中，日行二卦，朝屯暮䝉。故曰：『火候六¶
 百遍，遍遍相似。』遇有丹火發𤍠，存眉中有一黑毬眞水，收入鼎¶
-中，其:d:𤍠自退。十月滿足，嬰兒顯象，移神換鼎，調神出殻。次第行¶
+中，其𤍠自退。十月滿足，嬰兒顯象，移神換鼎，調神出殻。次第行¶
 之，聖胎顯化，其妙無窮矣。¶
 ¶	
 ¶	

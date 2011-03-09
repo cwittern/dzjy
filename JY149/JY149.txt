@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY149
-#+TITLE::i:鍾呂:d:傳道集 Zhong Lü Chuandao Ji
+#+TITLE:鍾呂傳道集 Zhong Lü Chuandao Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY149_01p001a>¶
