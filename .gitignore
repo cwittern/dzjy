@@ -21,3 +21,5 @@ session*
 tramp
 \#*
 \.#*
+*~
+index.log
