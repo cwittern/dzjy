@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYP17
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: CK
+#+BASEEDITION: JYE
 <pb:CK-KZ_JYP17_01p020a>¶
 重刋道藏輯要子目初編序¶
 目錄之學厯有專家自漢劉向別錄劉歆七略創爲分別部居¶
