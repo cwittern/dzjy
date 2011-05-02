@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC23
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JYC23_01p101a>¶
 欽定續文獻通考道家書目(附○)¶
 　　　　　　　　　　　　　井研賀龍驤抄¶

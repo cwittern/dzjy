@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY087
 #+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY087_01p001a>¶
 玉皇本行集經序¶
 
@@ -3770,8 +3770,13 @@
 
 大丞相及¶
 
+<<<<<<< HEAD
 文帝詮註已無遺藴，故仍卽訓言釋繹，使讀是經者知從事於¶
 　治心之法，卽仰合乎¶
+=======
+文帝詮註已無遺藴故仍卽訓言紬繹使讀是經者知從事於¶
+　治心之法卽仰合乎¶
+>>>>>>> 95a7c2593da2fc9a6dc0275027ad035bedbc75e9
 <pb:CK-KZ_JY087_06p040b>¶
 
 玉皇之本行，而深副乎¶

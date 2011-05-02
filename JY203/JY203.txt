@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY203
 #+TITLE:孫不二元君法語 Sun Bu'Er Yuanjun Fayu
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY203_01p108a>¶
 孫不二元君法語¶
 淸淨散人著¶

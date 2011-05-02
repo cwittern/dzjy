@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC16
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JYC16_01p001a>¶
 直齋書錄解題道家書目¶
 　　　　　　　　　　　　　宋陳振孫甫撰¶

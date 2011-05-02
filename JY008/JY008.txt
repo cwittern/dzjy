@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY008
 #+TITLE:元始大洞玉經 Yuanshi Dadong Yujing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY008_01p001a>¶
 
 * 元始大洞玉經序¶

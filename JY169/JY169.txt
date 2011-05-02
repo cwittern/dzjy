@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY169
 #+TITLE:微言摘要 Weiyan Zhaiyao
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY169_01p073a>¶
 
 * 《微言摘要》序¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY255
 #+TITLE:文帝化書 Wendi Huashu
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY255_01p014a>¶
 　　文帝化書事跡原序¶
 化有二理有變化之化有教化之化自無入有自昔爲今以幼¶
