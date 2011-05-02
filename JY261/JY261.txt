@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY261
 #+TITLE:關聖帝君本傳 Guansheng Dijun Benzhuan
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY261_01p001a>¶
 關聖帝君本傳(輯全書)　　　　　　　　崇德弟子纂述¶
 帝字雲長一字長生河東解梁寶池下里馮村人乃夏大夫關¶

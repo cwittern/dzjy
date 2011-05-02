@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY170
 #+TITLE::i:呂帝聖蹟紀要 Lüdi Shengji Jiyao
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY170_01p001a>¶
 
 * 呂帝《聖蹟紀要題詞《¶

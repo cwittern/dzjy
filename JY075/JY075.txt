@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY075
 #+TITLE:黃庭内景經 Huangting Neijing Jing
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY075_01p001a>¶
 
 * 黃庭經注序¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JYC06
 #+TITLE:
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JYC06_01p063a>¶
 女丹合編子目五卷¶
 　　　　　　　　井　研　賀　龍　驤　初　輯¶
