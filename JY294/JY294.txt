@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY294
 #+TITLE:青羊宮碑記 Qingyang Gong Beiji
 #+WITNESS: CK-KZ JYE
-#+BASEEDITION: JYE
+#+BASEEDITION: YP
 <pb:CK-KZ_JY294_01p001a>¶
 　　重修青羊萬夀宫碑記¶
 　　　(巡撫四川等處地方兼理糧餉工部尙書兼都察院右副都御史授爲從一品服俸張德地撰)¶
@@ -282,7 +282,7 @@
 耳因立石而爲之記¶
 重開武侯祠長州道人張淸夜幷書¶
 <pb:CK-KZ_JY294_01p013b>¶
-大淸乾隆四年嵗次己未秋九月　　　　　　　　　刋立¶
+大淸乾隆四年嵗次已未秋九月　　　　　　　　　刋立¶
 ¶	
 ¶	
 ¶	
