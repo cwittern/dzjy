@@ -4,7 +4,7 @@
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JYC16_01p001a>¶
-直齋書錄解題道家書目¶
+* 直齋書錄解題道家書目¶
 　　　　　　　　　　　　　宋陳振孫甫撰¶
 　　　　　　　　　　　　　井研賀龍驤抄¶
 老子道德經二巻¶

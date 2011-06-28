@@ -4,7 +4,7 @@
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JYC14_01p001a>¶
-汲古閣珍藏秘本道家書目¶
+* 汲古閣珍藏秘本道家書目¶
 　　　　　　　　　　　　井研賀龍驤抄¶
 　靈臺秘苑摘要¶
 　天文三鏡錄¶
