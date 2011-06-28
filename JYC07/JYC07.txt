@@ -4,7 +4,7 @@
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JYC07_01p001a>¶
-道門一切經總目¶
+* 道門一切經總目¶
 　　　卷一¶
 　　欽定四庫全書道家類簡明目錄¶
 　　欽定四庫提要道家總目¶
