@@ -1,11 +1,19 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY098
+<<<<<<< HEAD
 #+TITLE:玉清贊化九天演政心印集經 Yuqing Zanhua Jiutian Yanzheng Xinyin Jijing
+=======
+#+TITLE: 
+>>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
 #+WITNESS: YP-P JYE
 #+BASEEDITION: YP
 #+SEC: 01
 <pb:YP-P_JY098_01p001a>¶
+<<<<<<< HEAD
 * 經序¶
+=======
+經序¶
+>>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
 文昌帝君曰經以集名誌義也心印産子¶
 神母發于¶
 元始闡自大洞眞儒而冶以成文是集義所生者非義襲而取¶
