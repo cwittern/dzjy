@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY087
 #+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 05
 <pb:CK-KZ_JY087_05p001a>¶
 
@@ -11,6 +15,7 @@
 ** 　　開經讚¶
 
 #+BEGIN_VERSE
+<<<<<<< HEAD
 <<<<<<< HEAD
  大道洞玄虛，
  　有念無不契。
@@ -26,6 +31,8 @@
 #+END_VERSE
 
 =======
+=======
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
  大道洞𤣥虛
  　有念無不契
  　煉質入仙眞
@@ -39,5 +46,8 @@
 #+END_VERSE
 
 大聖玉皇赦罪大天尊(三稱三拜)¶
+<<<<<<< HEAD
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 ¶	

@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY279
 #+TITLE:警世功過格 Jingshi Gongguo Ge
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 02
 <pb:CK-KZ_JY279_02p083a>¶
 功過格後跋¶

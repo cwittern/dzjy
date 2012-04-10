@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 32
 <pb:CK-EX_JY265_32p001a>¶
 道藏輯要上淸靈寶文檢巻十二¶

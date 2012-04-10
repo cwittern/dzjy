@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY142
 #+TITLE:入藥鏡 Ruyao Jing
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 01
 <pb:CK-KZ_JY142_01p001a>¶
 

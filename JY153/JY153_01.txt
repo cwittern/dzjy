@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY153
 #+TITLE:化書 Huashu
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 01
 <pb:CK-KZ_JY153_01p001a>¶
 
@@ -19,5 +23,9 @@
 曰一誠立而神仙之術備是矣譚子作化書王君作化書新聲¶
 <pb:CK-KZ_JY153_01p001b>¶
 譚肇其始王衍其流譚君知化王君翼化二君其先後一轍者¶
+<<<<<<< HEAD
 夫吳之鵬序¶
+=======
+夫吳之鵬序{YP_Z錯簡あり。02_p02a_10の後にこの部分}¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 ¶	

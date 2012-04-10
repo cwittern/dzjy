@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY308
 #+TITLE:青城山記 Qingcheng Shan Ji
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 01
 <pb:CK-KZ_JY308_01p001a>¶
 靑城山記目錄¶
@@ -15,17 +19,25 @@
 　　　第二卷¶
 　　　　事實記上¶
 <<<<<<< HEAD
+<<<<<<< HEAD
 　　　　　隱逸¶
 =======
 　　　　　隱𨓜¶
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+　　　　　隱𨓜¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 <pb:CK-KZ_JY308_01p001b>¶
 　　　　事實記下¶
 　　　　　方技¶
 　　　　靑城山拾遺¶
 <<<<<<< HEAD
+<<<<<<< HEAD
 　　　　靑城逸事¶
 =======
 　　　　靑城𨓜事¶
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+　　　　靑城𨓜事¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 ¶	

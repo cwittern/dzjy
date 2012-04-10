@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY166
 #+TITLE:純陽三書 Chunyang Sanshu
 #+WITNESS: CK-BS JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 02
 <pb:CK-BS_JY166_02p001a>¶
 
@@ -20,10 +24,14 @@
 　　　道說五章¶
 　　　道說二章¶
 <<<<<<< HEAD
+<<<<<<< HEAD
 　　　諸眞會記¶
 =======
 　　　諸眞會[言*巳]¶
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+　　　諸眞會[言*巳]¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 　　　七言七首¶
 　　　五言四首¶
 　　　七言絕八十一首¶

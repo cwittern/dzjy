@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY236
 #+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 13
 <pb:CK-KZ_JY236_13p001a>¶
 三丰張眞人源流¶
@@ -26,10 +30,14 @@
 雲孫眞人深知時碧雲爲武當山住持與眞人來往多受眞人¶
 益眞人名達天庭　皇帝遣使屢召不赴惟以詩詞托碧雲奏¶
 <<<<<<< HEAD
+<<<<<<< HEAD
 之後以道授道人丘元靖不知所終¶
 =======
 之後以道授道人𠀉元靖不知所終¶
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+之後以道授道人𠀉元靖不知所終¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 <pb:CK-KZ_JY236_13p002a>¶
 　本仙鑑所載¶
 永樂皇帝訪三丰書¶

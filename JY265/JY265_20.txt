@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 20
 <pb:CK-EX_JY265_20p001a>¶
 上淸靈寶(文(檢卷之六¶
@@ -18,10 +22,14 @@
 <pb:CK-EX_JY265_20p001b>¶
 箋文類¶
 <<<<<<< HEAD
+<<<<<<< HEAD
 　藏棺箋　　　　滌穢箋　　　　建幕箋¶
 =======
 　藏棺箋　　　　滌[禾*𡻕]箋　　　　建幕箋¶
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+　藏棺箋　　　　滌[禾*𡻕]箋　　　　建幕箋¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 　謝幕箋　　　　啓𤣥箋　　　　啓三官箋¶
 　啓天師箋　　　啓三師箋　　　啓監齋箋¶
 　謝𤣥箋　　　　謝五帝箋　　　五師謝罪箋¶

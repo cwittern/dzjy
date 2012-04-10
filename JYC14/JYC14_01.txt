@@ -2,7 +2,11 @@
 #+EXPORT_ID: JYC14
 #+TITLE:
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 01
 <pb:CK-KZ_JYC14_01p001a>¶
 * 汲古閣珍藏秘本道家書目¶

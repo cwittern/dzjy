@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY087
 #+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
 #+WITNESS: CK-KZ JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 03
 <pb:CK-KZ_JY087_03p001a>¶
 
@@ -10,6 +14,7 @@
 
 ** 　開經讚¶
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #+BEGIN_VERSE
 太梵三天主，　虛皇五老尊。　尚難窺竅妙，　豈復入名言。¶
@@ -21,5 +26,10 @@
 寶座臨金殿　霞光照玉軒　萬神朝帝所　飛舄躡雲端¶
 大聖玉皇赦罪大天尊(三稱三拜)¶
 >>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
+=======
+太梵三天主　虛皇五老尊　尚難窺竅妙　豈復入名言¶
+寶座臨金殿　霞光照玉軒　萬神朝帝所　飛舄躡雲端¶
+大聖玉皇赦罪大天尊(三稱三拜)¶
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 ¶	
 ¶	

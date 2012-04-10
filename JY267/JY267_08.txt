@@ -2,7 +2,11 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: 
+>>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
 #+SEC: 08
 <pb:CK-EX_JY267_08p001a>¶
 𤣥宗通事雅宜集卷四¶
