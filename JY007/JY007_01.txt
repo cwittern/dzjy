@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY007
-#+TITLE:洞經示讀 Dongjing Shidu
+#+TITLE: 洞經示讀 Dongjing Shidu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY007_01p090a>¶

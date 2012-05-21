@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY013
-#+TITLE:元始上帝毘盧遮耶說大洞救劫尊經 Yuanshi Shangdi Piluzheye Shuo Dadong Jiujie Zunjing
+#+TITLE: 元始上帝毘盧遮耶說大洞救劫尊經 Yuanshi Shangdi Piluzheye Shuo Dadong Jiujie Zunjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY013_01p056a>¶

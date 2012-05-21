@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY006
-#+TITLE:元始大洞玉經 Yuanshi Dadong Yujing
+#+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY006_02p001a>¶
