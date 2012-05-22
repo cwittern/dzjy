@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 05
 <pb:CK-EX_JY267_05p004a>¶
 　　上九日代長生觀羽人慶祝¶

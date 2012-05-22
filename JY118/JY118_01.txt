@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY118
 #+TITLE:黃帝陰符經 Huangdi Yinfu Jing
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY118_01p060a>¶
 

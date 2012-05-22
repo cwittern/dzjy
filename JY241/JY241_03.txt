@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY241
 #+TITLE:養真集 Yangzhen Ji
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 03
 <pb:CK-KZ_JY241_03p031a>¶
 養眞集卷下¶

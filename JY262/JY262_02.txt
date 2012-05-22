@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY262
 #+TITLE:清微宏範道門功課 Qingwei Hongfan Daomen Gongke
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 02
 <pb:CK-KZ_JY262_02p001a>¶
 重刋道藏輯要¶

@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC09
 #+TITLE:
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JYC09_01p001a>¶
 欽定四庫提要道家總目¶

@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY168
 #+TITLE:語錄大觀 Yulu Daguan
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY168_01p113a>¶
 如此而已由是觀之豈不大乎豈不貴乎然而輪迴於三界出¶

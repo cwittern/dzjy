@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY120
 #+TITLE:陰符玄解 Yinfu Xuanjie
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY120_01p001a>¶
 

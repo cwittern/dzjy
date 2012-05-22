@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY294
 #+TITLE:青羊宮碑記 Qingyang Gong Beiji
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY294_01p001a>¶
 　　重修青羊萬夀宫碑記¶

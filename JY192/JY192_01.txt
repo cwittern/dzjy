@@ -9,7 +9,7 @@
 
 * 太公陰符經序¶
 =======
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 <pb:CK_JY192_01p001a>¶
 太公陰符經序¶
 >>>>>>> 95a7c2593da2fc9a6dc0275027ad035bedbc75e9

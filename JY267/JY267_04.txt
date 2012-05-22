@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 04
 <pb:CK-EX_JY267_04p001a>¶
 重刋道藏輯要𤣥宗通事雅宜集卷之二¶

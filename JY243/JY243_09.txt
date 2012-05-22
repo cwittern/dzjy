@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY243
 #+TITLE:玉詮 Yuquan
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 09
 <pb:CK-KZ_JY243_09p001a>¶
 正一天師¶

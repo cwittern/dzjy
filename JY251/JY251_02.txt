@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY251
 #+TITLE:通書 Tongshu
 #+WITNESS: CK-BS JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 02
 <pb:CK-BS_JY251_02p001a>¶
 通書(周子作　朱子注)¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY247
 #+TITLE:三寶萬靈法懺 Sanbao Wanling Fachan
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 18
 <pb:CK-KZ_JY247_18p001a>¶
 重刻道藏輯要¶

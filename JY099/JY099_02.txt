@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY099
 #+TITLE: 
 #+WITNESS: YP-P JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 02
 <pb:YP-P_JY099_02p001a>¶
 道藏輯要　　　　　　　　　　　　　　　箕集十一¶

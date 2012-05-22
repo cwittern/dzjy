@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY185
 #+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY185_01p001a>¶
 瓊琯白眞人集序¶

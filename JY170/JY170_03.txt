@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY170
 #+TITLE::i:呂帝聖蹟紀要 Lüdi Shengji Jiyao
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 03
 <pb:CK-KZ_JY170_03p001a>¶
 @fw1重刋道藏輯要¶

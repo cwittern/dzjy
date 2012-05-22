@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY052
 #+TITLE:道德經釋辭 Daodejing Shici
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 02
 <pb:CK-KZ_JY052_02p001a>¶
 @fw1重刋道藏輯要　　　　　　　　　　　心集九¶

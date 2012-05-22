@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY130
 #+TITLE:五百靈官爵位姓氏總錄 Wubai Lingguan Juewei Xingshi Zonglu
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY130_01p001a>¶
 

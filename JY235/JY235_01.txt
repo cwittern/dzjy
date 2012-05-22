@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY235
 #+TITLE:伍真人丹道九篇 Wu Zhenren Dandao Jiupian
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY235_01p020a>¶
 伍眞人丹道九篇緣起¶

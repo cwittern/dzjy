@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY310
 #+TITLE:天下名山記 Tianxia Mingshan Ji
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 06
 <pb:CK-KZ_JY310_06p001a>¶
 重刋道藏輯要¶

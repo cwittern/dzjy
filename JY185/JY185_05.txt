@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY185
 #+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 05
 <pb:CK-KZ_JY185_05p001a>¶
 重刋道藏輯要¶

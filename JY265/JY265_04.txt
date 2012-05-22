@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 04
 <pb:CK-EX_JY265_04p004a>¶
 序¶

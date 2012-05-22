@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY166
 #+TITLE:純陽三書 Chunyang Sanshu
 #+WITNESS: CK-BS JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 09
 <pb:CK-BS_JY166_09p001a>¶
 @fw1續刻道藏輯要¶

@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY233
 #+TITLE:天仙正理直論淺說 Tianxian Zhengli Zhilun Qianshuo
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY233_01p001a>¶
 重刋道藏輯要¶

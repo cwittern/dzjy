@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY045
 #+TITLE:太上玄元道德經解 Taishang Xuanyuan Daode Jingjie
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 02
 <pb:CK-KZ_JY045_02p001a>¶
 @fw1重刊道藏輯要　　　　　　　　　　　　　心集一¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY098
 #+TITLE:玉清贊化九天演政心印集經 Yuqing Zanhua Jiutian Yanzheng Xinyin Jijing
 #+WITNESS: YP-P JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:YP-P_JY098_01p001a>¶
 * 經序¶

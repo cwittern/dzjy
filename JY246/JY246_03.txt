@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY246
 #+TITLE:懺法大觀 Chanfa Daguan
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 03
 <pb:CK-KZ_JY246_03p001a>¶
 重刋道藏輯要¶

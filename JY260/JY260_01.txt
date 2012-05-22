@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY260
 #+TITLE:關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經 Guandi Zhongxiao Zhongyi Jing/Sanjie Fumo Guansheng Dijun Zhongxiao Zhongyi Zhenjing
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY260_01p0100a>¶
 赤心衛國大帝¶

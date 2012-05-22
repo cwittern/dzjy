@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY232
 #+TITLE:天仙正理直論 Tianxian Zhengli Zhilun
 #+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 03
 <pb:CK-KZ_JY232_03p001a>¶
 道藏輯要¶

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY266
 #+TITLE:心香妙語 Xinxiang Miaoyu
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 08
 <pb:CK-EX_JY266_08p001a>¶
 重刋道藏輯要增補併儷心香妙語卷之四¶

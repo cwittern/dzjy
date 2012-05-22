@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 03
 <pb:CK-EX_JY267_03p005a>¶
 　　爲灌邑武廟請建水陸道場禀叙¶

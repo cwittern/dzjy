@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY286
 #+TITLE:初真戒律 Chuzhen Jielü
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 02
 <pb:CK-KZ_JY286_02p034a>¶
 重刋道藏輯要¶

@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY152
 #+TITLE:太上靈寶淨明宗教錄 Taishang Lingbao Jingming Zongjiao Lu
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 #+SEC: 01
 <pb:CK-KZ_JY152_01p001a>¶
 

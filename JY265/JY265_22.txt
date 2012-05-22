@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 #+SEC: 22
 <pb:CK-EX_JY265_22p001a>¶
 道藏三籙論奏獻錢馬事靈寶文檢卷七¶
