@@ -23,4 +23,8 @@ tramp
 \.#*
 *~
 index.log
+<<<<<<< HEAD
 .bak
+=======
+.bak
+>>>>>>> 966544e0de94b605eedb18f0771cdd8f8338496f
