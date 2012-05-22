@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY168
 #+TITLE:語錄大觀 Yulu Daguan
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY168_01p001a>¶
@@ -2423,6 +2424,11 @@
 太虛同體矣。其小無内，則入秋毫之末，而不可以象求矣。此所¶
 謂我之本心，而曠劫以前，本來之自有也。然則果何物哉。杳兮¶
 冥，恍兮惚，不可智知，不可識識。强名曰道，强名曰神，强名曰心，¶
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY168_01p113a>¶
 如此而已。由是觀之，豈不大乎？豈不貴乎？然而輪迴於三界，出¶
 入於生死，而不能自已者，何也。蓋一念萌動於内，六識流轉於¶

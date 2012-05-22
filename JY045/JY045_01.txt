@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY045
 #+TITLE:太上玄元道德經解 Taishang Xuanyuan Daode Jingjie
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY045_01p001a>¶
 * 太上道德經解序¶
 夫至人能爲至文，至文卽寓至理。維我¶

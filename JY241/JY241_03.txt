@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY241
 #+TITLE:養眞集 Yangzhen Ji
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 03
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY241_03p031a>¶
 ** 養眞集卷下¶
 *** 　氣¶

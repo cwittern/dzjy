@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC25
 #+TITLE:
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JYC25_01p108a>¶
 * 皇朝文獻通考神仙家書目(附○)¶
 　　　　　　　　　　　井　研　賀　龍　驤　抄¶

@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY236
 #+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 07
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY236_07p001a>¶
 @fw1重刊道藏輯要¶
 * 張三丰先生全集¶

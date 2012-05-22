@@ -1,8 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY170
+<<<<<<< HEAD
 #+TITLE:呂帝聖蹟紀要 Lüdi Shengji Jiyao
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+TITLE::i:呂帝聖蹟紀要 Lüdi Shengji Jiyao
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY170_01p001a>¶
 * 呂帝《聖蹟紀要》題詞¶
 《無極寶懺》曰：『三界飛行，絶迹十方，救苦尋聲。知言哉，知言哉，我¶

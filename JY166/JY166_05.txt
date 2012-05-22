@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY166
 #+TITLE:純陽三書 Chunyang Sanshu
 #+WITNESS: CK-BS JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 05
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-BS_JY166_05p001a>¶
 @fw1續刻道藏輯要¶
 * 　　玄藻秘旨　　　　　　新津彭一淸乾陽校正¶

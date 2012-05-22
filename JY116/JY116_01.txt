@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY116
 #+TITLE:黃帝陰符經 Huangdi Yinfu Jing
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY116_01p023a>¶
 * 黃帝陰符經注解序¶
 《陰符》自黃帝有之，蓋聖人體天用道之機也。經曰：『得機者，萬變¶

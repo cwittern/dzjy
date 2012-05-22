@@ -1,6 +1,10 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX001
+<<<<<<< HEAD
 #+TITLE:廣成儀制鐵鏆斛食全集
+=======
+#+TITLE:青玄濟煉鐵貫斛食
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_EX001_01p001a>¶

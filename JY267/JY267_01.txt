@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY267_01p001a>¶
 * 　雅宜集序¶
 蓋聞才之難也，古今同病。儒以章句取科第，鮮經濟之才，流於¶

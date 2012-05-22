@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY168
 #+TITLE:語錄大觀 Yulu Daguan
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: JYE
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 02
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY168_02p001a>¶
 @fw1重刋道藏輯要¶
 * 　語錄大觀¶

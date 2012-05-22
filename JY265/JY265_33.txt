@@ -2,8 +2,13 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 33
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY265_33p001a>¶
 *** (靈寶文檢　十廻度人符　卷十二　靈寶無量度人青華元陽寶符)¶
 ¶	

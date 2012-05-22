@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY159
 #+TITLE:十六品經 Shiliupin Jing
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY159_01p001a>¶
 * 十六品經序¶
 文殊師利法王子白言：『人心道心，本是一乘，乘無上下，分於人¶

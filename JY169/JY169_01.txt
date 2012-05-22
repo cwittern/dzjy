@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY169
 #+TITLE:微言摘要 Weiyan Zhaiyao
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY169_01p073a>¶
 * 《微言摘要》序¶
 大道昭垂，古今不易。人心嗜好，向背各殊。然道之不明不行，緣¶

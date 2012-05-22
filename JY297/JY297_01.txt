@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY297
 #+TITLE:華蓋山三仙真經 Huagai Shan Sanxian Zhenjing
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY297_01p001a>¶
 * 太華蓋山三仙祖師記文(謹按巴陵令霍童崔世召纂輯　華山秇文志恭錄)¶
 ** 　　橋仙觀碑記　　　　　　　　　　(唐)顏眞卿譔¶

@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY150
 #+TITLE:銅符鐵券 Tongfu Tiequan
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY150_01p001a>¶
 * 《銅符鐵劵》題辭¶
 考之《列仙傳》，曲阜蘭公精修孝行，感斗中眞人自稱孝悌王下¶

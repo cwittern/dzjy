@@ -1,8 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY308
+<<<<<<< HEAD
 #+TITLE: 靑城山記 Qingcheng Shan Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+TITLE:青城山記 Qingcheng Shan Ji
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 02
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY308_02p001a>¶
 * 序¶
 (予)家𨞪江之北，距靑城三數十里，洞天福地之勝。童子時已飫¶

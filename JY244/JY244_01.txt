@@ -1,8 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY244
+<<<<<<< HEAD
 #+TITLE:眞詮 Zhenquan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+TITLE:真詮 Zhenquan
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY244_01p001a>¶
 * 　　重刻《眞詮》小引¶
 先君蚤𡻕得《眞詮》一書，奉爲養生正宗。精神漸旺，定當總丱。卽¶

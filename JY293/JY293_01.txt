@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY293
 #+TITLE:二仙菴碑記 Erxian An Beiji
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY293_01p0103a>¶
 * 　　新建青羊二仙菴碑記¶
 　　郡郊之西、遇仙橋左，有老君嘗與令尹喜約會函谷、後老¶

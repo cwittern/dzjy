@@ -1,8 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY174
+<<<<<<< HEAD
 #+TITLE:玉清金笥青華祕文金寶内鍊丹法 Yuqing Jinsi Qinghua Biwen Jinbao Neilian Danfa
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+TITLE:玉清金笥青華祕文金寶內鍊丹法 Yuqing Jinsi Qinghua Biwen Jinbao Neilian Danfa
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY174_01p004a>¶
 * 　玉淸金笥靑華秘文金寶内鍊丹法題辭¶
 遠師眞人王邦叔，不知何許人也。年十九，侍紫陽眞人爲弟子，¶

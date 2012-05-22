@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY161
 #+TITLE:金華宗旨 Jinhua Zongzhi
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 03
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY161_03p001a>¶
 * 金華宗旨後跋¶
 《陰符》三百字，《道德》五千言，何嘗有一語在色身講論？乃後世言¶

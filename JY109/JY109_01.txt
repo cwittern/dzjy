@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY109
 #+TITLE:九皇新經註解 Jiuhuang Xinjing Zhujie
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY109_01p001a>¶
 * 重刊《九皇新經註》序¶
 ** 　　張大眞人序¶

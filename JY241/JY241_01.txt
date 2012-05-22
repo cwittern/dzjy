@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY241
 #+TITLE:養眞集 Yangzhen Ji
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY241_01p001a>¶
 * 養眞集序¶
 癸卯孟春，余自都中來過吾友之邑，留止書舍，見四壁字帖纍¶

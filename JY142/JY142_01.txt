@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY142
 #+TITLE:入藥鏡 Ruyao Jing
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY142_01p001a>¶
 * 入藥鏡序¶
 余嘗謬意仙詮，𣺌尋玄旨，卽僧燈道典咸置追繹，顧生逾七十，¶

@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY093
 #+TITLE:高上玉皇心印經 Gaoshang Yuhuang Xinyin Jing
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY093_01p018a>¶
 * 心印經序¶
 空洞道人《心印經》註成，頤翁三讀之，喟然而嘆曰：大哉心乎，宇¶

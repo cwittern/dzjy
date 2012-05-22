@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY243
 #+TITLE:玉詮 Yuquan
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 09
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY243_09p001a>¶
 ** 正一天師¶
 　天師姓張，諱道陵。甲戍年九月始降，是爲本壇袪邪法主。¶

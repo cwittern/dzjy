@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY082
 #+TITLE:太上感應篇集注 Taishang Ganyingpian Jizhu
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY082_01p001a>¶
 * 太上感應篇集註序¶
 儒者之學，以求誠也，而誠貫乎學¶

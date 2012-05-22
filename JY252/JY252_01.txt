@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY252
 #+TITLE:皇極經世書 Huangji Jingshi Shu
 #+WITNESS: CK-BS JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-BS_JY252_01p001a>¶
 * 皇極經世書¶
 邵康節先生著¶

@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY285
 #+TITLE:三壇圓滿天仙大戒略說 Santan Yuanman Tianxian Dajie Lüeshuo
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY285_01p001a>¶
 @fw1重刋道藏輯要¶
 * 三壇圓滿天仙大戒略説¶

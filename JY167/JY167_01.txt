@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY167
 #+TITLE:易說 Yishuo
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY167_01p001a>¶
 * 《易說》自序¶
 聖賢之學，豈有高遠難幾者哉？亦曰明乎天道，以人合之而已¶

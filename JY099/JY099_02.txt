@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY099
 #+TITLE:玉清贊化九天演政心印寶懺 Yuqing Zanhua Jiutian Yanzheng Xinyin Baochan 
 #+WITNESS: YP-P JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 02
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:YP-P_JY099_02p001a>¶
 @fw1道藏輯要　　　　　　　　　　　　　　　箕集十一¶
 * 玉清贊化九天演政心印寳懴¶

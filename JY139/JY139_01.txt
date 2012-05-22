@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY139
 #+TITLE:參同契闡幽 Cantong Qi Chanyou
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY139_01p001a>¶
 * 參同契闡幽序¶
 大道○本無言說，本無名相，混混沌沌，莫知其端。然非假言說¶

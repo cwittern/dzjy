@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY111
 #+TITLE:浮黎鼻祖金華祕訣 Fulibizu Jinhua Bijue
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY111_01p025a>¶
 * 浮黎鼻祖金華秘訣序¶
 慨自天地未判，日月未明，陰陽未立，五行未分，混沌恍惚，杳冥¶

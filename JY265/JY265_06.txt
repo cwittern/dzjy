@@ -2,8 +2,13 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 06
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY265_06p007a>¶
 * 原序¶
 按洞玄靈寶本章，首言混洞赤文，再言五文開廓，則又曰無文¶

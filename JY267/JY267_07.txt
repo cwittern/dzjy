@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 07
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY267_07p004a>¶
 ** 　○消災保安城隍牒¶
 　建善投誠，爲○乞　恩消災袪病，祈安保㤗。下民¶

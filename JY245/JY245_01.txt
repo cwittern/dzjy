@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY245
 #+TITLE:心傳述證錄 Xinchuan Shuzheng Lu
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY245_01p001a>¶
@@ -25,6 +26,11 @@
 證述亦爲糟粕宇宙間本同一大靑空光明藏耳尙何言哉尙
 何言哉雎陽梅芳老人謹誌於守經堂西軒時嘉慶八年𡻕在
 癸亥上元日也
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY245_01p002a>¶
 @fw1重刋道藏輯要¶
 * 心傳述證錄　　　　　　　　　　　　梅芳老人輯¶

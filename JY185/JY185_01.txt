@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY185
 #+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY185_01p001a>¶
 * 瓊琯白眞人集序¶
 廣成子告黃帝曰：『無勞爾形，無搖爾精，乃可以長生。』言玉液煉¶

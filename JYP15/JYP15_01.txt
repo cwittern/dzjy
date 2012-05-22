@@ -1,8 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP15
 #+TITLE:
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 01
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JYP15_01p016a>¶
 * 重刋道藏輯要弁言¶
 庚子夏訪玉經箋註於成都二仙菴，晤方丈閻笙喈，知有《道藏¶

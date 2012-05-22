@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 06
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY267_06p001a>¶
 * 重刋道藏輯要玄宗通事雅宜集卷之三¶
 　武陽雲峰羽客陳復慧仲遠著¶

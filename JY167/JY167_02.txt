@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY167
 #+TITLE:易說 Yishuo
 #+WITNESS: JYE CK-KZ
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 02
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY167_02p001a>¶
 * 《易說題詞》¶
 古今來講《易》者不下數十百家，類皆各抒所見。或言理，或言數，¶

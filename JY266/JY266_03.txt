@@ -2,7 +2,12 @@
 #+EXPORT_ID: JY266
 #+TITLE:心香妙語 Xinxiang Miaoyu
 #+WITNESS: CK-EX JYE
+<<<<<<< HEAD
 #+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 03
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY266_03p001a>¶
 * 重刋道藏輯要心香妙語卷之一¶
 　　綿竹退隱陳復烜含樸校輯　嗣派徒　張軫駐　參閱¶
