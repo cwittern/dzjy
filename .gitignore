@@ -1,0 +1,30 @@
+loaddefs.el*
+backups/*
+auto-save-list
+custom.el
+*elc
+places
+url/cookies
+elpa-to-submit/jabber/jabber.info
+elpa-to-submit/nxhtml/etc/schema/xhtml-loader.rnc
+thumbs/*
+oddmuse/*
+.newsrc-dribble
+.nnmail-cache
+/#.newsrc-dribble#
+.svn
+.DS_Store
+image-dired/
+elim/
+elpa-to-submit/nxhtml/etc/schema/xhtml-loader.rnc~
+session*
+tramp
+\#*
+\.#*
+*~
+index.log
+<<<<<<< HEAD
+.bak
+=======
+.bak
+>>>>>>> 966544e0de94b605eedb18f0771cdd8f8338496f
