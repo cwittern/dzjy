@@ -2,6 +2,7 @@
 #+EXPORT_ID: JY278
 #+TITLE:十戒功過格 Shijie Gongguo Ge
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 02
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY278_02p001a>¶
 * 十戒功過格序¶
 身口有一定之是非，意念無一定之善惡。以有定者定無定者，¶

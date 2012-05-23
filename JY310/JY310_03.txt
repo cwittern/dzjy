@@ -3,11 +3,15 @@
 #+TITLE:天下名山記 Tianxia Mingshan Ji
 #+WITNESS: JYE CK-KZ
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+BASEEDITION: 
 =======
 #+BASEEDITION: CK-KZ
 #+SEC: 03
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+BASEEDITION: 
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY310_03p033a>¶
 @fw1重刊道藏輯要¶
 * 　天下名山記¶

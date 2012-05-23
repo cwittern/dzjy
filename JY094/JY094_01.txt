@@ -2,6 +2,7 @@
 #+EXPORT_ID: JY094
 #+TITLE:玉皇心印經 Yuhuang Xinyin Jing
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 01
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY094_01p025a>¶
 * 玉皇心印經注序¶
 玄谷帝君曰：朕聞《心印經》者乃無上玄穹主金闕大道君之所¶

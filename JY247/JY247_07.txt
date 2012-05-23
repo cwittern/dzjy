@@ -3,11 +3,15 @@
 #+TITLE:三寶萬靈法懺 Sanbao Wanling Fachan
 #+WITNESS: JYE CK-KZ
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+BASEEDITION: JYE
 =======
 #+BASEEDITION: CK-KZ
 #+SEC: 07
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+BASEEDITION: JYE
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY247_07p001a>¶
 @fw1重刻道藏輯要¶
 * 　三寶萬靈法懺　　　　　　　下元道士王守上閱¶

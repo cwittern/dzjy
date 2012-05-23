@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY286
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+TITLE:初眞戒律 Chuzhen Jielü
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
@@ -10,6 +11,11 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 02
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+TITLE:初眞戒律 Chuzhen Jielü
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY286_02p034a>¶
 @fw1重刋道藏輯要¶
 * 　初眞戒律¶

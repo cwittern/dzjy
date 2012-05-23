@@ -2,6 +2,7 @@
 #+EXPORT_ID: JYP13
 #+TITLE:
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 01
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JYP13_01p014a>¶
 * 世宗憲皇帝御製三教語錄總序¶
 粤稽三教之名，始於晉魏。後世拘泥，崇儒之虛名，遂有詆黜二¶

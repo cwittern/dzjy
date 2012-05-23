@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY260
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+TITLE:關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義眞經 Guandi Zhongxiao Zhongyi Jing/Sanjie Fumo Guansheng Dijun Zhongxiao Zhongyi Zhenjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
@@ -91,6 +92,11 @@
 　　　　共重一斤¶
 ¶	
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+TITLE:關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義眞經 Guandi Zhongxiao Zhongyi Jing/Sanjie Fumo Guansheng Dijun Zhongxiao Zhongyi Zhenjing
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY260_01p087a>¶
 * 三界伏魔關聖帝君忠孝忠義眞經¶
 ** 誦經要訣¶

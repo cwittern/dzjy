@@ -2,6 +2,7 @@
 #+EXPORT_ID: JY279
 #+TITLE:警世功過格 Jingshi Gongguo Ge
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 02
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY279_02p083a>¶
 * 功過格後跋¶
 嘗稽《無上内秘眞藏經特顯戒行》爲一品。我¶

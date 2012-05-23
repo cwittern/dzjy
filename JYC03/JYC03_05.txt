@@ -2,6 +2,7 @@
 #+EXPORT_ID: JYC03
 #+TITLE:
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 05
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JYC03_05p101a>¶
 * 䟦¶
 右據《道藏輯要》全本，臚列子目，若分類編出，且俟選家。夫選書¶

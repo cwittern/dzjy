@@ -2,6 +2,7 @@
 #+EXPORT_ID: JY087
 #+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 06
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY087_06p001a>¶
 @fw1重刋道藏輯要　　　　　　　　　　　箕集三¶
 * 高上玉皇本行集經卷下¶

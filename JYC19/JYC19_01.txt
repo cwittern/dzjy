@@ -2,6 +2,7 @@
 #+EXPORT_ID: JYC19
 #+TITLE:
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 01
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JYC19_01p001a>¶
 * 通志道家書目(附)¶
 　　　　　　　　　宋右迪功郎鄭樵漁仲　撰¶

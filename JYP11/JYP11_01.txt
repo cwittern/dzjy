@@ -2,6 +2,7 @@
 #+EXPORT_ID: JYP11
 #+TITLE:
 <<<<<<< HEAD
+<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 =======
@@ -9,6 +10,10 @@
 #+BASEEDITION: CK-KZ
 #+SEC: 01
 >>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JYP11_01p011a>¶
 * 世宗憲皇帝鄙選當今法會序(儒釋道)¶
 朕自去臘，閱宗乘之書，因選輯從上古德語錄。聽政餘間，嘗與¶
