@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC02
 #+TITLE:
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC02_01p021a>¶
 * 重刋道藏輯要子目初編總目¶
 道藏輯要子目初編四卷¶

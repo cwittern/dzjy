@@ -1,20 +1,20 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY087
 #+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY087_05p001a>¶
 * 高上玉皇本行集經卷下¶
 ** 　　開經讚¶
 #+BEGIN_VERSE
- 大道洞玄虛，
- 　有念無不契。
- 　煉質入仙眞，
- 　遂成金剛體。¶
- 超度三界難，
- 　地獄五苦解。
- 　悉皈高上經，
- 　䖍誠稽首禮。¶
-大聖玉皇赦罪大天尊。(三稱，三拜。)¶
+ 大道洞玄虛
+ 　有念無不契
+ 　煉質入仙眞
+ 　遂成金剛體¶
+ 超度三界難
+ 　地獄五苦解
+ 　悉皈高上經
+ 　䖍誠稽首禮¶
+大聖玉皇赦罪大天尊(三稱三拜)¶
 #+END_VERSE
 ¶	

@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY231
 #+TITLE:仙佛合宗語錄 Xianfo Hezong Yulu
 #+WITNESS: CK CK-KZ JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 <pb:CK_JY231_03p001a>¶
 @fw1重刋道藏輯要¶
 * 仙佛合宗語錄¶

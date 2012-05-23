@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC17
 #+TITLE:
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC17_01p014b>¶
 * 厯朝名選道家書目(坿)¶
 　　　　　　　　　　井研賀龍驤抄¶

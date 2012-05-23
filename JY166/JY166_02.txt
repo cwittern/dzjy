@@ -2,7 +2,7 @@
 #+EXPORT_ID: JY166
 #+TITLE:純陽三書 Chunyang Sanshu
 #+WITNESS: CK-BS JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 <pb:CK-BS_JY166_02p001a>¶
 * 純陽三書玄藻秘旨¶
 　目錄¶

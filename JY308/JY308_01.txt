@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY308
 #+TITLE: 靑城山記 Qingcheng Shan Ji
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY308_01p001a>¶
 * 靑城山記目錄¶
 　　　第一卷¶
