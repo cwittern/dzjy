@@ -2,7 +2,7 @@
 #+EXPORT_ID: EX001
 #+TITLE:廣成儀制鐵鏆斛食全集
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 <pb:CK-EX_EX001_01p001a>¶
 * 廣成儀制鐵鏆斛食全集¶
 　　　　　　武陽雲峯羽客陳仲遠校輯¶

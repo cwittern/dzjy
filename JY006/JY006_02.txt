@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY006
 #+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
-#+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+WITNESS: YP CK-KZ
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY006_02p001a>¶
 @fw1重刋道藏輯要¶
 * 元始太洞玉經¶

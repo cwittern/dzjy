@@ -2,7 +2,7 @@
 #+EXPORT_ID: EX004
 #+TITLE: 女丹合編 Nudan Hebian
 #+WITNESS: CK-EX JYE
-#+BASEEDITION: YP
+#+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_02p001a>¶
 * 女丹合編通俗序¶
 有天地卽有男女，男子成仙者多，女子成仙者少，何也？¶

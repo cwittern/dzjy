@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY006
 #+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
-#+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
+#+WITNESS: YP CK-KZ
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY006_01p001a>¶
 * 爕元贊運孚佑帝君重刻大洞玉經敘¶
 道可得而言乎，不可得而言也。道可得而秘乎，不可得而秘也。¶
