@@ -1,0 +1,55 @@
+#-*- mode: org; -*-
+#+EXPORT_ID: JY265
+#+TITLE:靈寶文檢 Lingbao Wenjian
+#+WITNESS: CK-EX JYE
+<<<<<<< HEAD
+#+BASEEDITION: YP
+#+PROPERTY: JUAN txt
+=======
+#+BASEEDITION: CK-KZ
+#+SEC: 08
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+<pb:CK-EX_JY265_08p014a>¶
+¶	
+¶	
+道經師寶¶
+¶	
+¶	
+¶	
+¶	
+¶	
+心詞醮疏上用¶
+¶	
+<pb:CK-EX_JY265_08p014b>¶
+¶	
+¶	
+¶	
+雷霆都司¶
+¶	
+¶	
+¶	
+¶	
+陽關醮牒榜文上用¶
+¶	
+<pb:CK-EX_JY265_08p015a>¶
+¶	
+¶	
+¶	
+道經師印¶
+¶	
+¶	
+¶	
+¶	
+¶	
+¶	
+<pb:CK-EX_JY265_08p015b>¶
+¶	
+¶	
+¶	
+道經師寶¶
+¶	
+¶	
+¶	
+¶	
+¶	
+¶	

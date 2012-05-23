@@ -1,0 +1,22 @@
+#-*- mode: org; -*-
+#+EXPORT_ID: JY243
+#+TITLE:玉詮 Yuquan
+<<<<<<< HEAD
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 02
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+<pb:CK-KZ_JY243_02p001a>¶
+@fw1重刋道藏輯要¶
+* 　玉詮卷二目錄¶
+　　白上仙¶
+　　靑羅大真人¶
+　　楊大真人¶
+　　朱大真人¶
+　　王大真人¶
+　　郁大真人¶
+　　鄧大真人¶
+¶	
