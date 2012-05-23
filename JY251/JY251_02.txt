@@ -2,20 +2,7 @@
 #+EXPORT_ID: JY251
 #+TITLE:通書 Tongshu
 #+WITNESS: CK-BS JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-BS_JY251_02p001a>¶
 * 通書(周子作　朱子注)¶
 　《通書》者，濓溪夫子之所作也。夫子姓周氏，名惇頤，字茂叔。自¶

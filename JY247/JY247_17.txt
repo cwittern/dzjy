@@ -2,20 +2,7 @@
 #+EXPORT_ID: JY247
 #+TITLE:三寶萬靈法懺 Sanbao Wanling Fachan
 #+WITNESS: JYE CK-KZ
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: JYE
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 17
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY247_17p001a>¶
 @fw1重刻道藏輯要¶
 * 　三寶萬靈法懺　　　　　　　下元道士王守上閱¶

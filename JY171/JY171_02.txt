@@ -1,23 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY171
 #+TITLE:天仙金丹心法 Tianxian Jindan Xinfa
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY171_02p001a>¶
 * 天仙金丹心法自序¶
 大道之傳，與天地無終極。顧授者無不傳之祕，而列聖相延之¶

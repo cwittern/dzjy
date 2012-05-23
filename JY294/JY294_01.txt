@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY294
 #+TITLE:青羊宮碑記 Qingyang Gong Beiji
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY294_01p001a>¶
 * 　　重修青羊萬夀宫碑記¶(巡撫四川等處地方、兼理糧餉工部尙書、兼都察院右副都御史授爲、從一品服俸張德地撰)¶
 　尙稽治理，至黃虞以前，邈已；然撮以一言，曰清靜無爲。而天¶

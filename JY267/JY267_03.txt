@@ -2,20 +2,7 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 03
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY267_03p005a>¶
 ** 　　爲灌邑武廟請建水陸道場禀叙¶
 嘗聞神以人靈。當精勤於香火，魔憑武伏，必舉用於干戈。故明¶

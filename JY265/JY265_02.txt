@@ -2,21 +2,8 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY265_02p002a>¶
 * 重刋道藏輯要靈寶文檢序卷之一¶
 道門有《靈寶文檢》一書，傳自金、甯二眞人手著，原爲宣演道法¶

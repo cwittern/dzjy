@@ -1,21 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX001
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+TITLE:
-=======
-#+EXPORT_ID: QXHS
-#+TITLE: 廣成儀制鐵鏆斛食全集
->>>>>>> 47f469521e84d08007936039eb6adfb8f55ab8e9
-=======
-#+TITLE:青玄濟煉鐵貫斛食
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
 #+TITLE:廣成儀制鐵鏆斛食全集
-=======
-#+TITLE:青玄濟煉鐵貫斛食
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_EX001_01p001a>¶

@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY092
 #+TITLE:終南八祖說心印妙經解 Zhongnan Bazu Shuo Xinyin Miao Jingjie
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY092_01p016a>¶
 * 終南八祖說心印妙經解¶
 　　爾時，¶

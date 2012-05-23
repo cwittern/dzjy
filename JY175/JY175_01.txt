@@ -1,23 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY175
 #+TITLE:悟真篇三注 Wuzhen Pian Sanzhu
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY175_01p001a>¶
 * 悟眞篇序¶
 嗟夫！人身難得，光陰易遷，罔測短修，安逃業報？不自及早省悟，¶

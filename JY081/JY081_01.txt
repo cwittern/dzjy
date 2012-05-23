@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY081
 #+TITLE:太上感應篇箋注 Taishang Ganyingpian Jianzhu
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY081_01p001a>¶
 * 太上感應篇序¶
 漢眞人魏伯陽著《參同契》。荀爽虞翻干寶諸儒采以注易。後之¶

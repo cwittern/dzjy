@@ -2,12 +2,7 @@
 #+EXPORT_ID: JY056
 #+TITLE:太上道德大天尊說道元一氣經 Taishang Daode Tianzun Shuo Daoyuan Yiqi Jing
 #+WITNESS: JYE CK-KZ
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY056_01p005a>¶
 * 太上道德大天尊說道元一炁經¶
 道以一始，亦以三成；三生萬物，形炁合同。與天同炁，抱道生眞；¶

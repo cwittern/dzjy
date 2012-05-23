@@ -1,25 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY286
-<<<<<<< HEAD
-#+TITLE:初真戒律 Chuzhen Jielü
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+TITLE:初眞戒律 Chuzhen Jielü
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+TITLE:初真戒律 Chuzhen Jielü
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY286_01p025a>¶
 * 初眞戒律序¶
 夫¶

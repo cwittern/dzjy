@@ -2,20 +2,7 @@
 #+EXPORT_ID: JY165
 #+TITLE:呂帝詩集 Lüdi Shiji
 #+WITNESS: JYE CK-KZ
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY165_01p001a>¶
 * 吕帝詩集序¶
 《易》曰：『觀乎人文，以化成天下。』化非文不顯也，文之賅乎道乃能¶

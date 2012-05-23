@@ -1,18 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY258
 #+TITLE:文昌延嗣經 Wenchang Yansi Jing
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY258_02p027a>¶
 * 文昌應化元皇大道眞君說注生延嗣妙應眞經¶
 　　　　　　　　　　　　　大興朱　珪石君敬校¶

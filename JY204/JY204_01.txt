@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY204
 #+TITLE:孫不二元君傳述丹道祕書三卷 Sun Bu'Er Yuanjun Chuanshu Dandao Bishu Sanjuan
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY204_01p111a>¶
 * 孫不二元君傳述丹道秘書三卷¶
 ** 玉淸胎元内養眞經　寶神元臺眞君下傳¶

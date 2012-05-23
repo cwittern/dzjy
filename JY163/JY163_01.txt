@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY163
 #+TITLE:五經合編 Wujing Hebian
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY163_01p001a>¶
 * 五經合編序¶
 大士之降法壇，灑甘露以灌漑靈心，慈悲之度人無量。我¶

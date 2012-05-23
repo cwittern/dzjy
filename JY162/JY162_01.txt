@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY162
 #+TITLE:同參經 Tongcan Jing
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY162_01p001a>¶
 * 同參經序¶
 稽自墳典肇興，而經之名，遂燦然於世。蓋古先聖王，舉人倫日¶

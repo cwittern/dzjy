@@ -1,23 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY249
 #+TITLE:漢丞相諸葛忠武侯集 Han Chengxiang Zhuge Zhong Wuhou Ji
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 06
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY249_06p001a>¶
 @fw1重刋道藏輯要¶
 * 漢丞相諸葛忠武侯集卷之十三¶

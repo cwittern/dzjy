@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY075
 #+TITLE:黃庭内景經 Huangting Neijing Jing
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY075_01p001a>¶
 * 黃庭經注序¶
 聞之赤文綠字，爰垂洞古之經；鐵劵銅符，聿授登眞之記。林開¶

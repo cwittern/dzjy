@@ -2,20 +2,7 @@
 #+EXPORT_ID: JY267
 #+TITLE:雅宜集 Yayi Ji
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 09
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-EX_JY267_09p003a>¶
 ** 　　叙聯類¶
 *** 　　歳時叙語¶

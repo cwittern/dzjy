@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY090
 #+TITLE:太上洞玄靈寶紫微金格高上玉皇本行集經闡微 Taishang Dongxuan Lingbao Ziwei Jinge Gaoshang Yuhuang Benxing Jijing Chanwei
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY090_01p001a>¶
 萬天至尊金闕玉皇上帝勅命曰：於戲！天道無親，惟佑善人，人¶
 道貴華，必隆賜予，古今不爽，於茲爲烈。况以大勳旣集，世道攸¶

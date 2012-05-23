@@ -1,14 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY074
 #+TITLE:太上黃庭内景玉經 Taishang Huangting Neijing Yujing
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY074_01p001a>¶
 * 太上黃庭内景玉經序¶
 天地間有至人，斯能發至文有至文。於以揭至理。其文皆玄文¶

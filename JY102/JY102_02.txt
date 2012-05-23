@@ -1,18 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY102
 #+TITLE:觀音大士蓮船經 Guanyin Dashi Lianchuan Jing
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY102_02p001a>¶
 @fw1增刻道藏輯要¶
 * 關聖帝君窮理盡性至命上品說¶

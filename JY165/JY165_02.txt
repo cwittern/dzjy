@@ -2,20 +2,7 @@
 #+EXPORT_ID: JY165
 #+TITLE:呂帝詩集 Lüdi Shiji
 #+WITNESS: JYE CK-KZ
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY165_02p001a>¶
 @fw1重刋道藏輯要¶
 * 　詩集上卷目錄¶

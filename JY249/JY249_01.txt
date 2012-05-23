@@ -1,37 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY249
 #+TITLE:漢丞相諸葛忠武侯集 Han Chengxiang Zhuge Zhong Wuhou Ji
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-#+SEC: 01
-<pb:CK-KZ_JY249_01p001a>¶
-漢丞相諸葛忠武侯集敘¶
-<<<<<<< HEAD
-羲垂髫時父卽示以祖長史公與伯父大行公所手鈔羅相忠¶
-武侯公書長史公題其簡末云兵燹遺軼欲編彙成書未能也¶
-羲受而藏之崇禎壬申承督臨庾適弟倬自白門購書十餘篋¶
-=======
-𦏁垂髫時父卽示以祖長史公與伯父大行公所手鈔羅相忠¶
-武侯公書長史公題其簡末云兵燹遺軼欲編彙成書未能也¶
-𦏁受而藏之崇禎壬申承督臨庾適弟倬自白門購書十餘篋¶
->>>>>>> 1e7ec9e1d6707b6ffed34d433259c49bdf2a70b2
-=======
-#+BASEEDITION: 
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY249_01p001a>¶
 * 漢丞相諸葛忠武侯集敘¶
 羲垂髫時，父卽示以祖長史公與伯父大行，公所手鈔《羅相忠¶

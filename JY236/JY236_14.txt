@@ -1,23 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY236
 #+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 14
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY236_14p001a>¶
 ** 張三丰祖師無根樹詞註解¶
 　　雲棲山劉悟元註　　長乙山李涵虛增解¶

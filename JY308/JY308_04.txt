@@ -1,36 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY308
-<<<<<<< HEAD
-#+TITLE:青城山記 Qingcheng Shan Ji
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+TITLE: 靑城山記 Qingcheng Shan Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+TITLE:青城山記 Qingcheng Shan Ji
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-#+SEC: 04
-<pb:CK-KZ_JY308_04p001a>¶
-<<<<<<< HEAD
-續刋靑城山記卷下¶
-　　事實記下(隱逸)¶
-江山之美因人而傳彼黃帝之於崆峒留侯之於紫柏普賢之¶
-於峩眉類皆若是矧洞天福地奇異綦多後世無聞不猶愧鳴¶
-條負夏歟記事實¶
-=======
-=======
-#+BASEEDITION: 
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 04
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY308_04p001a>¶
 * 續刋靑城山記卷下¶
 ** 　　事實記下(隱逸)¶

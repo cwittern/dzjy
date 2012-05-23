@@ -1,25 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY134
-<<<<<<< HEAD
-#+TITLE:
-<<<<<<< HEAD
-#+WITNESS: CK-KZ JYE
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-<<<<<<< HEAD
 #+TITLE:文始眞經 Wenshi Zhenjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+TITLE:
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-<<<<<<< HEAD
->>>>>>> b2931a05d77ce9cabf7488bbdd25bb7c2518eff1
-=======
->>>>>>> 96f604d4e43da456859effaf5a31cbb93b3ce8e0
-#+SEC: 03
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
 <pb:CK-KZ_JY134_03p003a>¶
 * 序¶
 洪體存蒿艾之質，偶好喬松之夀，知道之士雖微賤必親也，雖¶
