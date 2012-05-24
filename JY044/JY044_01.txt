@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 15:51:28
 #+PROPERTY: kxid KX043
 #+PROPERTY: title 太一救苦護身妙經
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0351
 #+PROPERTY: id JY044

@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 11:07:25
 #+PROPERTY: kxid KX258
 #+PROPERTY: title 三洞眾戒文
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0178
 #+PROPERTY: id JY270

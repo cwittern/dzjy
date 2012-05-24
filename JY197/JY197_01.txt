@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 10:43:31
 #+PROPERTY: kxid KX195
 #+PROPERTY: title 無為清靜長生真人至真語錄
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1058
 #+PROPERTY: id JY197

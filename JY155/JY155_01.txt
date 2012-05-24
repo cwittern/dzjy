@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 17:14:59
 #+PROPERTY: kxid KX155
 #+PROPERTY: title 黃石公素書
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1179
 #+PROPERTY: id JY155

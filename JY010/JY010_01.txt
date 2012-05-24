@@ -3,7 +3,11 @@
 #+DATE: 2011-05-27 18:43:33
 #+PROPERTY: kxid KX009
 #+PROPERTY: title 太上昇玄說消災護命妙經註
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0100
 #+PROPERTY: id JY010

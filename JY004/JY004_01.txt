@@ -3,7 +3,11 @@
 #+DATE: 2011-05-27 18:43:17
 #+PROPERTY: kxid KX004
 #+PROPERTY: title 元始天尊說無上内祕眞藏經
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0004
 #+PROPERTY: id JY004

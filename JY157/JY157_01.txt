@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 17:15:01
 #+PROPERTY: kxid KX157
 #+PROPERTY: title 玄真子
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1029
 #+PROPERTY: id JY157

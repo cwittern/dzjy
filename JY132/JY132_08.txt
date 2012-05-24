@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 16:19:54
 #+PROPERTY: kxid KX133
 #+PROPERTY: title 南華真經註疏
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0745
 #+PROPERTY: id JY132

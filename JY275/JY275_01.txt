@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 11:07:25
 #+PROPERTY: kxid KX263
 #+PROPERTY: title 太極真人說二十四門戒經
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0183
 #+PROPERTY: id JY275

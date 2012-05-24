@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 11:14:52
 #+PROPERTY: kxid KX290
 #+PROPERTY: title 金蓮正宗仙源像傳
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0174
 #+PROPERTY: id JY302

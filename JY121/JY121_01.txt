@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 16:03:42
 #+PROPERTY: kxid KX104
 #+PROPERTY: title 洞真太上太霄琅書
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1352
 #+PROPERTY: id JY121

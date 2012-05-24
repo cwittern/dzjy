@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 15:51:20
 #+PROPERTY: kxid KX025
 #+PROPERTY: title 太上金匱玉鏡修真指玄妙經
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0353
 #+PROPERTY: id JY026

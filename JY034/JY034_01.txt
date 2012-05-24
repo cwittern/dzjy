@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 15:51:23
 #+PROPERTY: kxid KX033
 #+PROPERTY: title 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0386
 #+PROPERTY: id JY034

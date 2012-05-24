@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 17:00:07
 #+PROPERTY: kxid KX144
 #+PROPERTY: title 淮南鴻烈解
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1184
 #+PROPERTY: id JY143

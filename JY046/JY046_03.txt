@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 15:51:52
 #+PROPERTY: kxid KX045
 #+PROPERTY: title 太上道德真經四子古道集解
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0684
 #+PROPERTY: id JY046

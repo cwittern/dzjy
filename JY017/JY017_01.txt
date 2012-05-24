@@ -3,7 +3,11 @@
 #+DATE: 2011-05-27 18:43:34
 #+PROPERTY: kxid KX016
 #+PROPERTY: title 碧霞元君護國庇民普濟保生妙經
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1445
 #+PROPERTY: id JY017

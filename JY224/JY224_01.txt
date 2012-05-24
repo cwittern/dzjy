@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 10:47:52
 #+PROPERTY: kxid KX221
 #+PROPERTY: title 鳴真集
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1145
 #+PROPERTY: id JY224

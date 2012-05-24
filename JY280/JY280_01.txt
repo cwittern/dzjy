@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 11:07:37
 #+PROPERTY: kxid KX268
 #+PROPERTY: title 要修科儀戒律鈔
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0463
 #+PROPERTY: id JY280

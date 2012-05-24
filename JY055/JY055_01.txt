@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 15:53:23
 #+PROPERTY: kxid KX052
 #+PROPERTY: title 太上老君說常清靜經註
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0755
 #+PROPERTY: id JY055

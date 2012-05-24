@@ -3,7 +3,11 @@
 #+DATE: 2011-05-31 16:01:39
 #+PROPERTY: kxid KX110
 #+PROPERTY: title 太上說中斗大魁保命妙經
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0627
 #+PROPERTY: id JY107

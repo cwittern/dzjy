@@ -3,7 +3,11 @@
 #+DATE: 2011-11-02 10:47:36
 #+PROPERTY: kxid KX217b
 #+PROPERTY: title 陰丹內篇
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1189
 #+PROPERTY: id JY220

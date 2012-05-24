@@ -3,7 +3,11 @@
 #+DATE: 2011-05-27 18:42:34
 #+PROPERTY: kxid KX002
 #+PROPERTY: title 太上洞玄靈寶無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu
+<<<<<<< HEAD
 #+PROPERTY: baseedition YP-C
+=======
+#+PROPERTY: baseedition CK-KZ
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0091
 #+PROPERTY: id JY002
