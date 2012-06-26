@@ -21,6 +21,11 @@ session*
 tramp
 \#*
 \.#*
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 09f4b5b15b91e43ded6ef9f71fe8a545607ad27c
 *~
 index.log
 <<<<<<< HEAD
@@ -28,3 +33,7 @@ index.log
 =======
 .bak
 >>>>>>> 966544e0de94b605eedb18f0771cdd8f8338496f
+<<<<<<< HEAD
+=======
+>>>>>>> 92d0ba208921c1de4bfdb38494f8cfcbf46714ec
+>>>>>>> 09f4b5b15b91e43ded6ef9f71fe8a545607ad27c
