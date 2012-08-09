@@ -1,0 +1,25 @@
+#-*- mode: org; -*-
+#+EXPORT_ID: EX004
+#+TITLE: 女丹合編 Nudan Hebian
+#+WITNESS: CK-EX JYE
+<<<<<<< HEAD
+#+BASEEDITION: YP
+=======
+#+BASEEDITION: CK-KZ
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
+<pb:CK-EX_EX004_01p001a>¶
+* 女丹合編總目¶
+　　坤訣¶
+　　女丹十則¶
+　　樵陽經女工脩煉¶
+　　女丹煉已還丹圖說¶
+　　女丹撮要¶
+　　女丹彙解¶
+　　西池集¶
+<pb:CK-EX_EX004_01p001b>¶
+　　女丹詩集前編¶
+　　女丹詩集後編¶
+　　女眞丹訣¶
+　　女丹要言¶
+　　旁門錄¶
+¶	

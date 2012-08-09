@@ -1,0 +1,32 @@
+#-*- mode: org; -*-
+#+EXPORT_ID: JY172
+#+TITLE:東園語錄 Dongyuan Yulu
+<<<<<<< HEAD
+<<<<<<< HEAD
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+=======
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
+#+SEC: 03
+>>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
+=======
+#+WITNESS: CK-KZ JYE
+#+BASEEDITION: YP
+>>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
+<pb:CK-KZ_JY172_03p001a>¶
+¶	
+<pb:CK-KZ_JY172_03p001b>¶
+¶	
+<pb:CK-KZ_JY172_03p002a>¶
+¶	
+<pb:CK-KZ_JY172_03p002b>¶
+¶	
+<pb:CK-KZ_JY172_03p003a>¶
+¶	
+<pb:CK-KZ_JY172_03p003b>¶
+¶	
+<pb:CK-KZ_JY172_03p004a>¶
+¶	
+<pb:CK-KZ_JY172_03p004b>¶
+¶	
