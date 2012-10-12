@@ -1,19 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC11
 #+TITLE:
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JYC11_02p001a>¶
 * 欽定道藏全書總目¶
 　　　　　　　　　井　研　賀　龍　驤　初　抄¶

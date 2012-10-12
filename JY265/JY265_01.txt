@@ -2,20 +2,9 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 #+PROPERTY: JUAN txt
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
-#+PROPERTY: JUAN txt
-#+PROPERTY: JUAN txt
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-EX_JY265_01p001a>¶
 * 重刋道藏輯要靈寶文檢序卷之一¶
 聞之禹鼎鑄象，用遠神姦；周禮設官，莫遺祝號。欲期不逢不若，¶

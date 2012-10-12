@@ -1,19 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY133
 #+TITLE:南華真經註疏 Nanhua Zhenjing Zhushu
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY133_01p001a>¶
 * 南華眞經注疏序¶
 予友復圭子旣疏《道德經》矣，識者咸喜，太上之嫡派出，始知其¶

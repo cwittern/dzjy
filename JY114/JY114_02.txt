@@ -1,19 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY114
 #+TITLE:唱道真言 Changdao Zhenyan
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY114_02p001a>¶
 * 唱道眞言題詞¶
 南極天宫，靑華上帝，大悲大願，至聖至仁，含和保眞，溥恩宏化，¶

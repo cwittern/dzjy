@@ -2,16 +2,7 @@
 #+EXPORT_ID: JY166
 #+TITLE:純陽三書 Chunyang Sanshu
 #+WITNESS: CK-BS JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 08
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-BS_JY166_08p001a>¶
 * 　　吕純陽祖師性功秘旨自序¶
 　　慨夫人自成形以後，喪失元來，將身中至寶，日耗日消，輪¶

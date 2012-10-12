@@ -2,16 +2,7 @@
 #+EXPORT_ID: JY054
 #+TITLE: 太上老君說常清靜真經 Taishang Laojun Shuo Changqingjing Zhenjing
 #+WITNESS: JYE CK-KZ
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY054_01p001a>¶
 @fw1重刊道藏輯要¶
 * 太上老君說常淸靜眞經¶

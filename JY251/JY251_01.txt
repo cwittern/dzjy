@@ -2,16 +2,7 @@
 #+EXPORT_ID: JY251
 #+TITLE:通書 Tongshu
 #+WITNESS: CK-BS JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-BS_JY251_01p001a>¶
 * 　　誠上第一¶
 誠者，聖人之本。¶

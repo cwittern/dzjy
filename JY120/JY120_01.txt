@@ -1,19 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY120
 #+TITLE:陰符玄解 Yinfu Xuanjie
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY120_01p001a>¶
 * 陰符玄解自序¶
 余昔丙子𡻕，讀禮於淸溪山中，曾以是經叩請於嵩山先生曰：¶

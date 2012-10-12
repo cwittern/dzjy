@@ -1,19 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY149
 #+TITLE:鍾呂傳道集 Zhong Lü Chuandao Ji
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY149_01p001a>¶
 * 鍾吕傳道集¶
 初赴雲房召，相與抵掌，而談於翠虛之洞。洞賓在側，老人一見，¶

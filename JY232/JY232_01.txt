@@ -2,16 +2,7 @@
 #+EXPORT_ID: JY232
 #+TITLE:天仙正理直論 Tianxian Zhengli Zhilun
 #+WITNESS: JYE CK-KZ
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY232_01p001a>¶
 * 重修天仙正理書後¶
 伍冲虛真人《天仙正理》書成於前明天啟壬戍至崇禎十二年¶

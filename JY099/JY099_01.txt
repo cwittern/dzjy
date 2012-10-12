@@ -2,16 +2,7 @@
 #+EXPORT_ID: JY099
 #+TITLE:玉清贊化九天演政心印寶懺 Yuqing Zanhua Jiutian Yanzheng Xinyin Baochan 
 #+WITNESS: YP-P JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:YP-P_JY099_01p001a>¶
 * 懴序¶
 關聖帝君曰：¶

@@ -1,21 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY134
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+TITLE:文始眞經 Wenshi Zhenjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+TITLE:
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+TITLE:文始眞經 Wenshi Zhenjing
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY134_02p002a>¶
 * 序¶
 右《新書》著，定關尹子九篇。護左都水使者光祿大夫臣劉向言，¶

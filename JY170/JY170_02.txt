@@ -1,21 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY170
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+TITLE:呂帝聖蹟紀要 Lüdi Shengji Jiyao
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+TITLE::i:呂帝聖蹟紀要 Lüdi Shengji Jiyao
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 02
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+TITLE:呂帝聖蹟紀要 Lüdi Shengji Jiyao
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY170_02p001a>¶
 * 呂帝聖蹟紀要序¶
 仙聖佛祖，同此慈悲濟度。我¶

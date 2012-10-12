@@ -2,11 +2,7 @@
 #+EXPORT_ID: EX004
 #+TITLE: 女丹合編 Nudan Hebian
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-#+BASEEDITION: YP
-=======
 #+BASEEDITION: CK-KZ
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-EX_EX004_09p003a>¶
 ** 女金丹上卷(規戒)¶
 　　　　　　　用中貞一子著¶

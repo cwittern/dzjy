@@ -1,19 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP17
 #+TITLE:
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
-=======
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JYP17_01p020a>¶
 * 重刋道藏輯要子目初編序¶
 目錄之學，厯有專家。自漢劉向《别錄》劉歆《七略》，創爲分别部居¶

@@ -2,18 +2,8 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 22
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
-#+PROPERTY: JUAN txt
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-EX_JY265_22p001a>¶
 * 道藏三籙論奏獻錢馬事靈寶文檢卷七¶
 　凡修齋醮，奏獻錢馬，皆以質誠效信，通達眞靈。若分位繁多，¶

@@ -2,18 +2,8 @@
 #+EXPORT_ID: JY265
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
-<<<<<<< HEAD
-<<<<<<< HEAD
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
-=======
-#+BASEEDITION: CK-KZ
-#+SEC: 03
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
-#+BASEEDITION: YP
-#+PROPERTY: JUAN txt
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-EX_JY265_03p003a>¶
 * 重刋道藏輯要靈寶文檢跋卷之一¶
 請禱之舉見於《魯論》，禬磔之文垂諸《周禮》。竊謂先王藉神道以¶

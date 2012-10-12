@@ -1,21 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY008
-<<<<<<< HEAD
-<<<<<<< HEAD
-#+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
-=======
-#+TITLE:元始大洞玉經 Yuanshi Dadong Yujing
-#+WITNESS: YP JYE
-#+BASEEDITION: CK-KZ
-#+SEC: 01
->>>>>>> cc399419a54ac8bb3f7e496efeab7a17cca5c7ac
-=======
 #+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
->>>>>>> 7c1e8918503342d8f540d9108f89e4bcf4ec73d8
 <pb:CK-KZ_JY008_01p001a>¶
 * 元始大洞玉經序¶
 純陽帝君曰：『吾道貴長生，所重者命而已。而道之命，所以異于¶
