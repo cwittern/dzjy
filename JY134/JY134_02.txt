@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY134
-#+TITLE:文始眞經 Wenshi Zhenjing
+#+TITLE:文始眞經
+#+PROPERTY: pinyin Wenshi Zhenjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY134_02p002a>¶
@@ -18,4 +19,4 @@
 因治淮南王事得之。臣向幼妤焉。寂士淸人，能重愛黃老，淸靜¶
 不可闕。臣向昧死上。永始二年八月庚子護左都水使者光祿¶
 大夫臣向謹進上¶
-¶	
+¶

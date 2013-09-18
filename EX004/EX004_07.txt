@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_07p001a>¶
 ** 女丹十則¶
-　　　　華藏山淸烈古佛著¶
+　　　　@by華藏山淸烈古佛著¶
 *** 　　第一則養眞化氣¶
 凡男子修行，皆從初工運煉築基起手。若是女子修行，¶
 與男子不同。男子陽從下洩，女子陽從上升。男子體剛，¶
@@ -312,4 +313,4 @@
 <pb:CK-EX_EX004_07p018a>¶
 　　不是知音休顯示，　倘無緣遇莫陳觀。¶
 　　苦我類數辛勤力，　遺留後世待高賢。¶
-¶	
+¶

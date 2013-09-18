@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_18p001a>¶
-* 重刋道藏輯要上淸靈寶文檢卷之五¶
+@fw重刋道藏輯要上淸靈寶文檢卷之五¶
 　　目錄¶
 陽醮表文類¶
 　庭參九皇表　　酬盟三淸表　　玉帝表功〓¶

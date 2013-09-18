@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY149
-#+TITLE:鍾呂傳道集 Zhong Lü Chuandao Ji
+#+TITLE:鍾呂傳道集
+#+PROPERTY: pinyin Zhong Lü Chuandao Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY149_02p001a>¶
@@ -1271,4 +1272,4 @@
 經，竊欲誌一言，爰作數語，附於篇末。至此經之精微，則¶
 宏教眞君恩大祖師言之詳且賅矣，夫何庸再贅爲哉。純陽法¶
 嗣正化子恩洪謹跋。¶
-¶	
+¶

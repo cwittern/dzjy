@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY204
-#+TITLE:孫不二元君傳述丹道祕書三卷 Sun Bu'Er Yuanjun Chuanshu Dandao Bishu Sanjuan
+#+TITLE:孫不二元君傳述丹道祕書三卷
+#+PROPERTY: pinyin Sun Bu'Er Yuanjun Chuanshu Dandao Bishu Sanjuan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY204_01p111a>¶
@@ -143,4 +144,4 @@
 　貫串金石。¶
 丹霄碧墟，上聖之儔。¶
 《右守一詩》終¶
-¶	
+¶

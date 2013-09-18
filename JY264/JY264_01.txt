@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+DATE: 2011-05-19
-#+TITLE:  大上三元賜福赦罪解厄消災延生保命妙經
+#+TITLE:  太上三元賜福赦罪解厄消災延生保命妙經
 #+PROPERTY: ID JY264
 #+PROPERTY: KXID 255
+#+PROPERTY: pinyin Taishang Sanyuan Cifu Shezui Jie’e Xiaozai Yansheng Baoming Miaojing
 #+PROPERTY: DZ DZ1442, DZ0071
 #+PROPERTY: SOURCE 重刊道臧輯要考正版    
 #+PROPERTY: BASEEDITION CK-KZ

@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_14p001a>¶
-* 重刋道藏輯要上淸靈寶文檢卷之三¶
+@fw重刋道藏輯要上淸靈寶文檢卷之三¶
 　　目錄¶
 九皇大醮¶
 　星主　　南極　　尊帝　　斗姥　　九皇　　本命¶

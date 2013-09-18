@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY165
-#+TITLE:呂帝詩集 Lüdi Shiji
+#+TITLE:呂帝詩集
+#+PROPERTY: pinyin Lüdi Shiji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY165_04p001a>¶
-@fw1重刋道藏輯要¶
-* 　詩集下卷¶
+@fw重刋道藏輯要¶
+　詩集下卷¶
 　五言絶句¶
 　　示人四首¶
 　　秋興四首¶
@@ -259,4 +260,4 @@
 <pb:CK-KZ_JY165_04p012b>¶
 　　百字碑(有注)¶
 　　法語丹訣二首(有注)¶
-¶	
+¶

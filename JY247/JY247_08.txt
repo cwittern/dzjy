@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY247
-#+TITLE:三寶萬靈法懺 Sanbao Wanling Fachan
+#+TITLE:三寶萬靈法懺
+#+PROPERTY: pinyin Sanbao Wanling Fachan
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY247_08p001a>¶
-@fw1重刻道藏輯要¶
-* 　三寶萬靈法懺　　　　　　　下元道士王守上閱¶
+@fw重刻道藏輯要¶
+* 　三寶萬靈法懺　　　　　　　@by下元道士王守上閱¶
 　　五老誥¶
 志心皈命禮，陰陽始祖，天地根原。受誥命於玉皇，秉呪章於靈¶
 寶。彩書錦篆，吐五炁之精華；赤幅丹囊，發三光之晃耀。嘯歌於¶
@@ -610,4 +611,4 @@
 恩，人人佩澤。大悲大願，大聖大慈，玉經啟教，金闕萬福，護身眞¶
 <pb:CK-KZ_JY247_08p028b>¶
 人，流衍萬眞，妙寶神功，顯號應化天尊。¶
-¶	
+¶

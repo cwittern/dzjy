@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY092
-#+TITLE:終南八祖說心印妙經解 Zhongnan Bazu Shuo Xinyin Miao Jingjie
+#+TITLE:終南八祖説心印妙經解
+#+PROPERTY: pinyin Zhongnan Bazu Shuo Xinyin Miao Jingjie
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY092_01p016a>¶

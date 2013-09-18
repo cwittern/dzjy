@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY251
-#+TITLE:通書 Tongshu
+#+TITLE:通書
+#+PROPERTY: pinyin Tongshu
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY251_01p001a>¶
@@ -513,4 +514,4 @@
 　太史黃公庭堅曰：『舂陵周茂叔，人品甚高，胸中灑落，如光風¶
 　霽月。』¶
 　註(延平先生每誦此語，以爲善形容有道者氣象。)¶
-¶	
+¶

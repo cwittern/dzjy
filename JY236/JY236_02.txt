@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY236
-#+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
+#+TITLE:張三丰先生全集
+#+PROPERTY: pinyin Zhang Sanfeng Xiansheng Quanji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY236_02p001a>¶
-* 　　凡例十二則¶
+　　凡例十二則¶
 一此書訪輯，知多遺漏。然其詩古文詞、鑑論經訓，皆宗三教之¶
 　旨，以垂百世之言。亦涵三宮所云：『《呂祖全書》輯未全，而義則¶
 　全也。』故曰全集。¶
@@ -38,4 +39,4 @@
 一此書雕成之後，專望博雅君子，爰仿古人，編輯搜軼，補附卷¶
 <pb:CK-KZ_JY236_02p002b>¶
 　末。再有所得，依此續之。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY175
-#+TITLE:悟真篇三注 Wuzhen Pian Sanzhu
+#+TITLE:悟眞篇三注
+#+PROPERTY: pinyin Wuzhen Pian Sanzhu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY175_01p001a>¶
@@ -68,4 +69,4 @@
 頌詩曲雜言三十二首，今附之卷末，庶幾達本明性之道盡於¶
 此矣。所期同志覽之，則見末而悟本，舍妄以從眞。旹¶
 皇宋熙甯乙卯𡻕旦，天台張伯端平叔序。¶
-¶	
+¶

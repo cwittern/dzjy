@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY150
-#+TITLE:銅符鐵券 Tongfu Tiequan
+#+TITLE:銅符鐵券
+#+PROPERTY: pinyin Tongfu Tiequan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY150_01p001a>¶
@@ -16,4 +17,4 @@
 集是書，誠索訣於紙。然他日有因此而獲魚兔者，未必非此爲¶
 <pb:CK-KZ_JY150_01p001b>¶
 之筌蹄也。己亥仲夏，一壑居士題。¶
-¶	
+¶

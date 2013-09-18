@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY093
-#+TITLE:高上玉皇心印經 Gaoshang Yuhuang Xinyin Jing
+#+TITLE:高上玉皇心印經
+#+PROPERTY: pinyin Gaoshang Yuhuang Xinyin Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY093_01p018a>¶
@@ -21,7 +22,7 @@
 生，而亦不能死矣。此空洞子拈花處也。讀者參之。¶
 <pb:CK-KZ_JY093_01p019a>¶
 * 高上玉皇心印經¶
-　　　　　　　　　　　　　　　　　蜀抱眞子註¶
+　　　　　　　　　　　　　　　　　@by蜀抱眞子註¶
 ** 上藥三品，神與氣精。¶
 　修仙者，採藥以煉丹，還丹而合道。其初必先明藥品。上藥，大¶
 　藥也。道生一，一生二，二生三，三者萬物之眞數，故藥品以三。¶

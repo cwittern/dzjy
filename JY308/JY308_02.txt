@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY308
-#+TITLE: 靑城山記 Qingcheng Shan Ji
+#+TITLE: 青城山記
+#+PROPERTY: pinyin Qingcheng Shan Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY308_02p001a>¶
@@ -25,5 +26,5 @@
 廬，檢閱羣籍，就所見錄爲一冊，名曰靑城山記。聊存梗概云耳。¶
 若云揚洞天之勝，搜福地之奇，烏乎敢。¶
 光緒丁亥蒲月望後二日濤江漁子彭洵叙於種書堂。¶
-¶	
-¶	
+¶
+¶

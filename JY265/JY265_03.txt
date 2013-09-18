@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
@@ -22,4 +23,4 @@
 外哉。是則¶
 公之得斯而傅斯也，其亦信人以信神之深意也夫。¶
 道光庚子秋，象山維雲裳拜跋。¶
-¶	
+¶

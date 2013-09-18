@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY287
-#+TITLE:中極戒 Zhongji Jie
+#+TITLE:中極戒
+#+PROPERTY: pinyin Zhongji Jie
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY287_01p062a>¶
@@ -392,5 +393,5 @@
 德眞人之號，仰祈¶
 本壇監戒護戒糾察善惡諸大神王，威神力士官將吏兵，出入¶
 護持，保成戒行，須至通知。¶
-¶	
-¶	
+¶
+¶

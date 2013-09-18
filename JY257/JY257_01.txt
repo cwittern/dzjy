@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY257
-#+TITLE:元皇大道眞君救劫寶經 Yuanhuang Dadao Zhenjun Jiujie Baojing
+#+TITLE:元皇大道眞君救劫寶經
+#+PROPERTY: pinyin Yuanhuang Dadao Zhenjun Jiujie Baojing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY257_01p018a>¶
 * 元皇大道眞君救劫寶經¶
-　　　　　　　　　　　　　　大興朱　珪石君敬校¶
-　　　　　　　　　　　　　　睢陽蔣予蒲夢因重訂¶
+　　　　　　　　　　　　　　@by大興朱　珪石君敬校¶
+　　　　　　　　　　　　　　@by睢陽蔣予蒲夢因重訂¶
 眞君曰：吾道德圓通，久證眞位。兹以劫運可念，遂願救度衆生。¶
 壬申𡻕七月七日，時西晉懷帝永嘉六年，琅輿羽軒、麟車鳳駕、¶
 玉童玉女、神將天兵、樂隊旌旗百萬引從侍衞森列，樂音震天，¶
@@ -173,4 +174,4 @@
 火休添炭，扇遇涼時莫使風。立心若不行方便，念盡彌陀總是¶
 空。又曰：饒一著，添子孫之福夀；退一步，寛隙駒之易過；忍一言，¶
 免駟馬之難追；息一怒，養身心之精神。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY099
-#+TITLE:玉清贊化九天演政心印寶懺 Yuqing Zanhua Jiutian Yanzheng Xinyin Baochan 
+#+TITLE:玉清贊化九天演政心印寶懺
+#+PROPERTY: pinyin Yuqing Zanhua Jiutian Yanzheng Xinyin Baochan
 #+WITNESS: YP-P JYE
 #+BASEEDITION: YP
 <pb:YP-P_JY099_01p001a>¶
@@ -18,4 +19,4 @@
 天道轉相導引，仁風徧宇，道氣充天，不胥由心印懴之育人神¶
 化也哉！世有拘人，或展卷而逞其執抝之説。余故發明此義，以¶
 表此懴之功用，而登我多士于常敬之天也。是爲序。¶
-¶	
+¶

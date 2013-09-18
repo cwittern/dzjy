@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY109
-#+TITLE:九皇新經註解 Jiuhuang Xinjing Zhujie
+#+TITLE:九皇新經註解
+#+PROPERTY: pinyin Jiuhuang Xinjing Zhujie
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY109_01p001a>¶
@@ -250,4 +251,4 @@
 　元之眞機，說拜斗之秘訣，眾生有能體貼者，方口口不離至¶
 　真，時時修鍊妙道，焉有不感大天尊之𢎞恩大量也哉。¶
 <pb:CK-KZ_JY109_01p013b>¶
-¶	
+¶

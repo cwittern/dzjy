@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_22p001a>¶
-* 道藏三籙論奏獻錢馬事靈寶文檢卷七¶
+@fw道藏三籙論奏獻錢馬事靈寶文檢卷七¶
 　凡修齋醮，奏獻錢馬，皆以質誠效信，通達眞靈。若分位繁多，¶
 　恐諸事有闕。古法但焚柴割髮，奏白飛章，酌水獻花，㝠心懇¶
 　禱。由此觀之，奏紙之法，亦不假多，而獲福惟在至誠矣。¶
@@ -21,4 +22,4 @@
 　　目錄¶
 　羅天大醮計一百狀¶
 　　一千二百分位¶
-¶	
+¶

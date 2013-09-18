@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY253
-#+TITLE:擊壤集 Jirang Ji
+#+TITLE:擊壤集
+#+PROPERTY: pinyin Jirang Ji
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY253_01p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 　擊壤集¶
-康節先生邵雍著¶
+@by康節先生邵雍著¶
 ** 　　閑吟(四首錄一)¶
 欲有一瓢樂，曾無二頃田。丹誠未貫日，白髮已華顚。雲意寒尤¶
 淡，松心老益堅。年來疎懶甚，時憶舊林泉。¶
@@ -1203,4 +1204,4 @@
 天自得一天無旣，我一自天而後至。唯天與一無兩般，我亦何¶
 <pb:CK-BS_JY253_01p055b>¶
 嘗與天異。¶
-¶	
+¶

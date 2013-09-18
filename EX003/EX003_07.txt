@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX003
-#+TITLE: 太上無極太道三十六部尊經註解
+#+TITLE: 太上無極大道三十六部尊經註解
+#+PROPERTY: pinyin Taishang Wuji Dadao Sanshiliu Bu Zunjing Zhujie
 #+WITNESS: CK-EX
 #+BASEEDITION: CK
 #+PROPERTY: JUAN txt
 <pb:CK-EX_EX003_07p001a>¶
-太上無極大道三十六部尊經註解下卷下¶
-　　　　　　　　　　　　　孚佑帝君註解¶
+* 太上無極大道三十六部尊經註解下卷下¶
+　　　　　　　　　　　　　@by孚佑帝君註解¶
 *** 集靈經第七(靈指靈光而言集靈者集其靈光使不亂也)¶
 天真大聖。至真大神。十方無極。無量飛天神王。及諸仙眾。同會¶
 其所。¶

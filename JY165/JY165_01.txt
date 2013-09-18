@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY165
-#+TITLE:呂帝詩集 Lüdi Shiji
+#+TITLE:呂帝詩集
+#+PROPERTY: pinyin Lüdi Shiji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY165_01p001a>¶
@@ -40,4 +41,4 @@
 加詳校，期無魯魚亥豕之訛。俾讀者得由斯以作問道津梁，是¶
 固當求之無聲之表，而勿僅歎美於篇章字句間也。¶
 　　　　　　　　　　　宏教弟子柳守元熏沐題詞。¶
-¶	
+¶

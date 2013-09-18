@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY133
-#+TITLE:南華真經註疏 Nanhua Zhenjing Zhushu
+#+TITLE:南華眞經註疏
+#+PROPERTY: pinyin Nanhua Zhenjing Zhushu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY133_01p001a>¶
@@ -35,7 +36,7 @@
 兩者皆新安人，故予序之，爲並不朽云。¶
 　　　　　　　　　　　晉陵友弟鄒忠允頓首拜序¶
 <pb:CK-KZ_JY133_01p002b>¶
-¶	
+¶
 <pb:CK-KZ_JY133_01p003a>¶
 * 南華眞經註疏自序¶
 復圭子曰，《道德經》爲三教之祖¶
@@ -93,4 +94,4 @@
 太上與南華之眞面目乎？天下倘有因面目而知索其精神者，¶
 則傳神集之名爲不虛矣。¶
 　　　　　　　　　同邑道友了凡汪伯修頓首拜題¶
-¶	
+¶

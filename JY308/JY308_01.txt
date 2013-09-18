@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY308
-#+TITLE: 靑城山記 Qingcheng Shan Ji
+#+TITLE: 青城山記
+#+PROPERTY: pinyin Qingcheng Shan Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY308_01p001a>¶
-* 靑城山記目錄¶
+@fw靑城山記目錄¶
 　　　第一卷¶
 　　　　原始記¶
 　　　　四至記¶
@@ -19,4 +20,4 @@
 　　　　　方技¶
 　　　　靑城山拾遺¶
 　　　　靑城逸事¶
-¶	
+¶

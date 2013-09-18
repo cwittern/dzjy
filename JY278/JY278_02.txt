@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY278
-#+TITLE:十戒功過格 Shijie Gongguo Ge
+#+TITLE:十戒功過格
+#+PROPERTY: pinyin Shijie Gongguo Ge
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY278_02p001a>¶
@@ -52,4 +53,4 @@
 鬼神護持，末世人心信根淺薄，必有因是書而得罪於鬼神者，¶
 豈不大可危哉？吾願斯人，各幸其所幸，而不蹈其所危。予亦可¶
 以宣洩之，盡吿無罪於天人也。是則予之大幸也夫。純陽子書¶
-¶	
+¶

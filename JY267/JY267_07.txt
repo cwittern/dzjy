@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY267
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY267_07p004a>¶
@@ -946,6 +947,6 @@
 聖心遠鑒，飛花雨於龍潭。提攜逝性，近上品之蓮鄕。保佑僧儔，¶
 　安中州之梵宇。山門興盛，香火綿長。(臣)冒干¶
 慈光，無任激切，屏營之至，謹意。¶
-¶	
-¶	
+¶
+¶
 玄宗通事雅宜集卷之三終¶

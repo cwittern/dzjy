@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY232
-#+TITLE:天仙正理直論 Tianxian Zhengli Zhilun
+#+TITLE:天仙正理直論
+#+PROPERTY: pinyin Tianxian Zhengli Zhilun
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY232_02p001a>¶
@@ -234,4 +235,4 @@
 時¶
 大明崇禎十二年己卯秋，邱真人門下第八派分符領節(弟子)¶
 冲虛伍守陽，序於南都燈市道隱齋中。¶
-¶	
+¶

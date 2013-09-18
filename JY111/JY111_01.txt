@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY111
-#+TITLE:浮黎鼻祖金華祕訣 Fulibizu Jinhua Bijue
+#+TITLE:浮黎鼻祖金華祕訣
+#+PROPERTY: pinyin Fulibizu Jinhua Bijue
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY111_01p025a>¶
@@ -56,7 +57,7 @@
 有緣得覩是，必信而行之，方知師恩難報，而造化神功大矣，可¶
 忽之哉？紫陽張伯端序。¶
 <pb:CK-KZ_JY111_01p027b>¶
-¶	
+¶
 <pb:CK-KZ_JY111_01p028a>¶
 * 浮黎鼻祖金華秘訣題詞¶
 《金華秘訣》，舊傳葛、王二註。細味王註，不識藥物，卽言言解折，終¶

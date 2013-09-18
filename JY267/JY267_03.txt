@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY267
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY267_03p005a>¶
@@ -897,5 +898,5 @@
 <pb:CK-EX_JY267_03p045b>¶
 　文狥意，則有犯於科條。因事懷嗔，豈無加於罪咎。萬妄皆空，¶
 　方爲上士。三乘偹誦，願仗高人。故榜。¶
-¶	
-¶	
+¶
+¶

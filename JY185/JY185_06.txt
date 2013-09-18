@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY185
-#+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
+#+TITLE:瓊琯白眞人集
+#+PROPERTY: pinyin Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY185_06p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 　瓊琯眞人集¶
-宋海南白玉蟾著¶
+@by宋海南白玉蟾著¶
 ** 　文¶
 *** 　　屏睡魔文¶
 人生無百年，能有幾一日？况百年三萬六千日，總有三百六十¶
@@ -1248,4 +1249,4 @@
 <pb:CK-KZ_JY185_06p057b>¶
 新梢凝翠，落照餘紅。亂鴉噪罷，葉葉淸風。(風筠)¶
 一枝嫩綠，數葉老蒼。夜半月明，淸露瀼瀼。(露篠)¶
-¶	
+¶

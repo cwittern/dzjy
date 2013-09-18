@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY166
-#+TITLE:純陽三書 Chunyang Sanshu
+#+TITLE:純陽三書
+#+PROPERTY: pinyin Chunyang Sanshu
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY166_05p001a>¶
-@fw1續刻道藏輯要¶
+@fw續刻道藏輯要¶
 * 　　玄藻秘旨　　　　　　新津彭一淸乾陽校正¶
 ** 　　　道說(三章)　　　　　渠縣王妙生雲朋重刋¶
 　柳仙眞曰：人之神不住於血氣形體，在身中虗竅出入。只因¶
@@ -232,4 +233,4 @@
 　見者，各以自得自進立見成就。吾至非爲邀人之祀，非以求¶
 　世之名。所以然者，上奉皇天大道，開化後來，衍流道派，同興¶
 　大會於此。所言所訓，盡泄玄秘，學者遇之非偶也。¶
-¶	
+¶

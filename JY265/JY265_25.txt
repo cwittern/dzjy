@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_25p001a>¶
 * 重刋道藏輯要上淸靈寶文檢卷之八¶
-　　　　　　　　　　　綿竹退隱陳復烜含樸校正¶
+　　　　　　　　　　　@by綿竹退隱陳復烜含樸校正¶
 *** 　　消災三百六十分位(皆稱門下)¶
 　　第一狀，五分，　玉虛上帝眾眞。　(羅天之一，　用眞慈。)¶
 　　第二狀，三分，　三寶帝君。　　　(羅天之二。)¶
@@ -636,9 +637,9 @@
 一朝服除意難除。¶
 守制無改家風舊，¶
 服闋還知世事新。¶
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
 上淸靈寶文檢卷之八終¶

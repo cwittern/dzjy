@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY166
-#+TITLE:純陽三書 Chunyang Sanshu
+#+TITLE:純陽三書
+#+PROPERTY: pinyin Chunyang Sanshu
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY166_08p001a>¶
@@ -32,4 +33,4 @@
 　　是爲序。¶
 　　　　𡶾¶
 　　大淸康熙癸未𡻕孟冬吉旦純陽子書¶
-¶	
+¶

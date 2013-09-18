@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY166
-#+TITLE:純陽三書 Chunyang Sanshu
+#+TITLE:純陽三書
+#+PROPERTY: pinyin Chunyang Sanshu
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY166_02p001a>¶
-* 純陽三書玄藻秘旨¶
+純陽三書玄藻秘旨¶
 　目錄¶
 　　卷一¶
 　　　序¶
@@ -23,14 +24,14 @@
 　　　七言絕八十一首¶
 　　　五言絕句九首¶
 　　　証道歌九首¶
-* 純陽三書枕中秘旨¶
+純陽三書枕中秘旨¶
 　目錄¶
 <pb:CK-BS_JY166_02p002a>¶
 　　卷四¶
 　　　玉陽四祖訓¶
 　　　看天圖¶
 　　　八門十圖¶
-* 純陽三書性功秘旨¶
+純陽三書性功秘旨¶
 　目錄¶
 　　卷五¶
 　　　吕祖自序¶
@@ -62,4 +63,4 @@
 　　　劉奚二眞¶
 　　　尹眞人卦爻論¶
 　　　玄宗正脈直指三要¶
-¶	
+¶

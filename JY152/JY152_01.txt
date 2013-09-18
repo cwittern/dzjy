@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY152
-#+TITLE:太上靈寶淨明宗教錄 Taishang Lingbao Jingming Zongjiao Lu
+#+TITLE:太上靈寶淨明宗教錄
+#+PROPERTY: pinyin Taishang Lingbao Jingming Zongjiao Lu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY152_01p001a>¶
@@ -106,4 +107,4 @@
 　賴諸善神匡扶，不能侵害。加以《敷落五篇》懸之宅舍，家室安¶
 　甯，消諸魔障。吾願淨明學者，俱按期服篆，身有光明，卽法也，¶
 　而道在其中矣。¶
-¶	
+¶

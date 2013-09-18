@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY278
-#+TITLE:十戒功過格 Shijie Gongguo Ge
+#+TITLE:十戒功過格
+#+PROPERTY: pinyin Shijie Gongguo Ge
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY278_03p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 　十戒功過格(一名行覈)¶
 *** 孚佑上帝純陽吕祖天師示定¶
 　　一戒殺○念念慈愛，在在生機，爲殺戒圓成。殺戒圓成者，¶
@@ -1242,4 +1243,4 @@
 　一念旣空萬善，而一念曾不捨慈悲，爲行不落空。¶
 　一念無始無終滅生滅相，而一念實能應感一切無遺漏因，¶
 　爲心不落空，俱爲不可言說，不可言說難思議功。¶
-¶	
+¶

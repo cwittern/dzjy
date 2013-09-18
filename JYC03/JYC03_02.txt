@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC03
-#+TITLE:
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+TITLE:道藏輯要子目初編
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC03_02p001a>¶
 * 道藏輯要子目初編卷二¶
 　　　　　　　井　研　賀　龍　驤　初　編¶
@@ -2154,8 +2154,8 @@
 　　　　　洞府新成¶
 　　　　　神驗前修¶
 　　　　　心期後學¶
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
 道藏輯要子目初編巻二終¶

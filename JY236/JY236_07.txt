@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY236
-#+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
+#+TITLE:張三丰先生全集
+#+PROPERTY: pinyin Zhang Sanfeng Xiansheng Quanji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY236_07p001a>¶
-@fw1重刊道藏輯要¶
+@fw重刊道藏輯要¶
 * 張三丰先生全集¶
-　漢嘉長乙山人李西月重編　　張道淵子深氏書¶
+　@by漢嘉長乙山人李西月重編　　@by張道淵子深氏書¶
 　　　　　　　　　　　閬中朱道生晚成子校刊¶
 　　　　　　　　　　　　姪　　瑛春城¶
 　　　　　　　　　　　　　朱　瓚素園仝校字¶
@@ -874,4 +875,4 @@
 『戊』之旁。戊己二土，以『刀』、『圭』兩字合之，葢望人將離己、坎戊之二¶
 <pb:CK-KZ_JY236_07p040b>¶
 土合爲一處也。仙家隱語，往往如是。¶
-¶	
+¶

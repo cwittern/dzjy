@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY172
-#+TITLE:東園語錄 Dongyuan Yulu
+#+TITLE:東園語錄
+#+PROPERTY: pinyin Dongyuan Yulu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY172_04p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 東園語錄¶
-　　　　　　　　　　　　　平雲堂眞如居士¶
+　　　　　　　　　　　　　@by平雲堂眞如居士¶
 　　　　　　　　　　　　　崇德堂眾姓捐資(敬刋)¶
 士子讀聖賢書，先須明善惡兩途。旣明善惡，於事之善者，不獨¶
 嗜好之，珍寶之，必當身體而力行之，庶幾事事歸於至善矣；於¶
@@ -764,4 +765,4 @@
 之矣。吾因嘆盲師之害人，如此其甚也。而塵世之學道，被盲師¶
 <pb:CK-KZ_JY172_04p035b>¶
 欺誑者，蓋擢髮難數矣，可慨也夫。¶
-¶	
+¶

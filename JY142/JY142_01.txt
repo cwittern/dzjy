@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY142
-#+TITLE:入藥鏡 Ruyao Jing
+#+TITLE:入藥鏡
+#+PROPERTY: pinyin Ruyao Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY142_01p001a>¶
@@ -34,4 +35,4 @@
 誦，斷斷有神吿心悟之効，無疑也。或者有云吾註不足爲信，而¶
 崔公之言當以爲實，依而行之，信而從之，運煉一身，則學仙之¶
 能事畢矣。南昌修江混然子王道淵序。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY167
-#+TITLE:易說 Yishuo
+#+TITLE:易説
+#+PROPERTY: pinyin Yishuo
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY167_01p001a>¶
@@ -29,4 +30,4 @@
 《易》。然以人合天之理，啟迪來學，使利貞常獲，無蹈危機，是余之¶
 志也夫。¶
 　　　　　　　　　黃鶴山人吕子題於空秀閣。¶
-¶	
+¶

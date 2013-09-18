@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
@@ -20,4 +21,4 @@
 爰付剞劂，用克成編。敢居能於校正哉？覽者其亦有鑒於斯。¶
 道光乙酉仲夏，綿竹羽士含樸氏陳復烜敘於眞武觀之芥子¶
 　山房。¶
-¶	
+¶

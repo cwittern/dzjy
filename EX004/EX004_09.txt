@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_09p003a>¶
 ** 女金丹上卷(規戒)¶
-　　　　　　　用中貞一子著¶
+　　　　　　　@by用中貞一子著¶
 *** 　　立志入道¶
 天陽地陰，乾剛坤順。陰無陽不長，陽無陰不生。剛柔得¶
 其中和，水火始能旣濟。陰陽必有四偶，人物由茲孕生。¶
@@ -231,4 +232,4 @@
 <pb:CK-EX_EX004_09p015b>¶
 恭敬，勤求切問，厯久不怠，方得卒聞心法，而昇天有路¶
 矣。¶
-¶	
+¶

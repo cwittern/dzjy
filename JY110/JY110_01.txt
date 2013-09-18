@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY110
-#+TITLE:玄宗正旨 Xuanzong Zhengzhi
+#+TITLE:玄宗正旨
+#+PROPERTY: pinyin Xuanzong Zhengzhi
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY110_01p001a>¶
@@ -33,4 +34,4 @@
 <pb:CK-KZ_JY110_01p002b>¶
 旨爲一册，以明玄禪相通之妙云爾。¶
 　　　　　　　　　　　宏教弟子柳守元薰沐題詞¶
-¶	
+¶

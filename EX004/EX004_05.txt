@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_05p018a>¶
 ** 男女丹工異同辨¶
-　　　　　　　　竹陽女史顏澤寰晏淸　纂述¶
-　　　　　　　　仙井女史賀爲烈全貞　參校¶
+　　　　　　　　@by竹陽女史顏澤寰晏淸　纂述¶
+　　　　　　　　@by仙井女史賀爲烈全貞　參校¶
 　　集說¶
 孫元君坤訣註曰：《彖》曰：『至哉坤元，萬物資生。』坤屬老陰，¶
 陰極陽生。順承乎天則生人生物，順承乎己，則成道成¶
@@ -221,4 +222,4 @@
 胎澤不結嬰，雖動於慾，不能與神爭。』此是成胎之中眞¶
 <pb:CK-EX_EX004_05p030a>¶
 精返爲神，此是上淸也。¶
-¶	
+¶

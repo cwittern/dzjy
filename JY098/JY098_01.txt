@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY098
-#+TITLE:玉清贊化九天演政心印集經 Yuqing Zanhua Jiutian Yanzheng Xinyin Jijing
+#+TITLE:玉清贊化九天演政心印集經
+#+PROPERTY: pinyin Yuqing Zanhua Jiutian Yanzheng Xinyin Jijing
 #+WITNESS: YP-P JYE
 #+BASEEDITION: YP
 <pb:YP-P_JY098_01p001a>¶
@@ -21,4 +22,4 @@
 其所願，猗歟美哉！亦何必盡人而黄冠草褐，始謂歸依于無上¶
 宫哉？兹因是經之初傳，而降此幾鉤墨于簡端，亦取諸集以成¶
 書，敷落神眞云爾。¶
-¶	
+¶

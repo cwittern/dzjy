@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY192
-#+TITLE:太公陰符經 Taigong Yinfu Jing
+#+TITLE:太公陰符經
+#+PROPERTY: pinyin Taigong Yinfu Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY192_01p001a>¶
@@ -24,7 +25,7 @@
 可傳者，亦無可語者。謹將此訣祕之，以俟後之高明者耳。¶
 ¶
 <pb:CK-KZ_JY192_01p002a>¶
-* 《陰符經》目錄¶
+《陰符經》目錄¶
 　　行道章¶
 　　入道章¶
 　　由道章¶

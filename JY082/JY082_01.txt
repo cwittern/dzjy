@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY082
-#+TITLE:太上感應篇集注 Taishang Ganyingpian Jizhu
+#+TITLE:太上感應篇集注
+#+PROPERTY: pinyin Taishang Ganyingpian Jizhu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY082_01p001a>¶
@@ -175,7 +176,7 @@
  　太極眞人讚　　(秋浦曹曰瑛敬書)¶
 #+END_VERSE
 <pb:CK-KZ_JY082_01p013a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 太上感應篇集註¶
 　(太上者，道門至尊之稱也。由此動彼，謂之感。由彼答此，謂之應。言善惡感動天地，必有報應也。)¶
 太上曰：禍福無門，惟人自召。(此二句合下二句，爲一節。乃一篇之綱領也。葢言天地無私，因物付¶
@@ -1426,4 +1427,4 @@ pb:CK-KZ_JY082_01p044a>¶
 <pb:CK-KZ_JY082_01p070b>¶
 乾隆五十一年丙午三月朔日海昌查¶
 瑩謹跋¶
-¶	
+¶

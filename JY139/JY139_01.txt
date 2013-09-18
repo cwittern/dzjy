@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY139
-#+TITLE:參同契闡幽 Cantong Qi Chanyou
+#+TITLE:參同契闡幽
+#+PROPERTY: pinyin Cantong Qi Chanyou
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY139_01p001a>¶
@@ -61,4 +62,4 @@
 <pb:CK-KZ_JY139_01p003b>¶
 情，悉發大光明藏，破暗燭幽，余亦從此兀然忘言矣。¶
 康熙己酉仲春朔旦北宗龍門派下弟子朱元育稽首敬撰。¶
-¶	
+¶

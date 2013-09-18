@@ -1,13 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY167
-#+TITLE:易說 Yishuo
+#+TITLE:易説
+#+PROPERTY: pinyin Yishuo
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY167_03p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 　易說¶
-孚佑上帝純陽吕祖天師著¶
-* 　圖解目錄¶
+@by孚佑上帝純陽吕祖天師著¶
+　圖解目錄¶
 　　河圖元圖¶
 　　洛書元圖¶
 　　先天混極圖解¶
@@ -42,4 +43,4 @@
 　　天根月窟圖解¶
 　　陰陽消息圖解¶
 　　卦序圖解¶
-¶	
+¶

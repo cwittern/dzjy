@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY113
-#+TITLE:金碧古文龍虎上經 Jinbi Guwen Longhu Shangjing
+#+TITLE:金碧古文龍虎上經
+#+PROPERTY: pinyin Jinbi Guwen Longhu Shangjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY113_01p095a>¶
@@ -42,7 +43,7 @@
 僭爲註說，命之曰《玄解》，敘而投之篋中。明萬厯己亥季夏廿之¶
 四日，書於會水別墅。楚黃西陵一壑居士彭好古撰。¶
 <pb:CK-KZ_JY113_01p097a>¶
-@fw1重刻道藏輯要¶
+@fw重刻道藏輯要¶
 * 　金碧古文龍虎上經¶
 軒轅黃帝著¶
 　　　　　　　　　　　明西陵一壑居士彭好古解¶
@@ -401,4 +402,4 @@
 　日也。世之讀丹書者，流覽百家，而於此經，以其難解而棄之。¶
 　余爲此懼，故作《玄解》，以附上經之後。¶
 <pb:CK-KZ_JY113_01p113b>¶
-¶	
+¶

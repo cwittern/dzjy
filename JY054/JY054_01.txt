@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY054
-#+TITLE: 太上老君說常清靜真經 Taishang Laojun Shuo Changqingjing Zhenjing
+#+TITLE: 太上老君説常清靜眞經
+#+PROPERTY: pinyin Taishang Laojun Shuo Chang Qingjing Zhenjing
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY054_01p001a>¶
-@fw1重刊道藏輯要¶
+@fw重刊道藏輯要¶
 * 太上老君說常淸靜眞經¶
 ** 八洞仙祖合註¶
 　天地之道，恒久而不已。君子法天行之健，亦用是。自强而不¶
@@ -133,4 +134,4 @@
 　正一眞人曰：『人家有此經，悟解之者，災障不干，眾聖護門，神¶
 　昇上界，朝拜高尊，功滿德就，相感帝君。誦持不退，身騰紫雲。』¶
 常淸常靜天尊(三稱)¶
-¶	
+¶

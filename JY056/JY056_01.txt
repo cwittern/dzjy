@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY056
-#+TITLE:太上道德大天尊說道元一氣經 Taishang Daode Tianzun Shuo Daoyuan Yiqi Jing
+#+TITLE:太上道德大天尊説道元一氣經
+#+PROPERTY: pinyin Taishang Daode Tianzun Shuo Daoyuan Yiqi Jing
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY056_01p005a>¶
@@ -19,4 +20,4 @@
 囿三於一，一炁眞元；人各三具，未得眞元。守三求一，一炁中傳。¶
 信斯玄妙，第一法壇。成三化一，歸一還三；三三妙合，萬妙歸玄。¶
 勅。¶
-¶	
+¶

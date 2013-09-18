@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY185
-#+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
+#+TITLE:瓊琯白眞人集
+#+PROPERTY: pinyin Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY185_05p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 　瓊琯眞人集¶
-宋海南白玉蟾著¶
+@by宋海南白玉蟾著¶
 ** 　聯句¶
 　　旴江舟中聯句　嘉定癸未仲秋之朔，偕黃天谷道旴，而¶
 　　　渝舟中聯句。¶
@@ -1178,4 +1179,4 @@
 磷者不寒，而擁貂者寒。是皆爲寒暑所勝，不能靜以敵之爾。予¶
 謂之言曰：『天道不爭，上善若水。爾無心兵，方寸太平。所以堂之，¶
 而額以斯名。』仁叔字也，其名大榮。¶
-¶	
+¶

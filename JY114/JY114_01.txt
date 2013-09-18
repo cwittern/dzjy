@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY114
-#+TITLE:唱道真言 Changdao Zhenyan
+#+TITLE:唱道眞言
+#+PROPERTY: pinyin Changdao Zhenyan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY114_01p001a>¶
@@ -44,4 +45,4 @@
 之萬異，不可無名。』我曰：『鍊心兩字，是¶
 太上度人、唱明大道、眞眞實實之要言也，名之曰《唱道眞言》何¶
 如？』鶴臞子降階稽首曰：『善。』靑華老人筆。¶
-¶	
+¶

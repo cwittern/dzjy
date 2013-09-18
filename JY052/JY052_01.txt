@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY052
-#+TITLE:道德經釋辭 Daodejing Shici
+#+TITLE:道德經釋辭
+#+PROPERTY: pinyin Daodejing Shici
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY052_01p001a>¶
@@ -159,4 +160,4 @@
 　於京師白雲觀中。不數語感合，遂執弟子禮，捐貲命工鋟梓，¶
 　以廣其傳。豈偶然哉，皆宿世之因也。故敘其事以誌之。¶
 萬厯丁酉季夏望日體物道人岫雲王一淸敘。¶
-¶	
+¶

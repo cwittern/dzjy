@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY075
-#+TITLE:黃庭内景經 Huangting Neijing Jing
+#+TITLE:黃庭内景經
+#+PROPERTY: pinyin Huangting Neijing Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY075_01p001a>¶
@@ -423,4 +424,4 @@
 　聖在上，儼若下臨。至於授受之間，禮崇誓重，謹愼而行，方能¶
 　仰承玄教。緣金書玉簡，皆成仙入聖之津梁，不可泛讀輕䙝，¶
 　反致獲罪於太上也。戒之。愼之。¶
-¶	
+¶

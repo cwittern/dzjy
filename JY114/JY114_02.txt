@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY114
-#+TITLE:唱道真言 Changdao Zhenyan
+#+TITLE:唱道眞言
+#+PROPERTY: pinyin Changdao Zhenyan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY114_02p001a>¶
@@ -57,4 +58,4 @@
 是人，始終眷頋，時刻護持，直至道成之日，是人神通廣大，我願¶
 方畢。釋典云：『如來不誑語者。』吾豈獨不然哉。¶
 <pb:CK-KZ_JY114_02p003b>¶
-¶	
+¶

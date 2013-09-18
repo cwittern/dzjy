@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_22p001a>¶
@@ -17,4 +18,4 @@
 信，固執不通，自害而復害人，不惟不能結大縁，而且難¶
 望好結果矣。萬佛緣在邇，當時脩士共凜之。三淸殿有¶
 路，後世脩士嚴辨之。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY249
-#+TITLE:漢丞相諸葛忠武侯集 Han Chengxiang Zhuge Zhong Wuhou Ji
+#+TITLE:漢丞相諸葛忠武侯集
+#+PROPERTY: pinyin Han Chengxiang Zhuge Zhong Wuhou Ji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY249_01p001a>¶
@@ -32,19 +33,19 @@
 冶世承，而爲之後人者乎？羲倬撫卷之餘，其交相勖勉，以勿替¶
 祖德，而毋負庭訓云。¶
 崇禎壬申十一月，三十六世孫羲，頓首謹序於臨庾之公署。¶
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
 <pb:CK-KZ_JY249_01p002b>¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶

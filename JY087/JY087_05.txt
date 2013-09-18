@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY087
-#+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
+#+TITLE:高上玉皇本行集經
+#+PROPERTY: pinyin Gaoshang Yuhuang Benxing Jijing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY087_05p001a>¶
-* 高上玉皇本行集經卷下¶
-** 　　開經讚¶
+@fw高上玉皇本行集經卷下¶
+　　開經讚¶
 #+BEGIN_VERSE
  大道洞玄虛，
  　有念無不契。
@@ -17,4 +18,4 @@
  　䖍誠稽首禮。¶
 大聖玉皇赦罪大天尊。(三稱，三拜。)¶
 #+END_VERSE
-¶	
+¶

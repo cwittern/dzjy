@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY232
-#+TITLE:天仙正理直論 Tianxian Zhengli Zhilun
+#+TITLE:天仙正理直論
+#+PROPERTY: pinyin Tianxian Zhengli Zhilun
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY232_01p001a>¶
@@ -35,7 +36,7 @@
 ¶
 ¶
 ¶
-¶	
+¶
 <pb:CK-KZ_JY232_01p002b>¶
 ¶
 ¶
@@ -104,4 +105,4 @@
 子。時¶
 <pb:CK-KZ_JY232_01p005b>¶
 大清康煕五十八年己亥仲春也。¶
-¶	
+¶

@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_23p001a>¶
 * 上淸靈寶文檢卷之七¶
-　　　　　　　　　　　綿竹退隱陳復¶
+　　　　　　　　　　　@by綿竹退隱陳復¶
 ** 黃籙羅天大醮聖號分位¶
 　　計一百狀，　一千二百分位。¶
 *** 　　第一狀，　五分，　玉虛上帝(門下，　用眞慈，以下同)¶
@@ -615,9 +616,9 @@
 土地眞官，　里域眞官，　上界直符使者，　中界直符使者，¶
 下界直符使者，　年直功曹，　月直功曹，　日直功曹，¶
 時直功曹。¶
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
 上淸靈寶文檢卷之七終¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY134
-#+TITLE:文始眞經 Wenshi Zhenjing
+#+TITLE:文始眞經
+#+PROPERTY: pinyin Wenshi Zhenjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY134_01p001a>¶
@@ -22,4 +23,4 @@
 天，而隨失其悟矣。是書之靈，必至如是。讀是書者，可不若葛稚¶
 川愛之、誦之、藏之、拜之哉？有宋寶祐二年，𡻕在甲寅，重陽日，抱¶
 一子陳顯微字道焚香再拜謹序。¶
-¶	
+¶

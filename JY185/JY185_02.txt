@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY185
-#+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
+#+TITLE:瓊琯白眞人集
+#+PROPERTY: pinyin Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY185_02p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 　瓊琯眞人集¶
-宋海南白玉蟾著¶
+@by宋海南白玉蟾著¶
 ** 　賦¶
 *** 　　金液大還丹賦¶
 身木欲槁，心灰已寒。願飛昇於玉闕，必修煉於金丹。乾馬坤牛，¶
@@ -390,4 +391,4 @@
 葛峰，少小畜琴，今子所云，政余樂也。余有小軒，榜以琴樂。』瓊山¶
 <pb:CK-KZ_JY185_02p018b>¶
 乃以意似之。君字仲章。¶
-¶	
+¶

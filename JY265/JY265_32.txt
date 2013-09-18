@@ -1,14 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_32p001a>¶
-* 道藏輯要上淸靈寶文檢巻十二¶
+@fw道藏輯要上淸靈寶文檢巻十二¶
 　　目錄¶
 　　冥陽大齋符篆類¶
-¶	
+¶
 十廻度人符　(十道)　　十廻度人簡　(十道)¶
 十方黃牒　　　　　　度人關引¶
 九天生神簡　(九道)　　九天生神符　(九道)¶
@@ -32,5 +33,5 @@
 召將符　　　　　　　　普攝符¶
 召孤魂符　　　　　　　鍊度返生眞符　(九道)¶
 　　三元符簡¶
-¶	
-¶	
+¶
+¶

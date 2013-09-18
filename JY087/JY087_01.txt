@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY087
-#+TITLE:高上玉皇本行集經 Gaoshang Yuhuang Benxing Jijing
+#+TITLE:高上玉皇本行集經
+#+PROPERTY: pinyin Gaoshang Yuhuang Benxing Jijing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY087_01p001a>¶

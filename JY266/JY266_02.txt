@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY266
-#+TITLE:心香妙語 Xinxiang Miaoyu
+#+TITLE:心香妙語
+#+PROPERTY: pinyin Xinxiang Miaoyu
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY266_02p003a>¶
-* 重刋道藏輯要心香妙語卷一¶
-** 　　目錄¶
+@fw重刋道藏輯要心香妙語卷一¶
+　　目錄¶
 慶祝類¶
 　太上老君(連二)　　玉帝　　　　　　眞武(連二)¶
 　釋迦佛(連二)　　　阿彌陀佛　　　　觀音(連二)¶
@@ -46,4 +47,4 @@
 　火後重修建醮保安　　　道觀修造後建醮¶
 　修造後請僧人建水陸　　遷居謝家廟¶
 　遷居謝家神¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY134
-#+TITLE:文始眞經 Wenshi Zhenjing
+#+TITLE:文始眞經
+#+PROPERTY: pinyin Wenshi Zhenjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY134_03p003a>¶
@@ -19,4 +20,4 @@
 言。其忘物遺世者之所言乎？其絕跡去智者之所言乎？其同陰¶
 陽而冥彼此者之所言乎？何如此之尊高？何如此之廣大？又何¶
 如此之簡易也？洪親受之。咸和二年五月朔丹陽葛洪稚川序¶
-¶	
+¶

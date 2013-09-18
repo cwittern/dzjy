@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY172
-#+TITLE:東園語錄 Dongyuan Yulu
+#+TITLE:東園語錄
+#+PROPERTY: pinyin Dongyuan Yulu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY172_01p001a>¶
@@ -13,4 +14,4 @@
 牖民覺世，吾之志願，常降言以示勸戒，諸子錄而藏諸篋，固請¶
 釐定，題曰《東園語錄》，蓋以誌千載之良會也。後之遊東園者，曷¶
 其三復斯文。¶
-¶	
+¶

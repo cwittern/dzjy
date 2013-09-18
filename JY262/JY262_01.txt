@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY262
-#+TITLE:清微宏範道門功課 Qingwei Hongfan Daomen Gongke
+#+TITLE:清微宏範道門功課
+#+PROPERTY: pinyin Qingwei Hongfan Daomen Gongke
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY262_01p001a>¶
@@ -23,4 +24,4 @@
 堂之功課，實無上之熏修。直候三千功滿，八百行圓，方是法門¶
 之上士，玄觀之丈夫也。爰爲鳩眾梓行，永期流布。庶使全眞道¶
 侣，遵依科教，信受奉行，是爲序。¶
-¶	
+¶

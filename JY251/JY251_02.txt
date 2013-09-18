@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY251
-#+TITLE:通書 Tongshu
+#+TITLE:通書
+#+PROPERTY: pinyin Tongshu
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY251_02p001a>¶
@@ -25,4 +26,4 @@
 　以至於今𡻕月幾，何倏焉三紀。慨前哲之益遠，懼妙旨之無¶
 　傳，竊不自量，輒爲注釋。雖知凡近不足以發夫子之精藴，然¶
 　創通大義以俟後之君子，則萬一其庶幾焉。¶
-¶	
+¶

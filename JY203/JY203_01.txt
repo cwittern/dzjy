@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY203
-#+TITLE:孫不二元君法語 Sun Bu'Er Yuanjun Fayu
+#+TITLE:孫不二元君法語
+#+PROPERTY: pinyin Sun Bu'Er Yuanjun Fayu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY203_01p108a>¶
 * 孫不二元君法語¶
-淸淨散人著¶
+@fw淸淨散人著¶
 ** 　坤道功夫次第(十四首)¶
 　　收心¶
 吾身未有日，一氣己先存。似玉磨逾潤，如金煉豈昏。掃空生滅¶
@@ -69,4 +70,4 @@
 耳聽黃庭。¶
 荆棘須教剗盡芽，性中自有妙蓮花。一朝忽現光明象，識得渠¶
 時便是他。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY006
-#+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
+#+TITLE: 元始大洞玉經
+#+PROPERTY: pinyin Yuanshi Dadong Yujing
 #+WITNESS: YP CK-KZ
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY006_01p001a>¶
@@ -116,4 +117,4 @@
 葆其同然之天矣。楊君之功，洵大矣哉！後之幸有全知者，愼毋¶
 忘所自焉，可耳。¶
 萬厯十一年𡻕次癸未冬月，瀟水漁樵致陽子蕭允儒盥手書。¶
-¶	
+¶

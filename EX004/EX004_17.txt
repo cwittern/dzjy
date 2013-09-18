@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_17p001a>¶
@@ -20,4 +21,4 @@
 其牽纒世網，戀茲一息繁華，何如斬斷情關，占卻萬年¶
 道域。西池有路，度楫在茲。聊綴巵言，用申木鐸。重陽子¶
 謹序¶
-¶	
+¶

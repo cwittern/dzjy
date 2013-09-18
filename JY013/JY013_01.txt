@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY013
-#+TITLE: 元始上帝毘盧遮耶說大洞救劫尊經 Yuanshi Shangdi Piluzheye Shuo Dadong Jiujie Zunjing
+#+TITLE: 元始上帝毘盧遮耶説大洞救劫尊經
+#+PROPERTY: pinyin Yuanshi Shangdi Piluzheye Shuo Dadong Jiujie Zunjing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY013_01p056a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 元始上帝毘盧遮耶說大洞救劫尊經¶
 ** 　　大洞救輪迴劫第一章¶
 爾時¶

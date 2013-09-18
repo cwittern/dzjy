@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY261
-#+TITLE:關聖帝君本傳 Guansheng Dijun Benzhuan
+#+TITLE:關聖帝君本傳
+#+PROPERTY: pinyin Guansheng Dijun Benzhuan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY261_01p001a>¶
-* 關聖帝君本傳(輯全書)　　　　　　　　崇德弟子纂述¶
+* 關聖帝君本傳(輯全書)　　　　　　　　@by崇德弟子纂述¶
 帝字雲長，一字長生，河東解梁寶池下里馮村人，乃夏大夫關¶
 龍逢苗裔也。爲人義勇絕倫，好讀《左氏春秋》，諷誦畧皆上口。嘗¶
 避地涿郡，與涿人桓侯張翼德相友善，帝長數𡻕，張兄事之。漢¶
@@ -171,4 +172,4 @@
 <pb:CK-KZ_JY261_01p008b>¶
 若父其名湮没而不彰，於心安乎？孔子曰：『立身行道，揚名於後¶
 世，以顯父母。』吾於關帝亦云。¶
-¶	
+¶

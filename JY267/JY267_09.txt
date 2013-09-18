@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY267
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY267_09p003a>¶
@@ -940,12 +941,12 @@
 　　祈祥修醮事，達悃入瑶天。鑒盼惟眞造，流恩及永年。¶
 <pb:CK-EX_JY267_09p045b>¶
 　　金科披錦篆，一醮叩玄穹。鑒此精䖍意，流祥下太空。¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
 重刋道藏輯要卷之四雅宜集逵集終¶

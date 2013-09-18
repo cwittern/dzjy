@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY076
-#+TITLE:黃庭外景經 Huanting Waijing Jing
+#+TITLE:黃庭外景經
+#+PROPERTY: pinyin Huanting Waijing Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY076_01p021a>¶
 * 黃庭外景經¶
-　　　　　　　　　　　　　　　　　　蔣國祚注¶
+　　　　　　　　　　　　　　　　　　@by蔣國祚注¶
 　《外景經》者，皆櫽括《内景》之辭。第其中較《内景》易曉者，如『懸膺¶
 　氣管受精符，急固子精以自持』，又如『子欲不死脩崑崙，棄捐¶
 　淫慾專守精』，又如『外本三陽神自來，内養三陰可長生，還魂¶
@@ -117,4 +118,4 @@
 府相得開命門，(三元循環也。)五味皆至善氣還，大道蕩蕩心勿煩，被¶
 髮行之可長存。吾言畢矣勿妄傳。¶
 　以上下卷。¶
-¶	
+¶

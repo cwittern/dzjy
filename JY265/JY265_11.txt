@@ -1,14 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_11p001a>¶
 * 重刋道藏輯要上淸靈寶文檢卷之一¶
-　　　　　　靈寶中盟祕籙南曹執法眞士金體原編輯¶
-　　　　　　　　　　　　古零步雲房　　　　重修¶
-　　　　　　　　　　　　晉熙後學陳復烜含樸重校¶
+　　　　　　@by靈寶中盟祕籙南曹執法眞士金體原編輯¶
+　　　　　　　　　　　　@by古零步雲房　　　　重修¶
+　　　　　　　　　　　　@by晉熙後學陳復烜含樸重校¶
 ** 　黃籙大齋預奏¶
 *** 　　　奏三淸¶
 　　具位(臣某)，俯伏百拜¶
@@ -244,5 +245,5 @@
 　右　　　　　　　　　　　關¶
 三界傳奏功曹使者、承差官將吏兵：請飛騰霄漢，速通來函。雲¶
 　　程萬里，妙傾刻以昭孚；法界三千，仍須臾而吿報。故關。¶
-¶	
+¶
 靈寶文檢卷之一終¶

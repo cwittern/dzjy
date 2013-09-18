@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY165
-#+TITLE:呂帝詩集 Lüdi Shiji
+#+TITLE:呂帝詩集
+#+PROPERTY: pinyin Lüdi Shiji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY165_02p001a>¶
-@fw1重刋道藏輯要¶
-* 　詩集上卷目錄¶
+@fw重刋道藏輯要¶
+　詩集上卷目錄¶
 　古體詩¶
 　　戒殺歌¶
 　　悟道歌¶
@@ -176,4 +177,4 @@
 　　示悟眞¶
 　　偶題二首¶
 　　示天基¶
-¶	
+¶

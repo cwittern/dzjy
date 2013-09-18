@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_20p001a>¶
 ** 女丹詩集前編¶
-　　　　　　　　濟一子金谿傅金銓彙輯¶
+　　　　　　　　@by濟一子金谿傅金銓彙輯¶
 *** 　吳采鸞仙姑(三首幷序)¶
 　　采鸞，吳猛女也。猛仕吳，爲西安令。至人丁義授以¶
 　　道術，猛授南昌許遜。遜爲旌陽令，聞丹陽諶母有¶
@@ -115,4 +116,4 @@
 予如傷子怎尋予。¶
 性命先須月窟參，擒龍撥虎莫遲延。陽生之候眞陽漏，¶
 黍米如何得保全。¶
-¶	
+¶

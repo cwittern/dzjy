@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY008
-#+TITLE: 元始大洞玉經 Yuanshi Dadong Yujing
+#+TITLE: 元始大洞玉經
+#+PROPERTY: pinyin Yuanshi Dadong Yujing
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY008_01p001a>¶
@@ -73,4 +74,4 @@
 敘。¶
 <pb:CK-KZ_JY008_01p005a>¶
 康熙已丑𡻕五月望日，南嶽紫虛元君魏華存謹敘。¶
-¶	
+¶

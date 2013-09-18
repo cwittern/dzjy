@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX003
-#+TITLE: 太上無極太道三十六部尊經註解
+#+TITLE: 太上無極大道三十六部尊經註解
+#+PROPERTY: pinyin Taishang Wuji Dadao Sanshiliu Bu Zunjing Zhujie
 #+WITNESS: CK-EX
 #+BASEEDITION: CK
 #+PROPERTY: JUAN txt
 <pb:CK-EX_EX003_06p001a>¶
 * 太上無極太道三十六部尊經註解下卷上¶
-　　　　　　　　　　　　　　　　孚佑帝君註解¶
+　　　　　　　　　　　　　　　　@by孚佑帝君註解¶
 至心皈命禮¶
 太清仙境。大赤天宮。巍巍金闕之高。渺渺重霄之上。降生於無¶
 量數劫。說法於萬二千天。五千秘言。融三才之妙道。八十餘度。¶

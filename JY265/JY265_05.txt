@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
@@ -32,4 +33,4 @@
 恩開曉，素沭庥光，誠不敢忘。今公書成，爰敘小𥳑以彰¶
 公德，公其鑒焉。勿以狂妄見弃，則幸甚矣。¶
 道光庚子𡻕端月，方亭後學楊本興拜書。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY153
-#+TITLE:化書 Huashu
+#+TITLE:化書
+#+PROPERTY: pinyin Huashu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY153_01p001a>¶
@@ -17,4 +18,4 @@
 <pb:CK-KZ_JY153_01p001b>¶
 譚肇其始，王衍其流。譚君知化，王君翼化，二君其先後一轍者¶
 夫。吳之鵬序。¶
-¶	
+¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY114
-#+TITLE:唱道真言 Changdao Zhenyan
+#+TITLE:唱道眞言
+#+PROPERTY: pinyin Changdao Zhenyan
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY114_04p001a>¶
@@ -50,4 +51,4 @@
 <pb:CK-KZ_JY114_04p003a>¶
 金牛洞全眞弟子歸一萬淸和謹序。¶
 <pb:CK-KZ_JY114_04p003b>¶
-¶	
+¶

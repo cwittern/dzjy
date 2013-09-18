@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY170
-#+TITLE:呂帝聖蹟紀要 Lüdi Shengji Jiyao
+#+TITLE:呂帝聖蹟紀要
+#+PROPERTY: pinyin Lüdi Shengji Jiyao
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY170_02p001a>¶
@@ -39,4 +40,4 @@
 <pb:CK-KZ_JY170_02p002b>¶
 後次第，本可不編，如四時行而百物生，日月照而天地朗，不必¶
 拘拘時見也。漢夀亭侯關羽敬序。¶
-¶	
+¶

@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY266
-#+TITLE:心香妙語 Xinxiang Miaoyu
+#+TITLE:心香妙語
+#+PROPERTY: pinyin Xinxiang Miaoyu
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY266_06p001a>¶
-* 重刋道藏輯要重著心香妙語卷之三¶
-** 　　目錄¶
+@fw重刋道藏輯要重著心香妙語卷之三¶
+　　目錄¶
 疾病類(榜文)¶
 　病中建醮　　　　病後酬天　　　父病建醮¶
 　父病後酬天　　　母病建醮　　　母病後酬天¶

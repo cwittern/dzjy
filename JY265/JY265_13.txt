@@ -1,14 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_13p001a>¶
 * 重刋道藏輯要上淸靈寶文檢卷之二¶
-　　　　　　靈寶中盟祕籙南曹執法眞士金體原編輯¶
-　　　　　　　　　　　　古零步雲房　　　　重修¶
-　　　　　　　　　　　　晉熙後學陳復烜含樸重校¶
+　　　　　　@by靈寶中盟祕籙南曹執法眞士金體原編輯¶
+　　　　　　　　　　　　@by古零步雲房　　　　重修¶
+　　　　　　　　　　　　@by晉熙後學陳復烜含樸重校¶
 ** 　黃籙大齋正奏¶
 *** 　　玉淸奏¶
 　具位(臣某)，誠惶誠恐，稽首頓首，俯伏百拜¶
@@ -1068,6 +1069,6 @@
 　　　　　　　　　右仰神虎何喬二大元帥准此。¶
 　年　月　　　　　日　示。¶
 司¶
-¶	
-¶	
+¶
+¶
 重刋道藏輯要上淸靈寶文檢卷二終¶

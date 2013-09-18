@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY267
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY267_05p004a>¶
@@ -1012,5 +1013,5 @@
 　　　　　　　　　伏乞¶
 仁慈，俯賜昭鑒。曠錫恩庥，旁垂景佑。克保○○○一○淸吉，百¶
 　事亨通。謹疏。¶
-¶	
+¶
 道藏輯要玄宗通事雅宜集卷之二終¶

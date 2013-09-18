@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY266
-#+TITLE:心香妙語 Xinxiang Miaoyu
+#+TITLE:心香妙語
+#+PROPERTY: pinyin Xinxiang Miaoyu
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY266_04p001a>¶
-* 重訂道藏輯要心香妙語卷二¶
-** 　　目錄¶
+@fw重訂道藏輯要心香妙語卷二¶
+　　目錄¶
 祈禱類(榜文)¶
 　春祈雨　　　　　春謝雨　　　　　夏祈雨¶
 　夏謝雨　　　　　得雨小再祈　　　秋祈雨¶

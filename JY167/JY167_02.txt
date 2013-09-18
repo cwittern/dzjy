@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY167
-#+TITLE:易說 Yishuo
+#+TITLE:易説
+#+PROPERTY: pinyin Yishuo
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY167_02p001a>¶
@@ -25,4 +26,4 @@
 學，數傳而至穆修，乃得邵康節先生而廣演之。我¶
 帝師又親與証明，重加指授，現身說法，世所習聞。兹因重訂《全¶
 書正宗》，敬述於此，以作原起云爾。　宏教弟子柳守元熏沐題詞。¶
-¶	
+¶

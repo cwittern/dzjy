@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY266
-#+TITLE:心香妙語 Xinxiang Miaoyu
+#+TITLE:心香妙語
+#+PROPERTY: pinyin Xinxiang Miaoyu
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY266_01p001a>¶
@@ -31,5 +32,5 @@
 　愚衷。　時¶
 大淸道光二十年端月，綿竹退隱陳復烜含樸，時年六十有八，¶
 　題於眞武觀之芥子山房。¶
-¶	
-¶	
+¶
+¶

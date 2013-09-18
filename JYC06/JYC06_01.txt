@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC06
-#+TITLE:
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+TITLE:女丹合編子目
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC06_01p063a>¶
 * 女丹合編子目五卷¶
 　　　　　　　　井　研　賀　龍　驤　初　輯¶
@@ -144,16 +144,16 @@
 　　五氣朝元第七品¶
 　　三花聚頂第八品¶
 　　養胎調神第九品¶
-¶	
-¶	
+¶
+¶
 <pb:CK-KZ_JYC06_01p069b>¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
 女丹合編五卷子目終¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_04p016a>¶
@@ -38,4 +39,4 @@
 餘言，顏曰《男女丹工異同辨》。置諸座右，以免工法混淆，¶
 身羅奇疾。牙嚖之誚，知不免焉。若工同好，則吾豈敢。時¶
 光緒癸卯春，竹陽女史顏澤寰晏淸自記。¶
-¶	
+¶

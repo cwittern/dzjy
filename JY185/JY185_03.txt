@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY185
-#+TITLE:瓊琯白真人集 Qiongguan Bai Zhenren Ji
+#+TITLE:瓊琯白眞人集
+#+PROPERTY: pinyin Qiongguan Bai Zhenren Ji
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY185_03p001a>¶
-@fw1重刻道藏輯要¶
+@fw重刻道藏輯要¶
 * 　瓊琯眞人集¶
-宋海南白玉蟾著¶
+@by宋海南白玉蟾著¶
 ** 　詩五言古¶
 *** 　　白蓮詩¶
 淵明歸西天，不作東林社。不見張昌宗，無人舉此話。誰家栽綠¶
@@ -1185,4 +1186,4 @@
 雲鎖蓬萊海接天，琪花瑤草簇春煙。三千年後桃初實，十二樓¶
 前月正圓。白日塵埃飛不到，靑冥風露冷無眠。共君旣飽胡麻¶
 飯，一棹歸歟弱水船。¶
-¶	
+¶

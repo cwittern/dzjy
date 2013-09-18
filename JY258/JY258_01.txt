@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY258
-#+TITLE:文昌延嗣經 Wenchang Yansi Jing
+#+TITLE:文昌延嗣經
+#+PROPERTY: pinyin Wenchang Yansi Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY258_01p026a>¶
@@ -17,4 +18,4 @@
 <pb:CK-KZ_JY258_01p026b>¶
 經者，咸以吾言爲藥石，共樂休徵，則幸甚矣！時雍正甲寅孟冬¶
 朔，文昌右弼天聾眞人降撰。¶
-¶	
+¶

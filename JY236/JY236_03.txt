@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY236
-#+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
+#+TITLE:張三丰先生全集
+#+PROPERTY: pinyin Zhang Sanfeng Xiansheng Quanji
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY236_03p001a>¶
-* 張三丰先生全集總目¶
+張三丰先生全集總目¶
 　一卷¶
 　　序　誥　傳　仙派　正訛　顯蹟¶
 　二卷¶
@@ -22,4 +23,4 @@
 　　九皇經　三教經　度人經　菩提經　鐘偈¶
 　八卷¶
 　　水石閒談　古今題贈　隱鏡　彙記¶
-¶	
+¶

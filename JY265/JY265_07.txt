@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_07p009a>¶
-** 重刋道藏輯要靈寶文檢凡例¶
+重刋道藏輯要靈寶文檢凡例¶
 一、　上九皇、東極、九宸、諸天、九天可稱臣，餘下不必。蓋九皇者¶
 　　猶人間之至尊，而眾聖雖帝位者，皆一方之帝，於九皇如¶
 　　諸侯之於百官也。眾聖只稱小兆，師門則稱嗣。¶
@@ -106,4 +107,4 @@
 <pb:CK-EX_JY265_07p013b>¶
 　　人須常常玩讀，則臨事不致其悞，可同歸於至善矣。¶
 　　　　　　　　　　　　　芥子山房識。¶
-¶	
+¶

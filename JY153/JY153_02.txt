@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY153
-#+TITLE:化書 Huashu
+#+TITLE:化書
+#+PROPERTY: pinyin Huashu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY153_02p001a>¶
@@ -39,4 +40,4 @@
 <pb:CK-KZ_JY153_02p002b>¶
 粗舉無爲之理，以達大化之源，以洩夫千餘載無釋之旨，故曰¶
 《化書新聲》。是爲敘。先天風雷侍者岫雲王一淸敘。¶
-¶	
+¶

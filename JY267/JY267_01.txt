@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY267
-#+TITLE:雅宜集 Yayi Ji
+#+TITLE:雅宜集
+#+PROPERTY: pinyin Yayi Ji
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 <pb:CK-EX_JY267_01p001a>¶
@@ -21,5 +22,5 @@
 　知斯集不朽，故樂爲之序。¶
 　　時¶
 皇淸乾隆己亥暮秋之朔日議敘功貢茂州士人張銑拜撰。¶
-¶	
-¶	
+¶
+¶

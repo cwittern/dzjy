@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY278
-#+TITLE:十戒功過格 Shijie Gongguo Ge
+#+TITLE:十戒功過格
+#+PROPERTY: pinyin Shijie Gongguo Ge
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY278_01p001a>¶
@@ -17,4 +18,4 @@
 <pb:CK-KZ_JY278_01p001b>¶
 一冊於座右。而實心綜覈之，則已不啻十目之視，十手之指矣。¶
 其有裨於身心性命者，豈淺鮮哉。宏教弟子柳守元薰沐題詞¶
-¶	
+¶

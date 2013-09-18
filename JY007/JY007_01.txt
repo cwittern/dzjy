@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY007
-#+TITLE: 洞經示讀 Dongjing Shidu
+#+TITLE: 洞經示讀
+#+PROPERTY: pinyin Dongjing Shidu
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY007_01p090a>¶
@@ -56,7 +57,7 @@
 無極之眞矣。是集鈔成，當名洞經示讀云爾。時乾隆丙辰長至¶
 日斗口魁神馬天君序於黔之大定鱣壇。¶
 <pb:CK-KZ_JY007_01p093a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 * 洞經示讀¶
 ** 　　洞經示讀上¶
 *** 　　序經章第一¶
@@ -1456,4 +1457,4 @@
 ****** 　　二十五¶
 道原不息妄非眞，息住胎凝入渾淪。離相淸塵空一切，無人無¶
 我亦無身。¶
-¶	
+¶

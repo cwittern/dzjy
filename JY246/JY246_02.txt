@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY246
-#+TITLE:懺法大觀 Chanfa Daguan
+#+TITLE:懺法大觀
+#+PROPERTY: pinyin Chanfa Daguan
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: JYE
 <pb:CK-KZ_JY246_02p001a>¶
-@fw1重刋道藏輯要¶
+@fw重刋道藏輯要¶
 　懴法大觀目錄¶
 　　卷一¶
 紫府玄祖法懴¶
@@ -47,4 +48,4 @@
 水府護國寶懴¶
 水官錫福寶懴¶
 天醫濟世寶懴¶
-¶	
+¶

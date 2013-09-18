@@ -1,10 +1,11 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY166
-#+TITLE:純陽三書 Chunyang Sanshu
+#+TITLE:純陽三書
+#+PROPERTY: pinyin Chunyang Sanshu
 #+WITNESS: CK-BS JYE
 #+BASEEDITION: YP
 <pb:CK-BS_JY166_04p001a>¶
-@fw1續刻道藏輯要¶
+@fw續刻道藏輯要¶
 * 　玄藻秘旨　　　　　　新津彭一淸乾陽校正¶
 ** 　　體道下篇　　　　　渠縣王妙生雲朋重刋¶
 　吕純陽祖師曰：天之上，地之下，流布充滿者道也。往於古，來¶
@@ -346,4 +347,4 @@
 　年，功齊岱嶽，德被霄壤，八百首會於龍沙，三流先陞於　玉¶
 <pb:CK-BS_JY166_04p016b>¶
 　闕，大丈夫事業結果，神仙侣快活逍遙。¶
-¶	
+¶

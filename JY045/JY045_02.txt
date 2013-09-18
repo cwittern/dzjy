@@ -1,13 +1,14 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY045
-#+TITLE:太上玄元道德經解 Taishang Xuanyuan Daode Jingjie
+#+TITLE:太上玄元道德經解
+#+PROPERTY: pinyin Taishang Xuanyuan Daode Jingjie
 #+WITNESS: JYE CK-KZ
 #+BASEEDITION: YP
 <pb:CK-KZ_JY045_02p001a>¶
-@fw1重刊道藏輯要　　　　　　　　　　　　　心集一¶
+@fw重刊道藏輯要　　　　　　　　　　　　　心集一¶
 * 太上玄元道德經¶
-　　　　　　　　　　　　　　孚佑上帝全經闡義¶
-　　　　　　　　　　　　　　八洞仙祖分章合注¶
+　　　　　　　　　　　　　　@by孚佑上帝全經闡義¶
+　　　　　　　　　　　　　　@by八洞仙祖分章合注¶
 ** 　　體道章第一¶
 道，(元始一炁虛无自然)可道，非常道；(道本無言擬議便非)名，(長飬萬物不可知識)可名，非常名。¶
 (愈探愈深愈執愈失)¶
@@ -2192,4 +2193,4 @@
 小子校繕。是經謹跋識數語於簡末，云純陽法嗣正化子恩洪¶
 <pb:CK-KZ_JY045_02p101a>¶
 敬跋。¶
-¶	
+¶

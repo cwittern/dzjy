@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_24p001a>¶
-* 重刋道藏輯要上淸靈寶文檢卷之八¶
+@fw重刋道藏輯要上淸靈寶文檢卷之八¶
 　　目錄¶
 陰陽醮分類¶
 　消災三百六十分位(計三十八狀)　　遷拔三百六十分位(計三十六狀)¶

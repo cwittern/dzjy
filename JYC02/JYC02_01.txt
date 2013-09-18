@@ -1,8 +1,8 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC02
-#+TITLE:
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+TITLE:重刋道藏輯要子目初編總目
+#+WITNESS: YP JYE
+#+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC02_01p021a>¶
 * 重刋道藏輯要子目初編總目¶
 道藏輯要子目初編四卷¶
@@ -28,11 +28,12 @@
 <pb:CK-KZ_JYC02_01p022a>¶
 皇朝文獻通考道家書目一卷(附)¶
 皇朝文獻通考神仙家書目一卷(附)¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
+¶
 重刋道藏輯要子目初編總目終¶
+<pb:CK-KZ_JYC02_01p022b>¶

@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY170
-#+TITLE:呂帝聖蹟紀要 Lüdi Shengji Jiyao
+#+TITLE:呂帝聖蹟紀要
+#+PROPERTY: pinyin Lüdi Shengji Jiyao
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY170_01p001a>¶
@@ -18,4 +19,4 @@
 慈心之妙運矣。後之覽者，各就見聞所及，而印證之。庶知駕船¶
 大海接應十方者，之眞爲三界大恩師也。宏教弟子柳守元熏¶
 沐題詞。¶
-¶	
+¶

@@ -1,14 +1,15 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY265
-#+TITLE:靈寶文檢 Lingbao Wenjian
+#+TITLE:靈寶文檢
+#+PROPERTY: pinyin Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: YP
 #+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_21p001a>¶
 * 上淸靈寶文檢卷之六¶
-　　　　　　靈寶中盟秘籙南曹執法眞士金體原編輯¶
-　　　　　　　　　　　　古零步雲房　　　　重修¶
-　　　　　　　　　　　　晉熙後學陳復烜含樸重校¶
+　　　　　　@by靈寶中盟秘籙南曹執法眞士金體原編輯¶
+　　　　　　　　　　　　@by古零步雲房　　　　重修¶
+　　　　　　　　　　　　@by晉熙後學陳復烜含樸重校¶
 ** 　　陰醮表文類　(表狀章詞紙並高一尺二寸)¶
 *** 　九皇御號¶
 洞眞大道金闕自然高眞大聖元始天尊　(金闕下)：¶

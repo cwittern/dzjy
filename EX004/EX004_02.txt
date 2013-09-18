@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: EX004
-#+TITLE: 女丹合編 Nudan Hebian
+#+TITLE: 女丹合編
+#+PROPERTY: pinyin Nudan Hebian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-EX_EX004_02p001a>¶
@@ -122,4 +123,4 @@
 語翹謌，用通俗眼，識者鑒諒，幸勿哂焉。時光緒乙巳秋，¶
 <pb:CK-EX_EX004_02p007b>¶
 井研賀龍驤序。¶
-¶	
+¶

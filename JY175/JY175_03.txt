@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY175
-#+TITLE:悟真篇三注 Wuzhen Pian Sanzhu
+#+TITLE:悟眞篇三注
+#+PROPERTY: pinyin Wuzhen Pian Sanzhu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY175_03p001a>¶ 
-@fw1重刊道藏輯要¶
+@fw重刊道藏輯要¶
 * 　悟眞篇¶
-紫陽眞人張伯端著¶
+@by紫陽眞人張伯端著¶
 　　　　　　　　　　　　　　紫賢眞人辥道光注¶
 　　　　　　　　　　　　　　子野眞人陸　墅注¶
 　　　　　　　　　　　　　　上陽子　陳致虛注¶
@@ -1101,4 +1102,4 @@
 　言貫性，叮嚀反覆，泄盡天機，直願溥度羣生同登仙境，可謂¶
 　慈之至者也。大修行人至此，可不三復其詩以求成道之勳¶
 　業乎？¶
-¶	
+¶

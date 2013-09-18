@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY175
-#+TITLE:悟真篇三注 Wuzhen Pian Sanzhu
+#+TITLE:悟眞篇三注
+#+PROPERTY: pinyin Wuzhen Pian Sanzhu
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY175_02p001a>¶
-@fw1重刊道藏輯要¶
+@fw重刊道藏輯要¶
 * 　悟眞篇¶
-紫陽眞人張伯端著¶
+@by紫陽眞人張伯端著¶
 　　　　　　　　　　　　　　紫賢眞人辥道光注¶
 　　　　　　　　　　　　　　子野眞人陸　墅注¶
 　　　　　　　　　　　　　　上陽子　陳致虛注¶
@@ -747,4 +748,4 @@
 　在處處有百萬神兵擁護，豈可忽之？一切學仙道伴，因緣遭¶
 　逢，得遇此書，特加敬仰，信受奉行，勿生驚疑，勤而行之，立躋¶
 　天仙之位也。¶
-¶	
+¶

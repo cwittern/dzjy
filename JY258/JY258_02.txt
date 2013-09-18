@@ -1,12 +1,13 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY258
-#+TITLE:文昌延嗣經 Wenchang Yansi Jing
+#+TITLE:文昌延嗣經
+#+PROPERTY: pinyin Wenchang Yansi Jing
 #+WITNESS: CK-KZ JYE
 #+BASEEDITION: YP
 <pb:CK-KZ_JY258_02p027a>¶
 * 文昌應化元皇大道眞君說注生延嗣妙應眞經¶
-　　　　　　　　　　　　　大興朱　珪石君敬校¶
-　　　　　　　　　　　　　睢陽蔣予蒲夢因重訂¶
+　　　　　　　　　　　　　@by大興朱　珪石君敬校¶
+　　　　　　　　　　　　　@by睢陽蔣予蒲夢因重訂¶
 ** 　　開經偈¶
 　頂禮元皇尊，皈命儒仙祖。人間傳孝道，延嗣滅諸苦。南斗本¶
 　注生，缺䧟力能補。寶經勤誦持，裕後心爲主。¶
@@ -183,4 +184,4 @@
 ** 　　讚¶
 　寶經延嗣，吉氣盈門，遵持十戒，荷慈恩宗祧，得孳繁貴子文¶
 　孫，厚德慶長存。¶
-¶	
+¶
