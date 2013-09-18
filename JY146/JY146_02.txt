@@ -2,13 +2,11 @@
 #+TITLE: 葛仙翁肘後備急方
 #+DATE: 2011-05-31 17:05:49
 #+PROPERTY: kxid KX146
-#+PROPERTY: title 葛仙翁肘後備急方
+#+PROPERTY: pinyin Ge Xianweng Zhouhou Beiji Fang
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1306
 #+PROPERTY: id JY146
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY146_02p001a>¶
 葛仙翁肘後備急方目錄¶
 　卷之一¶

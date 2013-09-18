@@ -2,14 +2,11 @@
 #+TITLE: 碧霞元君護國庇民普濟保生妙經
 #+DATE: 2011-05-27 18:43:34
 #+PROPERTY: kxid KX016
-#+PROPERTY: title 碧霞元君護國庇民普濟保生妙經
+#+PROPERTY: pinyin Bixia Yuanjun Huguo Bimin Puji Baosheng Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1445
 #+PROPERTY: id JY017
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY017_01p101a>¶
 * 碧霞元君護國庇民普濟保生妙經¶
 ** 　　開經偈¶
@@ -88,7 +85,7 @@
 爲化眾生　示現慈顏　大顯神通　威德孔宣　安民護國¶
 警世敦元　輔忠助孝　翼正扶賢　保生益算　延嗣綿綿¶
 <pb:CK-KZ_JY017_01p104b>¶
-消灾化難　度厄除愆　驅瘟攝毒　剪祟和寃　嶽庭官將¶
+消災化難　度厄除愆　驅瘟攝毒　剪祟和寃　嶽庭官將¶
 號令威嚴　不仁不義　忤逆兇頑　不尊正道　化微塵烟¶
 敢有咒詛　押送酆山　魂繫幽司　萬劫不原　下民有禱¶
 無願不全　大慈應感　溥濟人天¶

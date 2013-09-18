@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_18p001a>¶
 * 重刋道藏輯要上淸靈寶文檢卷之五¶
 　　目錄¶

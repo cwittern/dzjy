@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上說西斗記名護身妙經
+#+TITLE: 太上説西斗記名護身妙經
 #+DATE: 2011-05-31 16:01:39
 #+PROPERTY: kxid KX109
-#+PROPERTY: title 太上說西斗記名護身妙經
+#+PROPERTY: pinyin Taishang Shuo Xidou Jiming Hushen Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0626
 #+PROPERTY: id JY106
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY106_01p015a>¶
 * 太上說西斗記名護身妙經¶
 爾時太上老君降蜀都以永夀二年正月七日爲正一天師說¶

@@ -2,14 +2,11 @@
 #+TITLE: 太上妙始經
 #+DATE: 2011-05-31 15:53:26
 #+PROPERTY: kxid KX065
-#+PROPERTY: title 太上妙始經
+#+PROPERTY: pinyin Taishang Miaoshi Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0658
 #+PROPERTY: id JY068
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY068_01p062a>¶
 * 太上妙始經¶
 太上老君曰道出於無形無名無聲無色無味淡然以虛無爲¶

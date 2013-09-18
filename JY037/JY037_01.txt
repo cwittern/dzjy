@@ -2,14 +2,11 @@
 #+TITLE: 洞玄靈寶諸天世界造化經
 #+DATE: 2011-05-31 15:51:24
 #+PROPERTY: kxid KX036
-#+PROPERTY: title 洞玄靈寶諸天世界造化經
+#+PROPERTY: pinyin Dongxuan Lingbao Zhutian Shijie Zaohua Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0321
 #+PROPERTY: id JY037
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY037_01p019a>¶
 * 洞玄靈寶諸天世界造化經¶
 　　

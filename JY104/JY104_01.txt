@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上說南斗六司延壽度人妙經
+#+TITLE: 太上説南斗六司延壽度人妙經
 #+DATE: 2011-05-31 16:01:38
 #+PROPERTY: kxid KX107
-#+PROPERTY: title 太上說南斗六司延壽度人妙經
+#+PROPERTY: pinyin Taishang Shuo Nandou Liusi Yanshou Duren Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0624
 #+PROPERTY: id JY104
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY104_01p009a>¶
 * 太上說南斗六司延夀度人妙經¶
 爾時老君告天師曰此經乃九天八會之眞文三洞三淸之上¶

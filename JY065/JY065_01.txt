@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上內丹守一真定經
+#+TITLE: 太上内丹守一眞定經
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX062
-#+PROPERTY: title 太上內丹守一真定經
+#+PROPERTY: pinyin Taishang Neidan Shouyi Zhending Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0644
 #+PROPERTY: id JY065
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY065_01p053a>¶
 * 太上內丹守一眞定經¶
 　　　　　　　　　@by南嶽七金寶山慶華紫光天母傳¶

@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上說東斗主算護命妙經
+#+TITLE: 太上説東斗主算護命妙經
 #+DATE: 2011-05-31 16:01:39
 #+PROPERTY: kxid KX108
-#+PROPERTY: title 太上說東斗主算護命妙經
+#+PROPERTY: pinyin Taishang Shuo Dongdou Zhusuan Huming Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0625
 #+PROPERTY: id JY105
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY105_01p013a>¶
 * 太上說東斗主算護命妙經¶
 老君告正一天師曰天道冥運文象玄應昭而不言經星常宿¶

@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上老君說了心經
+#+TITLE: 太上老君説了心經
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX061
-#+PROPERTY: title 太上老君說了心經
+#+PROPERTY: pinyin Taishang Laojun Shuo Liaoxin Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0642
 #+PROPERTY: id JY064
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY064_01p052a>¶
 * 太上老君說了心經¶
 若夫修道先觀其心心爲神主動靜從心心動無靜不動了眞¶

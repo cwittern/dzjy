@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 七真年譜
+#+TITLE: 七眞年譜
 #+DATE: 2011-11-02 11:14:53
 #+PROPERTY: kxid KX291
-#+PROPERTY: title 七真年譜
+#+PROPERTY: pinyin Qizhen Nianpu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0175
 #+PROPERTY: id JY303
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY303_01p087a>¶
 @fw重刋道藏輯要¶
 * 七真年譜¶
@@ -336,7 +333,8 @@
 　鄕道院皆勑賜名額又當住持大宫觀仍有使者佩符乘傳¶
 　幹教門事此汝功成名遂歸休之時也今丹陽師之言一一¶
 　皆驗吾歸無憾焉九日登寶玄堂留頌而逝¶
-** 後序¶
+
+* 後序¶
 古人之有年譜尚矣所以著出處之實使後世得以考觀者焉¶
 我玄門之七真身雖游乎方外道實滿于人間當國朝革命之¶
 際其救世及物之功不爲不腆故封龍李翰長敬齋云七真之¶

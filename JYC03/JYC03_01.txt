@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC03
-#+TITLE:
+#+TITLE:重刋道藏輯要子目初編
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC03_01p001a>¶
@@ -907,12 +907,13 @@
 　　玉皇宥罪錫福寶懺一卷(辛漢臣著)¶
 <pb:CK-KZ_JYC03_01p042a>¶
 　　玉皇十七慈光燈儀一卷¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
 重刋道藏輯要子目初編卷一終¶
+<pb:CK-KZ_JYC03_01p042b>¶

@@ -1,16 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 長春真人西游記
+#+TITLE: 長春眞人西游記
 #+DATE: 2011-11-02 10:43:17
 #+PROPERTY: kxid KX192
-#+PROPERTY: title 長春真人西游記
+#+PROPERTY: pinyin Changchun Zhenren Xiyou Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1429
 #+PROPERTY: id JY194
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-<pb:CK-KZ_JY194_02p001a>¶
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY194_02p001a>¶
 @fw重刊道藏輯要¶
 * 長春眞人西遊記¶
@@ -476,9 +472,6 @@
 <pb:CK-KZ_JY194_02p022a>¶
 不能完也繼日乘涼宵征五六日達邪米思干(大石名河中府)諸官迎¶
 師入館卽重午日也¶
-<pb:CK-KZ_JY194_02p022a>¶
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY194_02p022a>¶
 宣差李公東邁以詩寄東方道眾云當時發軔海邊城海上干¶
 戈尚未平道德欲興千里外風塵不憚九夷行初從西北登高¶
 領(卽野狐嶺)漸轉東南指上京(陸局河東畔東南望上京也)迤邐直西南下去(西南¶
@@ -895,9 +888,8 @@
 ¶
 ¶
 <pb:CK-KZ_JY194_02p041a>¶
-@fw附錄¶
-　　
-** 詔書¶
+* 　附錄¶
+** 　　詔書¶
 成吉思皇帝勅眞人邱師省所奏應詔而來者備悉惟師道踰¶
 三子德重多方命臣奉厥玄纁馳傳訪諸滄海時與願適天不¶
 人違兩朝屢詔而弗行單使一邀而肯起謂朕天啟所以身歸¶

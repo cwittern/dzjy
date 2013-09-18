@@ -2,14 +2,11 @@
 #+TITLE: 洞玄靈寶自然九天生神玉章經解
 #+DATE: 2011-05-27 18:45:30
 #+PROPERTY: kxid KX020
-#+PROPERTY: title 洞玄靈寶自然九天生神玉章經解
+#+PROPERTY: pinyin Dongxuan Lingbao Ziran Jiutian Shengshen Yuzhang Jing Jie
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0397
 #+PROPERTY: id JY021
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY021_01p001a>¶
 * 九天生神章序¶
 形不能長存能存者氣爲之運氣不能常運常運者精爲之根¶

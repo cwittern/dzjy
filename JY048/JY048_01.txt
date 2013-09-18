@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上道德真經章句訓頌
+#+TITLE: 太上道德眞經章句訓頌
 #+DATE: 2011-05-31 15:51:55
 #+PROPERTY: kxid KX047
-#+PROPERTY: title 太上道德真經章句訓頌
+#+PROPERTY: pinyin Taishang Daode Zhenjing Zhangju Xunsong
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0698
 #+PROPERTY: id JY048
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY048_01p001a>¶
 * 太上道德眞經章句訓頌序¶
 太上老君道大而德宏守約而施博藏大用於無用之地寓無¶

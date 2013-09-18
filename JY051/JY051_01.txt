@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上道德真經集註雜說
+#+TITLE: 太上道德眞經集註雜説
 #+DATE: 2011-05-31 15:53:11
 #+PROPERTY: kxid KX048b
-#+PROPERTY: title 太上道德真經集註雜說
+#+PROPERTY: pinyin Taishang Daode Zhenjing Jizhu Zashuo
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0709
 #+PROPERTY: id JY051
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY051_01p080a>¶
 * 太上道德眞經集註雜說　　　　　@by宋鶴林彭耜纂集¶
 太祖征太原駐蹕鎭陽聞道士蘇澄隱五代之際屢聘不至召¶
@@ -422,9 +419,6 @@
 　篇曰高於孟子二三等矣又曰言至道無如五千文又曰公¶
 　老年作詩云近存八十一章注從道老聃門下人蓋老而所¶
 　造益妙錄錄者莫測矣(並見遺言)¶
-<pb:CK-KZ_JY051_01p098b>¶
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY051_01p098b>¶
 唐高宗乾封元年二月已未次亳州幸老君廟追號曰太上玄¶
 　元皇帝¶
 玄宗天寶二年正月景辰追號玄元皇帝爲大聖祖聖祖父周¶

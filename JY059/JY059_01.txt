@@ -2,14 +2,11 @@
 #+TITLE: 太上大通經註
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX056
-#+PROPERTY: title 太上大通經註
+#+PROPERTY: pinyin Taishang Datong Jing Zhu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0105
 #+PROPERTY: id JY059
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY059_01p036a>¶
 * 太上大通經註　　　@by都梁參學清庵瑩蟾子李道純註¶
 　太上謂無上可上大通謂無所不通經謂登眞之徑路眾所¶

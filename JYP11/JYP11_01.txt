@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP11
-#+TITLE:
+#+TITLE:世宗憲皇帝鄙選當今法會序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP11_01p011a>¶
@@ -27,4 +27,4 @@
 羽士亦有同時證入者六人其所作亦附刋焉是爲序¶
 <pb:CK-KZ_JYP11_01p012a>¶
 雍正十一年癸丑九月望日御筆¶
-¶	
+¶

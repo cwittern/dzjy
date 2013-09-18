@@ -2,14 +2,11 @@
 #+TITLE: 太上道德眞經集註
 #+DATE: 2011-05-31 15:53:05
 #+PROPERTY: kxid KX048
-#+PROPERTY: title 太上道德眞經集註
+#+PROPERTY: pinyin Taishang Daode Zhenjing Jizhu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0707
 #+PROPERTY: id JY049
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY049_01p001a>¶
 * 太上道德眞經集註序¶
 道常無言不得已而有言言之費也從而言之費之費者也言¶
@@ -54,8 +51,6 @@
 ¶
 ¶
 ¶
-<pb:CK-KZ_JY049_01p003a>¶
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY049_01p003a>¶
 * 太上道德眞經說序¶
 史記列傳曰老子者楚苦縣厲鄕曲仁里人也(裴駉注云地理志曰苦縣屬陳¶

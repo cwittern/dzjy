@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上說轉輪五道宿命因緣經
+#+TITLE: 太上説轉輪五道宿命因緣經
 #+DATE: 2011-05-31 15:53:26
 #+PROPERTY: kxid KX063
-#+PROPERTY: title 太上說轉輪五道宿命因緣經
+#+PROPERTY: pinyin Taishang Shuo Zhuanlun Wudao Suming Yinyuan Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0647
 #+PROPERTY: id JY066
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY066_01p054a>¶
 * 太上說轉輪五道宿命因緣經¶
 爾時¶

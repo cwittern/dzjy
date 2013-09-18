@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上洞淵說請雨龍王經
+#+TITLE: 太上洞淵説請雨龍王經
 #+DATE: 2011-05-31 15:51:20
 #+PROPERTY: kxid KX029
-#+PROPERTY: title 太上洞淵說請雨龍王經
+#+PROPERTY: pinyin Taishang Dongyuan Shuo Qingyu Longwang Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0362
 #+PROPERTY: id JY030
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY030_01p030a>¶
 * 太上洞淵說請雨龍王經¶
 道君昔於三天之上以觀世界伏見諸天諸地疫氣流行人多¶

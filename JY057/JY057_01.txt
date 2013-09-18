@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太清中黃真經
+#+TITLE: 太清中黃眞經
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX054
-#+PROPERTY: title 太清中黃真經
+#+PROPERTY: pinyin Taiqing Zhonghuang Zhenjing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0817
 #+PROPERTY: id JY057
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY057_01p006a>¶
 * 太清中黃眞經釋題¶
 中黃經亦曰胎藏論胎藏論者九仙君黃眞人所集也眞人常¶
@@ -313,10 +310,7 @@
 地府除籍天錄名坐察陰司役神明內合胎仙道自成¶
 　服炁成者當自察知陰府役使神明若入胎息至於百息者¶
 　當身入異境地籍除名服至千息者三天錄位魂遊上境也¶
-<pb:CK-KZ_JY057_01p019b>¶
-　　
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY057_01p019b>¶
+
 ** 胎息眞仙章第十一¶
 胎息眞仙食炁得郤聞眞炁成胎息¶
 　服炁經云一百日五臟靈踈方可入胎息准九天神經云先¶

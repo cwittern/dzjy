@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 陰丹內篇
+#+TITLE: 陰丹内篇
 #+DATE: 2011-11-02 10:47:36
 #+PROPERTY: kxid KX217b
-#+PROPERTY: title 陰丹內篇
+#+PROPERTY: pinyin Yindan Neipian
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1189
 #+PROPERTY: id JY220
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY220_01p040a>¶
 * 陰丹內篇¶
 坎天也陽始生也離地也陰始生也陽豈無陰坎之外皆陰也¶

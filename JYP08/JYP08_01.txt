@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP08
-#+TITLE:
+#+TITLE:世宗憲皇帝御製和碩雍親王圓明居士語錄序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP08_01p005a>¶
@@ -32,4 +32,4 @@
 來之所默印是以序而傳之不惜重添一番話墮非曰朕之言¶
 句可與從上大善知識比肩也觀者切莫哂焉¶
 雍正十一年癸丑四月八日御筆¶
-¶	
+¶

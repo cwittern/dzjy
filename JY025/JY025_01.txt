@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶國王行道經
 #+DATE: 2011-05-31 15:51:20
 #+PROPERTY: kxid KX024
-#+PROPERTY: title 太上洞玄靈寶國王行道經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Guowang Xingdao Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1113
 #+PROPERTY: id JY025
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY025_01p026a>¶
 * 太上洞玄靈寶國王行道經¶
 元始天尊告太上道君曰吾念萬兆愚迷分靈布化遍滿十方¶

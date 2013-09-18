@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC11
-#+TITLE:
+#+TITLE:欽定道藏全書總目序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC11_01p001a>¶

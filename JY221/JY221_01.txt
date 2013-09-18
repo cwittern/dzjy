@@ -2,14 +2,11 @@
 #+TITLE: 雲山集
 #+DATE: 2011-11-02 10:47:50
 #+PROPERTY: kxid KX218
-#+PROPERTY: title 雲山集
+#+PROPERTY: pinyin Yunshan Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1140
 #+PROPERTY: id JY221
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY221_01p001a>¶
 * 雲山集序¶
 庚戌夏五月友人論伯瑜至自相臺話舊之餘忽出知常先生¶

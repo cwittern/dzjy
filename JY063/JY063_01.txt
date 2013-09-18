@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上老君內觀經
+#+TITLE: 太上老君内觀經
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX060
-#+PROPERTY: title 太上老君內觀經
+#+PROPERTY: pinyin Taishang Laojun Neiguan Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0641
 #+PROPERTY: id JY063
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY063_01p047a>¶
 @fw重刊道藏輯要¶
 * 太上老君內觀經¶

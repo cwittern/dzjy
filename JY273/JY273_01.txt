@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上九真妙戒金籙度命拔罪妙經
+#+TITLE: 太上九眞妙戒金籙度命拔罪妙經
 #+DATE: 2011-11-02 11:07:25
 #+PROPERTY: kxid KX261
-#+PROPERTY: title 太上九真妙戒金籙度命拔罪妙經
+#+PROPERTY: pinyin Taishang Jiuzhen Miaojie Jinlu Duming Bazui Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0181
 #+PROPERTY: id JY273
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY273_01p059a>¶
 * 太上九眞妙戒金籙度命㧞罪妙經¶
 爾時元始天尊在九清妙境三元宫中御三炁之華寶雲玉座¶

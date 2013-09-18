@@ -2,14 +2,11 @@
 #+TITLE: 葆光集
 #+DATE: 2011-11-02 10:44:14
 #+PROPERTY: kxid KX205
-#+PROPERTY: title 葆光集
+#+PROPERTY: pinyin Baoguang Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1146
 #+PROPERTY: id JY207
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY207_01p001a>¶
 * 葆光集序¶
 伏以渾淪未判已含天地之眞清濁將分遂運陰陽之妙由是¶

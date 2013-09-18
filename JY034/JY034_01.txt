@@ -2,14 +2,11 @@
 #+TITLE: 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒
 #+DATE: 2011-05-31 15:51:23
 #+PROPERTY: kxid KX033
-#+PROPERTY: title 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒
+#+PROPERTY: pinyin Taishang Dongyuan Sanmei Dixin Guangming Zhengyin Taiji Ziwei Fumo Zhigui Zhengjiu Edao Jifu Jixiang Shenzhou
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0386
 #+PROPERTY: id JY034
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY034_01p091a>¶
 * 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道¶
 集福吉祥神咒¶

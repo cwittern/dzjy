@@ -2,16 +2,13 @@
 #+TITLE: 石橋歌
 #+DATE: 2011-11-02 10:42:21
 #+PROPERTY: kxid KX178b
-#+PROPERTY: title 石橋歌
+#+PROPERTY: pinyin Shiqiao Ge
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0141
 #+PROPERTY: id JY179
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 008
-#+PROPERTY: JUAN 008
 <pb:CK-KZ_JY179_01p061a>¶
-* 石橋歌(附)¶
+* 　　石橋歌(附)¶
 吾家本住石橋北山鎭水關森古木橋下澗水徹崑崙山下有¶
 泉香馥郁吾歸山內實堪誇徧地均栽不謝花山北穴中藏猛¶
 虎出窟哮吼生風霞山南潭底隱蛟龍騰雲降雨山濛濛二獸¶

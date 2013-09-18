@@ -2,14 +2,11 @@
 #+TITLE: 長生胎元神用經
 #+DATE: 2011-05-31 16:04:34
 #+PROPERTY: kxid KX125
-#+PROPERTY: title 長生胎元神用經
+#+PROPERTY: pinyin Changsheng Taiyuan Shenyong Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1405
 #+PROPERTY: id JY124
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY124_01p008a>¶
 * 長生胎元神用經¶
 　　　　　　　　　　　　　　　　　@by野人郎肇注¶

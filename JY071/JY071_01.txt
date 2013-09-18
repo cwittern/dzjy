@@ -2,14 +2,11 @@
 #+TITLE: 枕中經
 #+DATE: 2011-05-31 15:53:28
 #+PROPERTY: kxid KX068
-#+PROPERTY: title 枕中經
+#+PROPERTY: pinyin Zhenzhong Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1422
 #+PROPERTY: id JY071
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY071_01p091a>¶
 * 枕中經¶
 老君曰大道無形常居杳冥隨機化物以應精誠子能寂念受¶
@@ -47,10 +44,3 @@
 日興金車入門仕宦高遷祿位三公心忠志孝輔弼¶
 帝君急急如¶
 太上女青詔書律令¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶

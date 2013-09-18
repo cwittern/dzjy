@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC15
-#+TITLE:
+#+TITLE:郡齋讀書志道家書目
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC15_01p001a>¶
@@ -16,12 +16,12 @@
 　　右蜀杜光庭纂光庭集王氏男眞女仙五十五人以謟王¶
 <pb:CK-KZ_JYC15_01p001b>¶
 　　建其後又有王虛中續纂三十人附於後¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
 郡齋讀書志道家書目終¶

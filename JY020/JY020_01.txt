@@ -2,14 +2,11 @@
 #+TITLE: 洞玄靈寶自然九天生神章經解義
 #+DATE: 2011-05-27 18:45:22
 #+PROPERTY: kxid KX019
-#+PROPERTY: title 洞玄靈寶自然九天生神章經解義
+#+PROPERTY: pinyin Dongxuan Lingbao Ziran Jiutian Shengshen Zhangjing Jieyi
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0396
 #+PROPERTY: id JY020
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY020_01p001a>¶
 * 洞玄靈寶自然九天生神章經序說¶
 ** 　　懸義¶

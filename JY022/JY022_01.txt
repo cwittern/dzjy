@@ -2,14 +2,11 @@
 #+TITLE: 洞玄靈寶自然九天生神章經注
 #+DATE: 2011-05-31 15:51:18
 #+PROPERTY: kxid KX021
-#+PROPERTY: title 洞玄靈寶自然九天生神章經注
+#+PROPERTY: pinyin Dongxuan Lingbao Ziran Jiutian Shengshen Zhangjing Zhu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0398
 #+PROPERTY: id JY022
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY022_01p001a>¶
 * 九天生神玉章經注序¶
 生神玉章上帝所以宣示好生之德也故凡寶鍊混合登晨之¶

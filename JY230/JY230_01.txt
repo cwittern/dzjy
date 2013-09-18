@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 清和真人北游語錄
+#+TITLE: 清和眞人北游語錄
 #+DATE: 2011-11-02 10:48:18
 #+PROPERTY: kxid KX227
-#+PROPERTY: title 清和真人北游語錄
+#+PROPERTY: pinyin Qinghe Zhenren Beiyou Yulu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1310
 #+PROPERTY: id JY230
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY230_01p001a>¶
 @fw道藏輯要¶
 * 清和眞人北遊語録　　　　　　  @by弟子叚志堅編¶
@@ -250,9 +247,6 @@
 必以通顯靈聖方是道殊不知必自積累功行旣至深厚心自¶
 靈外緣自應無非自得若有心於求必涉虛僞其損性損福不¶
 可勝言¶
-<pb:CK-KZ_JY230_01p011b>¶
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY230_01p011b>¶
 中秋夜棲眞觀露坐衆話及礬山聖泉云是黃帝誕聖之地臨¶
 泉有樹帝母嘗曝藉衣於上其樹遂痀僂而俯柯葉蔭其泉似¶
 <pb:CK-KZ_JY230_01p012a>¶
@@ -622,8 +616,6 @@
 功累行功行旣至明有響應學道之人未至洞達神明不能見¶
 道此眞實之語衆等識之¶
 <pb:CK-KZ_JY230_01p028b>¶
-#+PROPERTY: JUAN 003
-<pb:CK-KZ_JY230_01p028b>¶
 癸巳冬十月義州通仙觀命郭志全講道德經首章有云玄之¶
 又玄志全云無極之妙也¶
 師曰大凡書中重稱之辭皆不盡意此非論語時哉時哉之類¶
@@ -855,9 +847,6 @@
 <pb:CK-KZ_JY230_01p039a>¶
 人皆是功行到聖賢自然與之丹陽師父因乞飯中聞道長眞¶
 師父路中行次得之長生師父坐於洛陽瓦市中至七年得之¶
-<pb:CK-KZ_JY230_01p039a>¶
-#+PROPERTY: JUAN 004
-<pb:CK-KZ_JY230_01p039a>¶
 師父嘗說徐神翁在家大孝傭賃於酒肆中三年所得工價奉¶
 養其母凡塵勞之事不擇輕重見無不爲一日有客畫鶴於門¶
 壁間神翁出觀之客回目一顧神翁遂得其傳卽於稠人邊靜¶

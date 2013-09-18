@@ -2,14 +2,11 @@
 #+TITLE: 紫皇鍊度玄科
 #+DATE: 2011-11-02 11:10:51
 #+PROPERTY: kxid KX271
-#+PROPERTY: title 紫皇鍊度玄科
+#+PROPERTY: pinyin Zihuang Liandu Xuanke
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1451
 #+PROPERTY: id JY283
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY283_01p078a>¶
 * 紫皇鍊度玄科¶
 　法事如儀　侍職焚衛靈符　都講舉　各禮師存念如法¶

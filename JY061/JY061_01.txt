@@ -2,14 +2,11 @@
 #+TITLE: 太上老君外日用妙經
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX058
-#+PROPERTY: title 太上老君外日用妙經
+#+PROPERTY: pinyin Taishang Laojun Wai Riyong Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0646
 #+PROPERTY: id JY061
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY061_01p040a>¶
 * 太上老君外日用妙經¶
 　敬天地　重日月　懼國法　依王道　孝父母　上謙讓¶

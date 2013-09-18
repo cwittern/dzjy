@@ -2,14 +2,11 @@
 #+TITLE: 三洞群仙錄
 #+DATE: 2011-11-02 11:14:24
 #+PROPERTY: kxid KX284
-#+PROPERTY: title 三洞群仙錄
+#+PROPERTY: pinyin Sandong Qunxian Lu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1248
 #+PROPERTY: id JY296
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY296_01p001a>¶
 * 三洞羣仙錄序¶
 　　　　　　　　　　　　　@by正一道士陳葆光撰集¶

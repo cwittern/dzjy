@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_20p001a>¶
 * 上淸靈寶文檢卷之六¶
 　　目錄¶
@@ -22,7 +21,7 @@
 　啓天師箋　　　啓三師箋　　　啓監齋箋¶
 　謝玄箋　　　　謝五帝箋　　　五師謝罪箋¶
 　三官謝罪箋¶
-¶	
-¶	
-¶	
+¶
+¶
+¶
 上淸靈寶文檢卷之六目錄終¶

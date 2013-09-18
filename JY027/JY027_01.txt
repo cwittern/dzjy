@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶福日妙經
 #+DATE: 2011-05-31 15:51:20
 #+PROPERTY: kxid KX026
-#+PROPERTY: title 太上洞玄靈寶福日妙經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Furi Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0355
 #+PROPERTY: id JY027
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY027_01p026a>¶
 * 太上洞玄靈寶福日妙經¶
 天尊言善男子善女人欲得過去見在未來三世之中不墮眾¶

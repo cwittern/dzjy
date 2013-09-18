@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上道德真經四子古道集解
+#+TITLE: 太上道德眞經四子古道集解
 #+DATE: 2011-05-31 15:51:52
 #+PROPERTY: kxid KX045
-#+PROPERTY: title 太上道德真經四子古道集解
+#+PROPERTY: pinyin Taishang Daode Zhenjing Sizi Gudao Jijie
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0684
 #+PROPERTY: id JY046
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY046_01p001a>¶
 * 太上道德眞經四子古道集解序¶
 僕草澤無名之野人也素不以進取介意及冠之後酷嗜恬淡¶

@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上洞真賢門經
+#+TITLE: 太上洞眞賢門經
 #+DATE: 2011-05-31 15:53:41
 #+PROPERTY: kxid KX075
-#+PROPERTY: title 太上洞真賢門經
+#+PROPERTY: pinyin Taishang Dongzhen Xianmen Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0061
 #+PROPERTY: id JY080
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY080_01p001a>¶
 @fw重刋道藏輯要¶
 * 太上洞眞賢門經¶

@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶業報因緣經
 #+DATE: 2011-05-31 15:51:27
 #+PROPERTY: kxid KX039
-#+PROPERTY: title 太上洞玄靈寶業報因緣經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Yebao Yinyuan Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0336
 #+PROPERTY: id JY040
-#+PROPERTY: JUAN 4
-#+PROPERTY: JUAN 004
-#+PROPERTY: JUAN 004
 <pb:CK-KZ_JY040_01p050a>¶
 * 太上洞玄靈寶業報因緣經¶
 　　　
@@ -231,15 +228,4 @@
 勿教凡穢言笑喧聒是名法食始曰淸齋能依是言諸天降駕¶
 萬聖齊臨眾眞稱善玉女散華生死䝉恩得福無量¶
 ¶
-#+PROPERTY: JUAN 005
-<pb:CK-KZ_JY040_01p050a>¶
-#+PROPERTY: JUAN 006
-<pb:CK-KZ_JY040_01p050a>¶
-#+PROPERTY: JUAN 007
-<pb:CK-KZ_JY040_01p050a>¶
-#+PROPERTY: JUAN 008
-<pb:CK-KZ_JY040_01p050a>¶
-#+PROPERTY: JUAN 009
-<pb:CK-KZ_JY040_01p050a>¶
-#+PROPERTY: JUAN 010
-<pb:CK-KZ_JY040_01p050a>¶
+¶

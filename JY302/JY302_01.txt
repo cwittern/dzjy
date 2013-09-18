@@ -2,14 +2,11 @@
 #+TITLE: 金蓮正宗仙源像傳
 #+DATE: 2011-11-02 11:14:52
 #+PROPERTY: kxid KX290
-#+PROPERTY: title 金蓮正宗仙源像傳
+#+PROPERTY: pinyin Jinlian Zhengzong Xianyuan Xiangzhuan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0174
 #+PROPERTY: id JY302
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY302_01p045a>¶
 * 金蓮正宗仙源像傳序¶
 李全正𢹂至劉天素與謝西蟾所作全真正宗仙源像傳一帙¶

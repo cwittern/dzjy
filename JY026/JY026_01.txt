@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上金匱玉鏡修真指玄妙經
+#+TITLE: 太上金匱玉鏡修眞指玄妙經
 #+DATE: 2011-05-31 15:51:20
 #+PROPERTY: kxid KX025
-#+PROPERTY: title 太上金匱玉鏡修真指玄妙經
+#+PROPERTY: pinyin Taishang Jingui Yujing Xiuzhen Zhixuan Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0353
 #+PROPERTY: id JY026
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY026_01p001a>¶
 @fw重刋道藏輯要¶
 * 太上金匱玉鏡修眞指玄妙經¶

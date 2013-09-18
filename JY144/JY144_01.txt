@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 抱朴子內篇
+#+TITLE: 抱朴子内篇
 #+DATE: 2011-05-31 17:01:05
 #+PROPERTY: kxid KX145
-#+PROPERTY: title 抱朴子內篇
+#+PROPERTY: pinyin Baopu Zi Neipian
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1185
 #+PROPERTY: id JY144
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY144_01p001a>¶
 * 抱朴子序¶
 洪體乏超逸之才偶好無爲之業假令奮翅則能凌厲玄霄騁¶

@@ -2,14 +2,11 @@
 #+TITLE: 太上靈寶朝天謝罪法懺
 #+DATE: 2011-11-02 11:04:51
 #+PROPERTY: kxid KX242
-#+PROPERTY: title 太上靈寶朝天謝罪法懺
+#+PROPERTY: pinyin Taishang Lingbao Chaotian Xiezui Fachan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0189
 #+PROPERTY: id JY248
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY248_01p001a>¶
 * 太上靈寶朝天謝罪法懺卷一¶
 爾時¶

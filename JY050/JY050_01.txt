@@ -2,14 +2,11 @@
 #+TITLE: 太上道德眞經集註釋文
 #+DATE: 2011-05-31 15:53:07
 #+PROPERTY: kxid KX048a
-#+PROPERTY: title 太上道德眞經集註釋文
+#+PROPERTY: pinyin Taishang Daode Zhenjing Jizhu Shiwen
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0708
 #+PROPERTY: id JY050
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY050_01p063a>¶
 * 道德眞經集註釋文序¶
 甚矣文字之流傳而說者之不一也魯語一書以何宴所傳校¶

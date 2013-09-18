@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_06p007a>¶
 * 原序¶
 按洞玄靈寶本章首言混洞赤文再言五文開廓則又曰無文¶
@@ -43,4 +42,4 @@
 　與斯道相爲終始而無容期也用隙本章之言以發其端庶¶
 　開卷者知¶
 皇人按筆之義云¶
-¶	
+¶

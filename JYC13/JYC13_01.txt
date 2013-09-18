@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC13
-#+TITLE:
+#+TITLE:古今逸史四十種道家書目附
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC13_01p003b>¶
@@ -33,6 +33,6 @@
 　老子二卷(河上公註)¶
 　莊子十卷(郭象註)¶
 　淮南子二十六卷(高誘注)¶
-¶	
-¶	
+¶
+¶
 古今逸史四十種道家書目終¶

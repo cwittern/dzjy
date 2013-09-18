@@ -1,17 +1,14 @@
 #-*- mode: org; -*-
-#+TITLE: 七元真人說神真靈符經
+#+TITLE: 七元眞人説神眞靈符經
 #+DATE: 2011-05-31 16:04:38
 #+PROPERTY: kxid KX128
-#+PROPERTY: title 七元真人說神真靈符經
+#+PROPERTY: pinyin Qiyuan Zhenren Shuo Shenzhen Lingfu Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1420
 #+PROPERTY: id JY127
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY127_01p072a>¶
-@fw二經同卷¶
+二經同卷¶
 * 七元眞人說神眞靈符經¶
 七眞告一切諸鬼王神王北酆都羅山六洞天魔王自今已去¶
 不得枉殺天下萬民萬民悉我身中胑脉我有神章勅禁外魔¶
@@ -144,7 +141,7 @@
 ¶
 <pb:CK-KZ_JY127_01p078a>¶
 七眞曰告八威神符一道若有道士欲爲治疾病[辶*昌]絶精邪可¶
-墨書栢木板長一尺五寸懸宅中庭齋以本命紋素當可傳之¶
+墨書栢木板長一尺五寸懸宅中庭齋以本命紋素當可傳之¶
 三十年一鎭也¶
 ¶
 ¶

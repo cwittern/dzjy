@@ -1,14 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上道德真經四子古道集解
+#+TITLE: 太上道德眞經四子古道集解
 #+DATE: 2011-05-31 15:51:52
 #+PROPERTY: kxid KX045
-#+PROPERTY: title 太上道德真經四子古道集解
+#+PROPERTY: pinyin Taishang Daode Zhenjing Sizi Gudao Jijie
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0684
 #+PROPERTY: id JY046
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 010
 <pb:CK-KZ_JY046_03p001a>¶
 ** 後序¶
 竊聞莊列文庚者迺老氏之門人高弟也當此周時皆親授五¶

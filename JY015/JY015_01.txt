@@ -2,14 +2,11 @@
 #+TITLE: 元始消劫梓潼本願眞經
 #+DATE: 2011-05-27 18:43:33
 #+PROPERTY: kxid KX014
-#+PROPERTY: title 元始消劫梓潼本願眞經
+#+PROPERTY: pinyin Yuanshi Xiaojie Zitong Benyuan Zhenjing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0029
 #+PROPERTY: id JY015
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY015_01p083a>¶
 * 梓潼本願眞經序¶
 人之所以爲萬物之靈者何心而巳矣心之可以爲聖可以爲¶

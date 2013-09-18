@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC16
-#+TITLE:
+#+TITLE:直齋書錄解題道家書目
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC16_01p001a>¶
@@ -117,10 +117,10 @@
 　成之¶
 莊子十論一卷¶
 　題李士表撰未詳何人¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
 直齋書錄解題道家書目終¶

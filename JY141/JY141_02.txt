@@ -2,22 +2,16 @@
 #+TITLE: 參同契
 #+DATE: 2011-05-31 16:54:23
 #+PROPERTY: kxid KX142
-#+PROPERTY: title 參同契
+#+PROPERTY: pinyin Cantong Qi
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1007
 #+PROPERTY: id JY141
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-<pb:CK-KZ_JY141_02p001a>¶
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY141_02p001a>¶
 @fw重刊道藏輯要¶
-　
-* 参同契¶
-@by魏伯陽眞人著　　　　　　　　　@by抱一子陳顯微注¶
-　　
-** 上篇¶
+* 　参同契¶
+@by魏伯陽眞人著　　　　　　　　　@by抱一子陳顯微注¶　
+** 　　上篇¶
 乾坤者易之門戸眾卦之父母¶
 　金碧經曰神室者丹之樞紐眾石之父母魏君謂乾坤者易¶
 　之門戸眾卦之父母其義一也非神室則無以成丹非乾坤¶
@@ -564,9 +558,7 @@
 ¶
 ¶
 <pb:CK-KZ_JY141_02p026a>¶
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY141_02p026a>¶
-** 中篇¶
+** 　　中篇¶
 乾剛坤柔配合相包陽稟陰受雄雌相須須以造化精氣乃舒¶
 坎離冠首光耀垂敷玄冥難測不可畫圖聖人揆度參序元基¶
 四者混沌徑入虛無六十卦周張布爲輿龍馬就駕明君御時¶
@@ -895,11 +887,8 @@
 ¶
 ¶
 ¶
-<pb:CK-KZ_JY141_02p041a>¶
-#+PROPERTY: JUAN 003
-<pb:CK-KZ_JY141_02p041a>¶
-　　
-** 下篇¶
+<pb:CK-KZ_JY141_02p041a>¶　
+** 　　下篇¶
 惟昔聖賢懷玄抱眞服鍊九鼎化跡隱淪含精養神通德三光¶
 津液腠理筋骨緻堅眾邪辟除正氣長存累積長久變形而仙¶
 憂憫後生好道之倫隨傍風采指畫古文著爲圖籍開示後昆¶

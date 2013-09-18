@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 元始天尊說生天得道經
+#+TITLE: 元始天尊説生天得道經
 #+DATE: 2011-05-27 18:43:33
 #+PROPERTY: kxid KX010
-#+PROPERTY: title 元始天尊說生天得道經
+#+PROPERTY: pinyin Yuanshi Tianzun Shuo Shengtian Dedao Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0024
 #+PROPERTY: id JY011
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY011_01p052a>¶
 * 元始天尊說生天得道經¶
 爾時¶

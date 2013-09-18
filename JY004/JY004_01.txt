@@ -1,18 +1,15 @@
 #-*- mode: org; -*-
-#+TITLE: 元始天尊說無上内祕眞藏經
+#+TITLE: 元始天尊説無上内祕眞藏經
 #+DATE: 2011-05-27 18:43:17
 #+PROPERTY: kxid KX004
-#+PROPERTY: title 元始天尊說無上内祕眞藏經
+#+PROPERTY: pinyin Yuanshi Tianzun Shuo Wushang Neibi Zhenzang Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0004
 #+PROPERTY: id JY004
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 001
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY004_01p001a>¶
-@fw1重刊道藏輯要¶
-* 元始天尊說无上内秘眞藏經目錄          ¶
+@fw重刊道藏輯要¶
+元始天尊說无上内秘眞藏經目錄¶
 　顯道品第一¶
 　辨三寶品第二¶
 　辨四眞品第三¶

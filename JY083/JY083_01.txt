@@ -2,14 +2,11 @@
 #+TITLE: 猶龍傳
 #+DATE: 2011-05-31 15:53:56
 #+PROPERTY: kxid KX079
-#+PROPERTY: title 猶龍傳
+#+PROPERTY: pinyin Youlong Zhuan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0774
 #+PROPERTY: id JY083
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY083_01p001a>¶
 * 猶龍傳序¶
 司馬子長倡始作史書而帝紀世家列傳敘前古聖哲之云爲¶

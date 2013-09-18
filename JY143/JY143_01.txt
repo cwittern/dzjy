@@ -2,14 +2,11 @@
 #+TITLE: 淮南鴻烈解
 #+DATE: 2011-05-31 17:00:07
 #+PROPERTY: kxid KX144
-#+PROPERTY: title 淮南鴻烈解
+#+PROPERTY: pinyin Huainan Honglie Jie
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1184
 #+PROPERTY: id JY143
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY143_01p001a>¶
 * 淮南鴻烈解叙¶
 淮南王名安厲王長子也長高皇帝之子也其母趙氏女爲趙¶

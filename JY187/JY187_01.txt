@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 重陽全真集
+#+TITLE: 重陽全眞集
 #+DATE: 2011-11-02 10:43:08
 #+PROPERTY: kxid KX186
-#+PROPERTY: title 重陽全真集
+#+PROPERTY: pinyin Chongyang Quanzhen Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1153
 #+PROPERTY: id JY187
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY187_01p001a>¶
 * 重陽全眞集序¶
 全眞之教大矣哉謂眞者至純不雜浩劫常存一元之始祖萬¶

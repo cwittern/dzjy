@@ -2,14 +2,11 @@
 #+TITLE: 虛靜沖和先生徐神翁語錄
 #+DATE: 2011-11-02 10:48:10
 #+PROPERTY: kxid KX225
-#+PROPERTY: title 虛靜沖和先生徐神翁語錄
+#+PROPERTY: pinyin Xujing Chonghe Xiansheng Xu Shenweng Yulu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1251
 #+PROPERTY: id JY228
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY228_01p012a>¶
 * 徐神翁語錄序¶
 人生一世間其所受用有天有命有分有數絲毫不可易以不¶
@@ -33,7 +30,7 @@
 ¶
 ¶
 <pb:CK-KZ_JY228_01p013a>¶
-** 徐神翁語錄後序¶
+* 徐神翁語錄後序¶
 余舊聞海陵徐神翁異常恨未及多見其說淳熙乙巳假守是¶
 邦因得訪其遺蹟而略無傳記可攷詢之其徒則曰吾鄕自漢¶
 晉以來仙者接踵神翁之時又有陳豆豆周處士唐先生相繼¶
@@ -54,8 +51,6 @@
 ¶
 ¶
 ¶
-<pb:CK-KZ_JY228_01p014a>¶
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY228_01p014a>¶
 * 虚靜沖和先生徐神翁語錄¶
 　　　　　　　　　　　　　　　　@by弟子苗希頤編記¶
@@ -515,9 +510,6 @@
 道士劉守甯募緣鑄鐘問何日可成公云三火方得已而再鑄¶
 不就復問公公云須是通州遂往靜海得張冶子者欲皷韛間¶
 忽見公來眾欣然迎之輙不復見遂一鑄而成¶
-<pb:CK-KZ_JY228_01p034b>¶
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY228_01p034b>¶
 公自紹聖乙亥九月旦扄戸不出不飲不食道眾叩戸寂無音¶
 響十一月七日郡守陸農師至令道正擊戸有頃聞謦欬之音¶
 陸呼曰佃在此久矣士民自公不出憂惶頗甚遂出相見陸問¶

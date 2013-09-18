@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_22p001a>¶
 * 道藏三籙論奏獻錢馬事靈寶文檢卷七¶
 　凡修齋醮奏獻錢馬皆以質誠效信通達眞靈若分位繁多¶
@@ -21,4 +20,4 @@
 　　目錄¶
 　羅天大醮計一百狀¶
 　　一千二百分位¶
-¶	
+¶

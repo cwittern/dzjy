@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP06
-#+TITLE:
+#+TITLE:重刋道藏輯要凡例十六則
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP06_01p012a>¶
@@ -67,4 +67,4 @@
 一道藏係天人奥旨聖神心傳雖爲道門之梯航實與儒家釋¶
 　家之書互相發明但願志士仁人能於先聖散帙遺編訪求¶
 　而增之續之以成道藏一大觀焉斯誠幸甚¶
-¶	
+¶

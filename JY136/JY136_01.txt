@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 通玄真經
+#+TITLE: 通玄眞經
 #+DATE: 2011-05-31 16:54:12
 #+PROPERTY: kxid KX137
-#+PROPERTY: title 通玄真經
+#+PROPERTY: pinyin Tongxuan Zhenjing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0746
 #+PROPERTY: id JY136
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY136_01p001a>¶
 * 通玄眞經序¶
 大道不振其來已久微波尚存出自諸子莫不祖述道德彌縫¶

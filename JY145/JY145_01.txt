@@ -2,7 +2,7 @@
 #+TITLE: 抱朴子外篇
 #+DATE: 2011-05-31 17:04:35
 #+PROPERTY: kxid KX145b
-#+PROPERTY: title 抱朴子外篇
+#+PROPERTY: pinyin Baopu Zi Waipian
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1187
@@ -148,9 +148,7 @@
 臣民亦何必垂纓執笏者爲事而樂饑衡門者可非乎失羣迷¶
 乎雲夢者必須指南以知道並乎滄海者必仰辰極以得反今¶
 聞嘉訓乃覺其蔽請負衣冠策駑希驥汎愛與進不嫌擇焉¶
-#+PROPERTY: JUAN 050
-<pb:CK-KZ_JY145_01p173a>¶
-** 自敘¶
+* 　　自敘¶
 抱樸子者姓葛名洪字稚川丹陽句容人也其先葛天氏葢古¶
 之有天下者也後降爲列國因以爲姓焉洪曩祖爲荆州刺史¶
 王莽之簒君恥事國賊棄官而歸與東郡太守翟義共起兵將¶

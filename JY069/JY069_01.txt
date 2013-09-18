@@ -2,14 +2,11 @@
 #+TITLE: 太上浩元經
 #+DATE: 2011-05-31 15:53:26
 #+PROPERTY: kxid KX066
-#+PROPERTY: title 太上浩元經
+#+PROPERTY: pinyin Taishang Haoyuan Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0659
 #+PROPERTY: id JY069
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY069_01p067a>¶
 * 太上浩源經¶
 老君曰浩源太眞君子之身上下三宮保營精神熙融視息吐¶

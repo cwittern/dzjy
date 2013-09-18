@@ -2,14 +2,11 @@
 #+TITLE: 洞玄靈寶八仙王教誡經
 #+DATE: 2011-05-31 15:51:19
 #+PROPERTY: kxid KX023
-#+PROPERTY: title 洞玄靈寶八仙王教誡經
+#+PROPERTY: pinyin Dongxuan Lingbao Ba Xianwang Jiaojie Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1112
 #+PROPERTY: id JY024
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY024_01p021a>¶
 * 洞玄靈寶八仙王教誡經¶
 道言左右中眞結形之始分於元始无上大道應化之氣孕靈¶

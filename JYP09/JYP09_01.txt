@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP09
-#+TITLE:
+#+TITLE:世宗憲皇帝御選大慈圓通禪仙紫陽眞人張平叔語錄序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP09_01p007a>¶
@@ -27,4 +27,4 @@
 非眞焉是爲序¶
 <pb:CK-KZ_JYP09_01p008a>¶
 雍正十一年癸丑七月朔日御筆¶
-¶	
+¶

@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上老君內丹經
+#+TITLE: 太上老君内丹經
 #+DATE: 2011-05-31 15:53:26
 #+PROPERTY: kxid KX064
-#+PROPERTY: title 太上老君內丹經
+#+PROPERTY: pinyin Taishang Laojun Neidan Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0643
 #+PROPERTY: id JY067
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY067_01p060a>¶
 * 太上老君內丹經¶
 老君曰夫學長生久視不死之道先須理心正行然後習氣道¶
@@ -52,4 +49,5 @@
 輔弼帝君太上曰自已三清何勞上望自已老君何勞外覓知¶
 之修煉謂之聖人矣¶
 ¶
-太上老君內丹經¶
+大上老君內丹經¶
+¶

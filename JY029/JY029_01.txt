@@ -2,14 +2,11 @@
 #+TITLE: 太上神咒延壽妙經
 #+DATE: 2011-05-31 15:51:20
 #+PROPERTY: kxid KX028
-#+PROPERTY: title 太上神咒延壽妙經
+#+PROPERTY: pinyin Taishang Shenzhou Yanshou Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0358
 #+PROPERTY: id JY029
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY029_01p029a>¶
 * 太上神咒延夀妙經¶
 爾時¶

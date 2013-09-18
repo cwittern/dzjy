@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上洞玄靈寶天尊說救苦妙經
+#+TITLE: 太上洞玄靈寶天尊説救苦妙經
 #+DATE: 2011-05-31 15:51:19
 #+PROPERTY: kxid KX022
-#+PROPERTY: title 太上洞玄靈寶天尊說救苦妙經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Tianzun Shuo Jiuku Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0399
 #+PROPERTY: id JY023
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY023_01p001a>¶
 * 太上洞玄靈寶救苦妙經序¶
 夫學長生久視之道在乎鍊炁養神兼施並行然鍊養之功本¶

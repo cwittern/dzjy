@@ -2,14 +2,11 @@
 #+TITLE: 水雲集
 #+DATE: 2011-11-02 10:43:35
 #+PROPERTY: kxid KX196
-#+PROPERTY: title 水雲集
+#+PROPERTY: pinyin Shuiyun Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1160
 #+PROPERTY: id JY198
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY198_01p001a>¶
 * 水雲集序¶
 東牟古牟子之國齊之大郡也戸口浩繁人性質朴東連滄海¶

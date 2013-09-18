@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶十號功德因緣妙經
 #+DATE: 2011-05-31 15:51:24
 #+PROPERTY: kxid KX037
-#+PROPERTY: title 太上洞玄靈寶十號功德因緣妙經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Shihao Gongde Yinyuan Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0337
 #+PROPERTY: id JY038
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY038_01p030a>¶
 * 太上洞玄靈寶十號功德因緣妙經¶
 太上大道君與五老上帝無極飛天大聖無上高眞十極眞人¶

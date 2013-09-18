@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 無為清靜長生真人至真語錄
+#+TITLE: 無為清靜長生眞人至眞語錄
 #+DATE: 2011-11-02 10:43:31
 #+PROPERTY: kxid KX195
-#+PROPERTY: title 無為清靜長生真人至真語錄
+#+PROPERTY: pinyin Wuwei Qingjing Changsheng Zhenren Zhizhen Yulu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1058
 #+PROPERTY: id JY197
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY197_01p063a>¶
 * 無爲清靜長生眞人至眞語録序¶
 我聞道在域中所宜馴致仙居象外不可苟求故樂天詩云若¶
@@ -99,10 +96,8 @@
 ¶
 ¶
 <pb:CK-KZ_JY197_01p067a>¶
-　
-* 無爲清靜長生眞人至眞語錄¶
-　　
-** 問法¶
+* 　無爲清靜長生眞人至眞語錄¶
+** 　　問法¶
 來人詢其法者何也長生子答曰通其道而達眞空則謂之法¶
 通其釋而達無生則謂之戒授於法者不能盡其萬愆也不能¶
 通其萬理也授於戒者不能盡其萬善也不能通其萬慧也道¶

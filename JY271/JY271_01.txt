@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太微靈書紫文仙忌真記上經
+#+TITLE: 太微靈書紫文仙忌眞記上經
 #+DATE: 2011-11-02 11:07:25
 #+PROPERTY: kxid KX259
-#+PROPERTY: title 太微靈書紫文仙忌真記上經
+#+PROPERTY: pinyin Taiwei Lingshu Ziwen Xianji Zhenji Shangjing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0179
 #+PROPERTY: id JY271
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY271_01p050a>¶
 @fw重刋道藏輯要¶
 * 太微靈書紫文仙忌眞記上經¶

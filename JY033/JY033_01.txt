@@ -2,14 +2,11 @@
 #+TITLE: 太上靈寶洪福滅罪像名經
 #+DATE: 2011-05-31 15:51:22
 #+PROPERTY: kxid KX032
-#+PROPERTY: title 太上靈寶洪福滅罪像名經
+#+PROPERTY: pinyin Taishang Lingbao Hongfu Miezui Xiangming Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0377
 #+PROPERTY: id JY033
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY033_01p055a>¶
 * 太上靈寶洪福滅罪像名經¶
 昔時安忍國王太子名太虛字海空行心至願出家修道父王¶

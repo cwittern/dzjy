@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 明真破妄章頌
+#+TITLE: 明眞破妄章頌
 #+DATE: 2011-11-02 10:47:35
 #+PROPERTY: kxid KX215
-#+PROPERTY: title 明真破妄章頌
+#+PROPERTY: pinyin Mingzhen Powang Zhangsong
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0979
 #+PROPERTY: id JY217
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY217_01p014a>¶
 * 明眞破妄章頌¶
 　　　　　　　　　　　　　　　　@by虛靖張眞君著¶

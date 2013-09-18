@@ -2,14 +2,11 @@
 #+TITLE: 太上老君太素經
 #+DATE: 2011-05-31 15:53:28
 #+PROPERTY: kxid KX070
-#+PROPERTY: title 太上老君太素經
+#+PROPERTY: pinyin Taishang Laojun Taisu Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1424
 #+PROPERTY: id JY073
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY073_01p097b>¶
 * 太上老君太素經¶
 太素皓皓命之曰道太素之時神往營之道乃生之生之形之¶

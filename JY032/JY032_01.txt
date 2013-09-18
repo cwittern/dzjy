@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶淨供妙經
 #+DATE: 2011-05-31 15:51:21
 #+PROPERTY: kxid KX031
-#+PROPERTY: title 太上洞玄靈寶淨供妙經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Jinggong Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0376
 #+PROPERTY: id JY032
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY032_01p048a>¶
 * 太上洞玄靈寶淨供妙經¶
 爾時太極左仙公於若耶山崇高之頂最極雲峯精思靜處永¶

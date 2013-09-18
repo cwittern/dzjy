@@ -2,14 +2,11 @@
 #+TITLE: 靈寶畢法
 #+DATE: 2011-05-31 17:09:54
 #+PROPERTY: kxid KX148
-#+PROPERTY: title 靈寶畢法
+#+PROPERTY: pinyin Lingbao Bifa
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1191
 #+PROPERTY: id JY148
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY148_01p001a>¶
 * 靈寳畢法序¶
 道不可以言傳不可以名紀厯古以來昇仙達道者不爲少矣¶

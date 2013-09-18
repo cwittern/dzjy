@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 虛皇天尊初真十戒文
+#+TITLE: 虛皇天尊初眞十戒文
 #+DATE: 2011-11-02 11:07:25
 #+PROPERTY: kxid KX260
-#+PROPERTY: title 虛皇天尊初真十戒文
+#+PROPERTY: pinyin Xuhuang Tianzun Chuzhen Shijie Wen
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0180
 #+PROPERTY: id JY272
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY272_01p053a>¶
 * 虛皇天尊初眞十戒文¶
 　謹按¶

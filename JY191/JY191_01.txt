@@ -1,18 +1,15 @@
 #-*- mode: org; -*-
-#+TITLE: 丹陽真人直言
+#+TITLE: 丹陽眞人直言
 #+DATE: 2011-11-02 10:43:12
 #+PROPERTY: kxid KX189b
-#+PROPERTY: title 丹陽真人直言
+#+PROPERTY: pinyin Danyang Zhenren Zhiyan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1234
 #+PROPERTY: id JY191
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY191_01p026a>¶
 * 丹陽眞人直言¶
-　　示門人¶
+** 　　示門人¶
 眞人在龍門山重陽會上謂眾曰日用者上不得欺謾天地常¶
 謹謹修行寸陰可惜莫虛度日須索減省睡眠亦是人之所欲¶
 須要換過則不是打坐長要心定行住坐卧皆是行道諸公休¶

@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_05p005a>¶
 * 序¶
 從來明珠藏於滄海乘時出放毫光美玉韞於櫝中欲沽待求¶
@@ -32,4 +31,9 @@
 恩開曉素沭庥光誠不敢忘今公書成爰敘小𥳑以彰¶
 公德公其鑒焉勿以狂妄見弃則幸甚矣¶
 道光庚子𡻕端月方亭後學楊本興拜書¶
-¶	
+¶
+¶
+¶
+¶
+¶
+<pb:CK-EX_JY265_06p006b>¶

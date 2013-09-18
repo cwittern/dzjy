@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶開演祕密藏經
 #+DATE: 2011-05-31 15:51:23
 #+PROPERTY: kxid KX035
-#+PROPERTY: title 太上洞玄靈寶開演祕密藏經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Kaiyan Bimi Zang Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0329
 #+PROPERTY: id JY036
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY036_01p008a>¶
 * 太上洞玄靈寶開演秘宻藏經¶
 太上大道君以上皇元年十月五日與無量天眞妙行神人詣¶

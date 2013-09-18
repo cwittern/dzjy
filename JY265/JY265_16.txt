@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_16p001a>¶
 * 重刋道藏輯要上淸靈寶文檢卷四¶
 　　目錄¶
@@ -63,4 +62,4 @@
 　血湖拔苦鍊度表¶
 元始一切凶傷血光等魂疏式¶
 　血湖鍊度往生疏　　　血湖鍊度拔亡疏¶
-¶	
+¶

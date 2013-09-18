@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶法燭經
 #+DATE: 2011-05-31 15:51:28
 #+PROPERTY: kxid KX041
-#+PROPERTY: title 太上洞玄靈寶法燭經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Fazhu Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0349
 #+PROPERTY: id JY042
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY042_01p074a>¶
 * 太上洞玄靈寶法燭經¶
 　法燭(法者規矩之謂總稱曰法規圓矩方萬物從之得正燭者有光之物佐月嗣日開昏朗闇用其明得有所見也)¶

@@ -2,14 +2,11 @@
 #+TITLE: 太上靈寶智慧觀身經
 #+DATE: 2011-05-31 15:51:28
 #+PROPERTY: kxid KX042
-#+PROPERTY: title 太上靈寶智慧觀身經
+#+PROPERTY: pinyin Taishang Lingbao Zhihui Guanshen Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0350
 #+PROPERTY: id JY043
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY043_01p081a>¶
 * 太上靈寶智慧觀身經¶
 靜觀眞人於思微中觀身實相深達智慧了見四大六種根識¶

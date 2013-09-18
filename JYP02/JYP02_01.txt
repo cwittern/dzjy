@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP02
-#+TITLE:
+#+TITLE:道藏輯要原序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP02_01p004a>¶
@@ -32,4 +32,4 @@
 言括三洞眞文之大凡可也於時萬靈雜遝羣眞蹈舞返虛合¶
 漠各抱眞元現七寶流珠湧九葉丹華遍覆靈都手持圖册各¶
 以所得流霞普散法界眩曜三辰流光萬域而退¶
-¶	
+¶

@@ -2,14 +2,11 @@
 #+TITLE: 甘水仙源錄
 #+DATE: 2011-11-02 11:12:18
 #+PROPERTY: kxid KX283
-#+PROPERTY: title 甘水仙源錄
+#+PROPERTY: pinyin Ganshui Xianyuan Lu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0973
 #+PROPERTY: id JY295
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY295_01p001a>¶
 * 甘水仙源錄序¶
 夫道家之學以祖述黃老而憲章莊列者也後之學者去聖逾¶

@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上紫微中天七元真經
+#+TITLE: 太上紫微中天七元眞經
 #+DATE: 2011-05-31 16:04:38
 #+PROPERTY: kxid KX129
-#+PROPERTY: title 太上紫微中天七元真經
+#+PROPERTY: pinyin Taishang Ziwei Zhongtian Qiyuan Zhenjing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1421
 #+PROPERTY: id JY128
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY128_01p084b>¶
 * 太上紫微中天七元眞經¶
 元始天尊演化諸天上皇之劫鎭治紫微中宫大會說法是時¶

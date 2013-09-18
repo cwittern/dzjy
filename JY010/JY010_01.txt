@@ -1,17 +1,15 @@
 #-*- mode: org; -*-
-#+TITLE: 太上昇玄說消災護命妙經註
+#+TITLE: 太上昇玄説消災護命妙經註
 #+DATE: 2011-05-27 18:43:33
+#+PROPERTY: pinyin Taishang Shengxuan Shuo Xiaozai Huming Miaojing Zhu
 #+PROPERTY: kxid KX009
 #+PROPERTY: title 太上昇玄說消災護命妙經註
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0100
 #+PROPERTY: id JY010
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY010_01p044a>¶
-* 太上昇玄說消災護命妙經註　　　　脩江混然子註¶
+* 太上昇玄說消災護命妙經註　　　　@by脩江混然子註¶
 　太者無也上者極也昇高也玄妙也說開化也消滅也災害¶
 　也護保也命身也妙玄之又玄也經心也徑也人人共行之¶
 　徑路也天尊言無極大道化生天地萬物之多無物不有其¶

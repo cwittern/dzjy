@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄寶元上經
 #+DATE: 2011-05-31 15:51:21
 #+PROPERTY: kxid KX030
-#+PROPERTY: title 太上洞玄寶元上經
+#+PROPERTY: pinyin Taishang Dongxuan Baoyuan Shangjing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0368
 #+PROPERTY: id JY031
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY031_01p033a>¶
 * 太上洞玄寶元上經¶
 　　(太上寶元上經一名源一妙訣又名自然經玉晨君所修五帝神旨祕大有之房傳旡上眞人也)¶

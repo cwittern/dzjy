@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 神功妙濟真君禮文
+#+TITLE: 神功妙濟眞君禮文
 #+DATE: 2011-11-02 11:10:52
 #+PROPERTY: kxid KX272
-#+PROPERTY: title 神功妙濟真君禮文
+#+PROPERTY: pinyin Shengong Miaoji Zhenjun Liwen
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0518
 #+PROPERTY: id JY284
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY284_01p100a>¶
 * 神功妙濟眞君禮文¶
 　　法事如式¶

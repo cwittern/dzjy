@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_07p009a>¶
 ** 重刋道藏輯要靈寶文檢凡例¶
 一　上九皇東極九宸諸天九天可稱臣餘下不必蓋九皇者¶
@@ -106,4 +105,4 @@
 <pb:CK-EX_JY265_07p013b>¶
 　　人須常常玩讀則臨事不致其悞可同歸於至善矣¶
 　　　　　　　　　　　　　芥子山房識¶
-¶	
+¶

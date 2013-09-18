@@ -1,16 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上道德真經章句訓頌
+#+TITLE: 太上道德眞經章句訓頌
 #+DATE: 2011-05-31 15:51:55
 #+PROPERTY: kxid KX047
-#+PROPERTY: title 太上道德真經章句訓頌
+#+PROPERTY: pinyin Taishang Daode Zhenjing Zhangju Xunsong
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0698
 #+PROPERTY: id JY048
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-<pb:CK-KZ_JY048_02p001a>¶
-#+PROPERTY: JUAN 001
 <pb:CK-KZ_JY048_02p001a>¶
 @fw重刊道藏輯要¶
 * 太上道德眞經章句訓頌¶
@@ -355,9 +351,6 @@
 　自有人人照見時(曰常爲而無爲曰功成不居不爲主不爲先曰柔曰靜曰復曰自然曰損又損是皆¶
 　一經本旨所以爲求道之方也五千言文意本相連貫河上公分爲八十一章其旨固自有所在然於中出乎强勉分析¶
 　不斷者亦可見讀者因其析以求其全則自悟入矣)¶
-　　
-#+PROPERTY: JUAN 002
-<pb:CK-KZ_JY048_02p014b>¶
 　　
 ** 上德不德章第三十八¶
 <pb:CK-KZ_JY048_02p015a>¶

@@ -2,14 +2,11 @@
 #+TITLE: 玄元十子圖
 #+DATE: 2011-11-02 11:11:00
 #+PROPERTY: kxid KX280
-#+PROPERTY: title 玄元十子圖
+#+PROPERTY: pinyin Xuanyuan Shizi Tu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0163
 #+PROPERTY: id JY292
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY292_01p089a>¶
 * 玄元十子圖序¶
 玄元十子筆墨高古長春路道通寓錢塘集眾緣刻之旣成以¶

@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC14
-#+TITLE:
+#+TITLE:汲古閣珍藏秘本道家書目
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC14_01p001a>¶
@@ -63,9 +63,9 @@
 　太陰通軌¶
 　易象通數¶
 　大六壬管氏神書¶
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
 汲古閣珍藏秘本道家書目終¶

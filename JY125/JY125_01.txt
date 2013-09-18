@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 洞真西王母寶神起居經
+#+TITLE: 洞眞西王母寶神起居經
 #+DATE: 2011-05-31 16:04:35
 #+PROPERTY: kxid KX126
-#+PROPERTY: title 洞真西王母寶神起居經
+#+PROPERTY: pinyin Dongzhen Xiwang Mu Baoshen Qiju Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1319
 #+PROPERTY: id JY125
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY125_01p022a>¶
 * 洞眞西王母寶神起居經¶
 夜卧覺旦將起常更又急閉兩目叩齒九通咽液三過畢反舌¶

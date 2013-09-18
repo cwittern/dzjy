@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 老子說五廚經註
+#+TITLE: 老子説五廚經註
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX059
-#+PROPERTY: title 老子說五廚經註
+#+PROPERTY: pinyin Laozi Shuo Wuchu Jing Zhu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0763
 #+PROPERTY: id JY062
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY062_01p041a>¶
 * 老子說五厨經序¶
 臣聞易曰精義入神以致用也利用安身以崇德也富哉言乎¶

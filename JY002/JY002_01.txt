@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上洞玄靈寶無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu
+#+TITLE: 太上洞玄靈寶無量度人上品妙經註
 #+DATE: 2011-05-27 18:42:34
 #+PROPERTY: kxid KX002
-#+PROPERTY: title 太上洞玄靈寶無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Wuliang Duren Shangpin Miaojing Zhu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0091
 #+PROPERTY: id JY002
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY002_01p001a>¶
 * 太上洞玄靈寳无量度人上品妙經註序¶
 太乙含眞氣實爲妙道仙宗靈寶度人經是謂洞玄上品生育¶

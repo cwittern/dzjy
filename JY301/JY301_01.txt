@@ -2,14 +2,11 @@
 #+TITLE: 金蓮正宗記
 #+DATE: 2011-11-02 11:14:50
 #+PROPERTY: kxid KX289
-#+PROPERTY: title 金蓮正宗記
+#+PROPERTY: pinyin Jinlian Zhengzong Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0173
 #+PROPERTY: id JY301
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY301_01p001a>¶
 * 金蓮正宗記序¶
 道無終始教有後先或曰道與教不同乎曰不同湛寂真常道¶

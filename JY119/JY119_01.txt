@@ -2,19 +2,15 @@
 #+TITLE: 黃帝陰符經頌
 #+DATE: 2011-05-31 16:01:55
 #+PROPERTY: kxid KX122
-#+PROPERTY: title 黃帝陰符經頌
+#+PROPERTY: pinyin Huangdi Yinfu Jing Song
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0311
 #+PROPERTY: id JY119
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY119_01p066a>¶
 * 黃帝陰符經¶
 　　　　　　　　　　　　　　　　　　@by元陽子頌¶
-　　
-** 神仙抱一演道章¶
+** 　　神仙抱一演道章¶
 觀天之道執天之行盡矣¶
 　　　在天垂象化元精　　　　至道沖和在杳冥¶
 　　　得一觀天無別行　　　　太陽元旨盡分明¶

@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP07
-#+TITLE:
+#+TITLE:雍正十一年二月十五日奉
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP07_01p001a>¶
@@ -71,4 +71,4 @@
 　武大臣官員當誠是朕旨加意護持出家修行人以大公同¶
 <pb:CK-KZ_JYP07_01p004a>¶
 　善之治特諭¶
-¶	
+¶

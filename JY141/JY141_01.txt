@@ -2,14 +2,11 @@
 #+TITLE: 參同契
 #+DATE: 2011-05-31 16:54:23
 #+PROPERTY: kxid KX142
-#+PROPERTY: title 參同契
+#+PROPERTY: pinyin Cantong Qi
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1007
 #+PROPERTY: id JY141
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY141_01p001a>¶
 * 參同契序¶
 夫物之成乎形象者久則必毀而乾坤不毀物之聚乎精華者¶

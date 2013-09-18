@@ -2,17 +2,14 @@
 #+TITLE: 西川青羊宮碑銘
 #+DATE: 2011-11-02 11:11:00
 #+PROPERTY: kxid KX279
-#+PROPERTY: title 西川青羊宮碑銘
+#+PROPERTY: pinyin Xichuan Qingyang Gong Beiming
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0964
 #+PROPERTY: id JY291
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY291_01p071a>¶
 * 西川青羊宮碑記¶
-　　　　　　(翰林學士承旨中大夫守尚書兵部侍郎知制誥上柱圖賜紫金魚袋樂朋龜撰)¶
+　　　　　　@by(翰林學士承旨中大夫守尚書兵部侍郎知制誥上柱圖賜紫金魚袋樂朋龜撰)¶
 原夫八十一天比太上之半壽六百萬歲當元始之初年道渺¶
 邈以難窮體希夷而莫究在無象無形之內居太初太易之前¶
 龍漢之劫再成鳳紀之文未立藏萌芽於浩素隱根榦於厖洪¶

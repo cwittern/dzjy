@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 洞真太上三元流珠經
+#+TITLE: 洞眞太上三元流珠經
 #+DATE: 2011-05-31 16:04:33
 #+PROPERTY: kxid KX124
-#+PROPERTY: title 洞真太上三元流珠經
+#+PROPERTY: pinyin Dongzhen Taishang Sanyuan Liuzhu Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1318
 #+PROPERTY: id JY123
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY123_01p001a>¶
 * 洞眞太上三元流珠經¶
 三元流珠經司命之所行其道妙大五經之尊受之用曰眞珠¶

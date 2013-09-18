@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC12
-#+TITLE:
+#+TITLE:漢魏叢書道家書目
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC12_01p001a>¶
@@ -51,10 +51,10 @@
 　述異記¶
 　陶洪景冥通記¶
 　　右係國朝學海堂本¶
-¶	
-¶	
-¶	
-¶	
-¶	
-¶	
+¶
+¶
+¶
+¶
+¶
+¶
 漢魏叢書道家書目終¶

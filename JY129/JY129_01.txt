@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 中天紫微星真寶懺
+#+TITLE: 中天紫微星眞寶懺
 #+DATE: 2011-05-31 16:04:38
 #+PROPERTY: kxid KX130
-#+PROPERTY: title 中天紫微星真寶懺
+#+PROPERTY: pinyin Zhongtian Ziwei Xingzhen Baochan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1450
 #+PROPERTY: id JY129
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY129_01p087a>¶
 * 中天紫微星眞寶懴¶
 伏以乾坤大德廣覆載於羣生日月光明普照臨於萬彙凡伸¶

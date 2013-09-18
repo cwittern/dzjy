@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP16
-#+TITLE:
+#+TITLE:校勘道藏輯要書後
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP16_01p017a>¶
@@ -57,4 +57,4 @@
 心非心始契妙心驤尤願讀是書者先滌我心以正人心回天¶
 心俾大千世界一切含靈默護¶
 天朝則驤之厚幸也時光緒丙午秋井研賀龍驤書後¶
-¶	
+¶

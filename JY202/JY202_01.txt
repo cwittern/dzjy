@@ -1,18 +1,14 @@
 #-*- mode: org; -*-
-#+TITLE: 丹陽真人語錄
+#+TITLE: 丹陽眞人語錄
 #+DATE: 2011-11-02 10:43:59
 #+PROPERTY: kxid KX200
-#+PROPERTY: title 丹陽真人語錄
+#+PROPERTY: pinyin Danyang Zhenren Yulu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1057
 #+PROPERTY: id JY202
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY202_01p096a>¶
-　
-* 丹陽眞人語錄¶
+* 　丹陽眞人語錄¶
 　　　　　　　　　　　　　　　@by靈隱子王頥中集¶
 大定癸卯三月間始拜師於牟平范明叔庵之南師曰汝從何¶
 而來僕對曰來自東武仰師之德不以貨財爲富恬然自得坐¶

@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上說中斗大魁保命妙經
+#+TITLE: 太上説中斗大魁保命妙經
 #+DATE: 2011-05-31 16:01:39
 #+PROPERTY: kxid KX110
-#+PROPERTY: title 太上說中斗大魁保命妙經
+#+PROPERTY: pinyin Taishang Shuo Zhongdou Dakui Baoming Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0627
 #+PROPERTY: id JY107
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY107_01p018a>¶
 * 太上說中斗大魁保命妙經¶
 爾時泰淸仙境太上老君於永夀年中與徵土張眞人屢慶會¶

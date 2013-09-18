@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP10
-#+TITLE:
+#+TITLE:世宗憲皇帝御選雲棲蓮池宏袾大師語錄序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP10_01p009a>¶
@@ -28,4 +28,4 @@
 <pb:CK-KZ_JYP10_01p010a>¶
 見佛豈不是直指心傳也耶是爲序¶
 雍正十一年癸丑八月望日御筆¶
-¶	
+¶

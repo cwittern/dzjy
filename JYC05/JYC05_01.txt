@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC05
-#+TITLE:
+#+TITLE:女丹合編通俗序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC05_01p057a>¶
@@ -108,4 +108,4 @@
 上朝王母下度眾生吾想蟠桃會上當不讓男仙獨出其右女¶
 流勉之予日望之牧語𧄍歌用通俗眼識者鑒諒幸勿哂焉時¶
 光緒乙已秋井研賀龍驤序¶
-¶	
+¶

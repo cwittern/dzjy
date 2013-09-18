@@ -2,14 +2,11 @@
 #+TITLE: 太極葛仙公傳
 #+DATE: 2011-05-31 16:54:16
 #+PROPERTY: kxid KX139
-#+PROPERTY: title 太極葛仙公傳
+#+PROPERTY: pinyin Taiji Ge Xiangong Zhuan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0450
 #+PROPERTY: id JY138
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY138_01p054a>¶
 * 太極仙公傳序¶
 仙道尚矣繇神農氏雨師而來代有人焉至周老氏以清靜無¶

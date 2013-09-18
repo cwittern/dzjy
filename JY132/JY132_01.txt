@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 南華真經註疏
+#+TITLE: 南華眞經註疏
 #+DATE: 2011-05-31 16:19:54
 #+PROPERTY: kxid KX133
-#+PROPERTY: title 南華真經註疏
+#+PROPERTY: pinyin Nanhua Zhenjing Zhushu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0745
 #+PROPERTY: id JY132
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY132_01p001a>¶
 * 南華眞經注序¶
 夫莊子者可謂知本矣故未始藏其狂言言雖无會而獨應者¶

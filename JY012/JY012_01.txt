@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 元始天尊說得道了身經
+#+TITLE: 元始天尊説得道了身經
 #+DATE: 2011-05-27 18:43:33
 #+PROPERTY: kxid KX011
-#+PROPERTY: title 元始天尊說得道了身經
+#+PROPERTY: pinyin Yuanshi Tianzun Shuo Dedao Liaoshen Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0025
 #+PROPERTY: id JY012
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY012_01p053a>¶
 * 元始天尊說得道了身經¶
 爾時¶

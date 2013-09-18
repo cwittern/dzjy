@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP12
-#+TITLE:
+#+TITLE:世宗憲皇帝御選當今法會王大臣八人錄后
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP12_01p013a>¶
@@ -21,4 +21,4 @@
 海會寺方丈僧超盛如川¶
 覺生寺文覺禪師元信雪鴻¶
 妙正眞人婁近坦三臣(道)¶
-¶	
+¶

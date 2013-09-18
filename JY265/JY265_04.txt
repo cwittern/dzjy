@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_04p004a>¶
 * 序¶
 祈禱之舉自古有之然其所憑藉者疏意也蓋意不極其懇誠¶
@@ -18,4 +17,4 @@
 <pb:CK-EX_JY265_04p004b>¶
 　時¶
 道光庚子𡻕端月九峰戴鳴蚵拜跋同里王敬賢拜書¶
-¶	
+¶

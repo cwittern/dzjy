@@ -2,14 +2,11 @@
 #+TITLE: 太上洞玄靈寶出家因緣經
 #+DATE: 2011-05-31 15:51:28
 #+PROPERTY: kxid KX040
-#+PROPERTY: title 太上洞玄靈寶出家因緣經
+#+PROPERTY: pinyin Taishang Dongxuan Lingbao Chujia Yinyuan Jing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0339
 #+PROPERTY: id JY041
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY041_01p060a>¶
 * 太上洞玄靈寶出家因緣經¶
 道言昔開皇元年七月十五日午時於赤明國朱陽上觀三明¶

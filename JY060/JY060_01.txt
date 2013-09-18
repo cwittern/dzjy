@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太上老君內日用妙經
+#+TITLE: 太上老君内日用妙經
 #+DATE: 2011-05-31 15:53:25
 #+PROPERTY: kxid KX057
-#+PROPERTY: title 太上老君內日用妙經
+#+PROPERTY: pinyin Taishang Laojun Nei Riyong Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0645
 #+PROPERTY: id JY060
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY060_01p039a>¶
 * 太上老君內日用妙經¶
 夫日用者飲食則定禁口獨坐莫起一念萬事俱忘存神定意¶

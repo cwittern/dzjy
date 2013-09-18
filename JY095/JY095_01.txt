@@ -2,14 +2,11 @@
 #+TITLE: 胎息經註
 #+DATE: 2011-05-31 16:01:37
 #+PROPERTY: kxid KX091
-#+PROPERTY: title 胎息經註
+#+PROPERTY: pinyin Taixi Jing Zhu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0130
 #+PROPERTY: id JY095
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY095_01p036a>¶
 * 胎息經註　　　　　　　　　　　　　@by幻眞先生註¶
 胎從伏氣中結¶

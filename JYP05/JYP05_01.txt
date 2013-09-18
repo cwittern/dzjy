@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP05
-#+TITLE:
+#+TITLE:道藏輯要原序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP05_01p009a>¶
@@ -52,4 +52,4 @@
 精窺九轉八還之妙則此編非性命之全功天仙之大乘也哉¶
 然則此一藏也謂之天藏也地藏也華藏也而其實則吾道之¶
 秘密藏也至哉道乎是爲序大羅領班蘇題¶
-¶	
+¶

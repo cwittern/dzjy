@@ -3,7 +3,6 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_03p003a>¶
 * 重刋道藏輯要靈寶文檢跋卷之一¶
 請禱之舉見於魯論禬磔之文垂諸周禮竊謂先王藉神道以¶
@@ -22,4 +21,4 @@
 外哉是則¶
 公之得斯而傅斯也其亦信人以信神之深意也夫¶
 道光庚子秋象山維雲裳拜跋¶
-¶	
+¶

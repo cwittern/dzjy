@@ -3,12 +3,11 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_34p001a>¶
 * 道藏輯要靈寶文檢卷十三¶
 　　目錄¶
 　亡齋符命門類¶
-¶	
+¶
 水火鍊度水鍊符　　　　丹陽鍊度符¶
 化陰符　　　　　　　　生腎符¶
 三景符　　　　　　　　生心符¶

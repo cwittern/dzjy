@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP13
-#+TITLE:
+#+TITLE:世宗憲皇帝御製三教語錄總序
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP13_01p014a>¶
@@ -18,4 +18,4 @@
 以無疑於三教並行不悖之說爰附及於此使天下後世眞實¶
 究竟性理之人屏去畛域廣大識見朕實有厚望焉¶
 雍正十一年壬子臘月八日御筆¶
-¶	
+¶

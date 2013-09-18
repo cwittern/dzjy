@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYC21
-#+TITLE:
+#+TITLE:文獻通攷道術家書目
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYC21_01p050a>¶
@@ -495,4 +495,4 @@
 採藥得之乃傳於世¶
 相貝經一卷　陳氏曰不知作者¶
 師曠禽經一卷　陳氏曰稱張華注　右形法¶
-¶	
+¶

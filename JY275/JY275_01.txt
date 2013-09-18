@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 太極真人說二十四門戒經
+#+TITLE: 太極眞人説二十四門戒經
 #+DATE: 2011-11-02 11:07:25
 #+PROPERTY: kxid KX263
-#+PROPERTY: title 太極真人說二十四門戒經
+#+PROPERTY: pinyin Taiji Zhenren Shuo Ershisi Men Jiejing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0183
 #+PROPERTY: id JY275
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY275_01p075a>¶
 * 太極眞人說二十四門戒經¶
 爾時¶

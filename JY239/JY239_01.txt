@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 洞玄靈寶真靈位業圖
+#+TITLE: 洞玄靈寶眞靈位業圖
 #+DATE: 2011-11-02 11:04:18
 #+PROPERTY: kxid KX235
-#+PROPERTY: title 洞玄靈寶真靈位業圖
+#+PROPERTY: pinyin Dongxuan Lingbao Zhenling Weiye Tu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0167
 #+PROPERTY: id JY239
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY239_01p001a>¶
 * 洞玄靈寶眞靈位業圖序¶
 夫仰鏡玄精覩景耀之巨細俯眄平區見巖海之崇深搜訪人¶

@@ -2,14 +2,11 @@
 #+TITLE: 洞天福地嶽瀆名山記
 #+DATE: 2011-11-02 11:14:53
 #+PROPERTY: kxid KX292
-#+PROPERTY: title 洞天福地嶽瀆名山記
+#+PROPERTY: pinyin Dongtian Fudi Yuedu Mingshan Ji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0599
 #+PROPERTY: id JY304
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY304_01p001a>¶
 * 洞天福地嶽瀆名山記序¶
 乾坤旣闢清濁肇分融爲江河結爲山嶽或上配辰宿或下藏¶

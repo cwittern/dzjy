@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 盤山棲雲王真人語錄
+#+TITLE: 盤山棲雲王眞人語錄
 #+DATE: 2011-11-02 10:48:12
 #+PROPERTY: kxid KX226
-#+PROPERTY: title 盤山棲雲王真人語錄
+#+PROPERTY: pinyin Panshan Qiyun Wang Zhenren Yulu
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1059
 #+PROPERTY: id JY229
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY229_01p047a>¶
 * 盤山棲雲王眞人語錄序¶
 夫瞽者無以預乎青黃之色聾者無以預乎管籥之音豈唯形¶
@@ -33,8 +30,7 @@
 ¶
 ¶
 <pb:CK-KZ_JY229_01p048a>¶
-　
-* 盤山棲雲王眞人語錄¶
+* 　盤山棲雲王眞人語錄¶
 　　　　　　　　　　　　　　　@by門人論志煥編次¶
 時師在盤山普說云大凢初機學道之人若便向言不得處理¶
 會無着落没依倚必生疑惑爲心上没工夫便信不及信不及¶

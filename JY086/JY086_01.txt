@@ -2,14 +2,11 @@
 #+TITLE: 混元聖紀
 #+DATE: 2011-05-31 15:59:34
 #+PROPERTY: kxid KX082
-#+PROPERTY: title 混元聖紀
+#+PROPERTY: pinyin Hunyuan Shengji
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0770
 #+PROPERTY: id JY086
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY086_01p001a>¶
 @fw重刋道藏輯要¶
 * 混元聖紀序¶

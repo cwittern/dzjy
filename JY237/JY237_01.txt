@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 真誥
+#+TITLE: 眞誥
 #+DATE: 2011-11-02 10:52:03
 #+PROPERTY: kxid KX233
-#+PROPERTY: title 真誥
+#+PROPERTY: pinyin Zhengao
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ1016
 #+PROPERTY: id JY237
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY237_01p001a>¶
 * 眞誥敘¶
 誥者告也書有湯誥洛誥諸篇孔安國云誥以大義告乎天下¶

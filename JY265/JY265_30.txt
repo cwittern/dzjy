@@ -3,12 +3,11 @@
 #+TITLE:靈寶文檢 Lingbao Wenjian
 #+WITNESS: CK-EX JYE
 #+BASEEDITION: CK-EX
-#+PROPERTY: JUAN txt
 <pb:CK-EX_JY265_30p001a>¶
 * 道藏輯要靈寶文檢巻十一¶
 　　目錄¶
 　　陽醮符命門類¶
-¶	
+¶
 化壇符　　　　　　　玉淸惠光符¶
 上淸惠光符　　　　　太淸惠光符¶
 昊天符　　　　　　　召陽眞符¶
@@ -56,4 +55,7 @@
 謝火鎭宅符　　　　　　五雷鎭宅符¶
 天蓬尺符　(二道)　　　　上下篆生殺　(二道)¶
 敕令符¶
-¶	
+¶
+¶
+¶
+<pb:CK-EX_JY265_30p003b>¶

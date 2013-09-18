@@ -1,11 +1,12 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JY243
-#+TITLE:玉詮 Yuquan
+#+TITLE:玉詮
+#+PROPERTY: pinyin Yuquan
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JY243_04p001a>¶
-@fw1重刋道藏輯要¶
-* 　玉詮卷三目錄¶
+@fw重刋道藏輯要¶
+　玉詮卷三目錄¶
 　　八大金神¶
 　　四大天君¶
 　　白大天君¶

@@ -2,17 +2,13 @@
 #+TITLE: 太上靈寶朝天謝罪法懺
 #+DATE: 2011-11-02 11:04:51
 #+PROPERTY: kxid KX242
-#+PROPERTY: title 太上靈寶朝天謝罪法懺
+#+PROPERTY: pinyin Taishang Lingbao Chaotian Xiezui Fachan
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0189
 #+PROPERTY: id JY248
-#+PROPERTY: JUAN 1
-#+PROPERTY: JUAN 005
 <pb:CK-KZ_JY248_06p001a>¶
-#+PROPERTY: JUAN 006
-<pb:CK-KZ_JY248_06p001a>¶
-** 太上靈寶朝天謝罪法懴卷六¶
+* 太上靈寶朝天謝罪法懴卷六¶
 爾時¶
 元始上帝在大羅天宮黃金殿內七寶幃中大顯威神祥光輝¶
 爍照曜天地眞仙侍衛無鞅數眾建節捧香羅列左右步虛旋¶

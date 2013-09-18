@@ -1,15 +1,12 @@
 #-*- mode: org; -*-
-#+TITLE: 元始說先天道德經註解
+#+TITLE: 元始説先天道德經註解
 #+DATE: 2011-05-27 18:43:27
 #+PROPERTY: kxid KX005
-#+PROPERTY: title 元始說先天道德經註解
+#+PROPERTY: pinyin Yuanshi Shuo Xiantian Daode Jing Zhujie
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0003
 #+PROPERTY: id JY005
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY005_01p001a>¶
 * 元始說先天道德經註解序¶
 此經故宋息齋先生李君嘉謀隨章爲之解板行西蜀蓋有年¶

@@ -2,14 +2,11 @@
 #+TITLE: 太一救苦護身妙經
 #+DATE: 2011-05-31 15:51:28
 #+PROPERTY: kxid KX043
-#+PROPERTY: title 太一救苦護身妙經
+#+PROPERTY: pinyin Taiyi Jiuku Hushen Miaojing
 #+PROPERTY: baseedition CK-KZ
 #+PROPERTY: source 重刊道臧輯要考正版
 #+PROPERTY: dz DZ0351
 #+PROPERTY: id JY044
-#+PROPERTY: JUAN 0
-#+PROPERTY: JUAN 000
-#+PROPERTY: JUAN 000
 <pb:CK-KZ_JY044_01p082a>¶
 * 太一救苦護身妙經¶
 爾時¶

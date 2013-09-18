@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP03
-#+TITLE:
+#+TITLE:觀音大士弁言
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP03_01p006a>¶
@@ -19,4 +19,4 @@
 者窺莫旣要使大乘明先解大覺義寂寂湛湛天了了明明地¶
 窺半生滅生得全生滅棄而無生滅心乃斷生死際玄空㫖並¶
 參待許解人智離智眞解忘得意象言外¶
-¶	
+¶

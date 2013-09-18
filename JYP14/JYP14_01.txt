@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+EXPORT_ID: JYP14
-#+TITLE:
+#+TITLE:重刋道藏輯要緣起
 #+WITNESS: YP JYE
 #+BASEEDITION: CK-KZ
 <pb:CK-KZ_JYP14_01p015a>¶
