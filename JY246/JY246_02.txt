@@ -1,51 +1,55 @@
 #-*- mode: org; -*-
-#+EXPORT_ID: JY246
-#+TITLE:懺法大觀
-#+PROPERTY: pinyin Chanfa Daguan
-#+WITNESS: JYE CK-KZ
-#+BASEEDITION: JYE
-<pb:CK-KZ_JY246_02p001a>¶
-@fw重刋道藏輯要¶
-　懴法大觀目錄¶
-　　卷一¶
+#+DATE: 2012-11-16 14:41:22
+#+PROPERTY: BASEEDITION YP
+#+TITLE:懺法大觀 Chanfa Daguan
+#+PROPERTY: EXPORT_ID JY246
+#+PROPERTY: WITNESS JYE CK-KZ
+#+PROPERTY: JUAN 2
+#<md:CK-KZ_JY246_02p001a>¶
+<pb:YP-C_JY246_24liuji-01-0006a>¶
+@fw1道藏輯要¶
+* 　懴法大觀目錄¶
+　　巻一¶
 紫府玄祖法懴¶
-玉淸天寶法懴¶
-上淸靈寶法懴¶
-太淸神寶法懴¶
+玉清天寶法懴¶
+上清靈寶法懴¶
+太清神寶法懴¶
 太上老君專懴¶
 東華木父寶懴¶
 西華金母寶懴¶
-<pb:CK-KZ_JY246_02p001b>¶
-　　卷二¶
+#<md:CK-KZ_JY246_02p001b>¶
+<pb:YP-C_JY246_24liuji-01-0006b>¶
+　　巻二¶
 玉皇上帝寶懴¶
 后土上帝寶懴¶
 三光普照寶懴¶
-　　卷三¶
+　　巻三¶
 大梵斗姥心懴¶
 碧落慈航寶懴¶
 太乙救苦寶懴¶
 天官賜福寶懴¶
 地官赦罪寶懴¶
-<pb:CK-KZ_JY246_02p002a>¶
+#<md:CK-KZ_JY246_02p002a>¶
+<pb:YP-C_JY246_24liuji-01-0007a>¶
 水官解厄寶懴¶
-　　卷四¶
+　　巻四¶
 九天雷祖法懴¶
 北極蕩魔寶懴¶
 至德𡻕君法懴¶
 東嶽聖帝法懴¶
-　　卷五¶
+　　巻五¶
 文帝元皇寶懴¶
 吕帝無極寶懴¶
 關帝忠武寶懴¶
-<pb:CK-KZ_JY246_02p002b>¶
+#<md:CK-KZ_JY246_02p002b>¶
+<pb:YP-C_JY246_24liuji-01-0007b>¶
 大羅八洞寶懴¶
 玉京四相寶懴¶
 祖眞傳薪心懴¶
-　　卷六¶
+　　巻六¶
 大羅領班寶懴¶
 三茅眞君法懴¶
 旻天收瘟寶懴¶
 水府護國寶懴¶
 水官錫福寶懴¶
 天醫濟世寶懴¶
-¶

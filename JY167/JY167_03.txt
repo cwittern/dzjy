@@ -1,21 +1,25 @@
 #-*- mode: org; -*-
-#+EXPORT_ID: JY167
-#+TITLE:易説
-#+PROPERTY: pinyin Yishuo
-#+WITNESS: JYE CK-KZ
-#+BASEEDITION: YP
-<pb:CK-KZ_JY167_03p001a>¶
-@fw重刋道藏輯要¶
+#+DATE: 2012-11-16 14:35:17
+#+TITLE:易說 Yishuo
+#+PROPERTY: BASEEDITION YP
+#+PROPERTY: EXPORT_ID JY167
+#+PROPERTY: WITNESS JYE CK-KZ
+#+PROPERTY: JUAN 3
+#<md:CK-KZ_JY167_03p001a>¶
+<pb:YP-C_JY167_14biji-01-0005a>¶
+@fw1重刋道藏輯要¶
 * 　易說¶
-@by孚佑上帝純陽吕祖天師著¶
-　圖解目錄¶
+孚佑上帝純陽吕祖天師著¶
+
+* 　圖解目錄¶
 　　河圖元圖¶
 　　洛書元圖¶
 　　先天混極圖解¶
 　　先天元極圖解¶
 　　先天靈極圖解¶
 　　先天太極圖解¶
-<pb:CK-KZ_JY167_03p001b>¶
+#<md:CK-KZ_JY167_03p001b>¶
+<pb:YP-C_JY167_14biji-01-0005b>¶
 　　中極動靜圖解¶
 　　少極變化圖解¶
 　　太陽圖解¶
@@ -26,7 +30,8 @@
 　　後天八卦合河圖數圖解¶
 　　陽奇圖解¶
 　　陰偶圖解¶
-<pb:CK-KZ_JY167_03p002a>¶
+#<md:CK-KZ_JY167_03p002a>¶
+<pb:YP-C_JY167_14biji-01-0006a>¶
 　　兩儀生四象四象生八卦圖解¶
 　　乾坤闔闢圖解¶
 　　伏羲則河圖以作大易圖解¶
@@ -37,7 +42,8 @@
 　　六十四卦方圓圖解¶
 　　六十四卦剛柔相摩圖解¶
 　　六十四卦分配節氣圖解¶
-<pb:CK-KZ_JY167_03p002b>¶
+#<md:CK-KZ_JY167_03p002b>¶
+<pb:YP-C_JY167_14biji-01-0006b>¶
 　　陰陽律吕生生圖解¶
 　　三分損益圖解¶
 　　天根月窟圖解¶

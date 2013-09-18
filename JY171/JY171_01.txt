@@ -1,12 +1,14 @@
 #-*- mode: org; -*-
-#+EXPORT_ID: JY171
-#+TITLE:天仙金丹心法
-#+PROPERTY: pinyin Tianxian Jindan Xinfa
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
-<pb:CK-KZ_JY171_01p001a>¶
-@fw重刋道藏輯要¶
-金丹心法目錄¶
+#+DATE: 2012-11-16 14:35:45
+#+PROPERTY: BASEEDITION YP
+#+TITLE:天仙金丹心法 Tianxian Jindan Xinfa
+#+PROPERTY: EXPORT_ID JY171
+#+PROPERTY: WITNESS CK-KZ JYE
+#+PROPERTY: JUAN 1
+#<md:CK-KZ_JY171_01p001a>¶
+<pb:YP-C_JY171_14biji-06-0001a>¶
+@fw1重刋道藏輯要¶
+* 　金丹心法目錄¶
 　　第一立志¶
 　　第二端品¶
 　　第三悔過¶
@@ -15,7 +17,8 @@
 　　第六煉已¶
 　　第七安爐¶
 　　第八採藥下¶
-<pb:CK-KZ_JY171_01p001b>¶
+#<md:CK-KZ_JY171_01p001b>¶
+<pb:YP-C_JY171_14biji-06-0001b>¶
 　　第九起火¶
 　　第十息火¶
 　　第十一結胎¶
@@ -23,5 +26,5 @@
 　　第十三積行¶
 　　第十四行功¶
 　　第十五面壁¶
-　　第十六飛昇（YP_Zは無し）¶
+　　第十六飛昇¶
 ¶

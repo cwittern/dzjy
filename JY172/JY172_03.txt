@@ -1,22 +1,29 @@
 #-*- mode: org; -*-
-#+EXPORT_ID: JY172
-#+TITLE:東園語錄
-#+PROPERTY: pinyin Dongyuan Yulu
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
+#+DATE: 2012-11-16 14:35:48
+#+PROPERTY: TITLE:東園語 Dongyuan Yulu
+#+PROPERTY: BASEEDITION YP
+#+PROPERTY: EXPORT_ID JY172
+#+PROPERTY: WITNESS CK-KZ JYE
+#+PROPERTY: JUAN 3
+#+PROPERTY: LASTPB  <pb:CK-KZ_JY172_02p009b>
+<pb:CK-KZ_JY172_02p009b>¶
+	
 <pb:CK-KZ_JY172_03p001a>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p001b>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p002a>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p002b>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p003a>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p003b>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p004a>¶
-¶
+¶	
 <pb:CK-KZ_JY172_03p004b>¶
+¶	
+<pb:CK-KZ_JY172_04p001a>¶
+@fw1序¶
 ¶

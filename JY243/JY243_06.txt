@@ -1,13 +1,21 @@
 #-*- mode: org; -*-
-#+EXPORT_ID: JY243
+#+DATE: 2012-11-16 14:40:15
+#+PROPERTY: BASEEDITION YP
 #+TITLE:玉詮 Yuquan
-#+WITNESS: CK-KZ JYE
-#+BASEEDITION: YP
-<pb:CK-KZ_JY243_06p001a>¶
-@fw1重刋道藏輯要¶
+#+PROPERTY: EXPORT_ID JY243
+#+PROPERTY: WITNESS CK-KZ JYE
+#+PROPERTY: JUAN 6
+#<md:CK-KZ_JY243_06p001a>¶
+<pb:YP-C_JY243_23guiji-04-0002a>¶
+@fw1道藏輯要¶
 * 　玉詮卷之四目錄¶
 　劉大天君¶
 　朱大天君¶
 　王大天君¶
 　關大天君¶
 ¶
+¶
+¶
+¶
+#<md:CK-KZ_JY243_06p001b>¶
+<pb:YP-C_JY243_23guiji-04-0002b>¶
